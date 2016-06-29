@@ -1,4 +1,4 @@
-Contribution and suggestions are welcome! Please ensure your pull request adheres to the following guidelines:
+Contribution and suggestions are welcome! Simply fork this repository, make a change, and submit a pull request.  Please ensure your pull request adheres to the following guidelines:
 
 - This is an open source compilation, please check that the license of the software is suitable.
 - Please search previous suggestions before making a new one, as yours may be a duplicate.

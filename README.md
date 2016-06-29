@@ -4,7 +4,6 @@ List of software packages for single-cell data analysis, including RNA-seq, ATAC
 
 ## Software packages
 
-### RNA-seq
 - [Monocle](http://cole-trapnell-lab.github.io/monocle-release/) - [R] - Differential expression and time-series analysis for single-cell RNA-Seq.
 - [MAST](https://github.com/RGLab/MAST) - [R] - Model-based Analysis of Single-cell Transcriptomics
 (MAST) fits a two-part, generalized linear models that are specially adapted for bimodal and/or zero-inflated single cell gene expression data.
@@ -13,8 +12,6 @@ List of software packages for single-cell data analysis, including RNA-seq, ATAC
 - [slingshot](https://github.com/kstreet13/slingshot) - [R] - Functions for identifying and characterizing continuous developmental trajectories in single-cell sequencing data.
 
 ## Tutorials and workflows
-
-### RNA-seq
  
-- [Bioconductor2016 Single-cell-sequencing workshop by Sandrine Dudoit lab](https://github.com/drisso/bioc2016singlecell)
+- [Bioconductor2016 Single-cell-RNA-sequencing workshop by Sandrine Dudoit lab](https://github.com/drisso/bioc2016singlecell)
 - [Hemberg Lab scRNA-seq course materials](http://hemberg-lab.github.io/scRNA.seq.course/index.html)

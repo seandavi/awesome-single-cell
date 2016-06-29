@@ -1,5 +1,6 @@
 # awesome-single-cell
-List of software packages for single-cell data analysis, including RNA-seq, ATAC-seq, etc.
+
+List of software packages for single-cell data analysis, including RNA-seq, ATAC-seq, etc. [Contributions welcome!](https://github.com/seandavi/awesome-single-cell/blob/master/CONTRIBUTE.md).
 
 ## Software packages
 

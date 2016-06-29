@@ -17,3 +17,4 @@ List of software packages for single-cell data analysis, including RNA-seq, ATAC
 ### RNA-seq
  
 - [Bioconductor2016 Single-cell-sequencing workshop by Sandrine Dudoit lab](https://github.com/drisso/bioc2016singlecell)
+- [Hemberg Lab scRNA-seq course materials](http://hemberg-lab.github.io/scRNA.seq.course/index.html)

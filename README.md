@@ -23,6 +23,7 @@ List of software packages for single-cell data analysis, including RNA-seq, ATAC
 - [slingshot](https://github.com/kstreet13/slingshot) - [R] - Functions for identifying and characterizing continuous developmental trajectories in single-cell sequencing data.
 - [SPADE](http://www.nature.com/nprot/journal/v11/n7/full/nprot.2016.066.html) - [R] - Visualization and cellular hierarchy inference of single-cell data using SPADE.
 - [TSCAN](https://github.com/zji90/TSCAN) - [R] - Pseudo-time reconstruction and evaluation in single-cell RNA-seq analysis.
+- [ZIFA](https://github.com/epierson9/ZIFA) - [python] - Zero-inflated dimensionality reduction algorithm for single-cell data.
 
 ## Tutorials and workflows
  

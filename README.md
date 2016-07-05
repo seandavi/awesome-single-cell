@@ -30,4 +30,6 @@ List of software packages for single-cell data analysis, including RNA-seq, ATAC
 - [Bioconductor2016 Single-cell-RNA-sequencing workshop by Sandrine Dudoit lab](https://github.com/drisso/bioc2016singlecell) - [R] - SCONE, clusterExperiment, and slingshot tutorial.
 - [BiomedCentral Single Cell Omics collectin](http://www.biomedcentral.com/collections/singlecellomics) - collection of papers describing techniques for single-cell analysis and protocols.
 - [Hemberg Lab scRNA-seq course materials](http://hemberg-lab.github.io/scRNA.seq.course/index.html) 
+- [Using Seurat for unsupervised clustering and biomarker discovery](http://www.satijalab.org/seurat-intro.html) - 301 single cells across diverse tissues from (Pollen et al., Nature Biotechnology, 2014)
+- [Using Seurat for spatial inference in single-cell data](http://www.satijalab.org/seurat-intro.html) - 851 single cells from Zebrafish embryogenesis (Satija*, Farrell* et al., Nature Biotechnology, 2015)
 

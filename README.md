@@ -32,6 +32,10 @@ List of software packages for single-cell data analysis, including RNA-seq, ATAC
 - [SPADE](http://www.nature.com/nprot/journal/v11/n7/full/nprot.2016.066.html) - [R] - Visualization and cellular hierarchy inference of single-cell data using SPADE.
 - [TSCAN](https://github.com/zji90/TSCAN) - [R] - Pseudo-time reconstruction and evaluation in single-cell RNA-seq analysis.
 
+### Copy number analysis
+
+- [Gingko](https://github.com/robertaboukhalil/ginkgo) - [web-based] - Gingko is a cloud-based single-cell copy-number variation analysis tool.
+
 ## Tutorials and workflows
  
 - [Aaron Lun's Single Cell workflow on Bioconductor](http://bioconductor.org/help/workflows/simpleSingleCell/) - [R] - This article describes a computational workflow for basic analysis of scRNA-seq data using software packages from the open-source Bioconductor project.

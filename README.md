@@ -34,7 +34,7 @@ List of software packages for single-cell data analysis, including RNA-seq, ATAC
 
 ### Copy number analysis
 
-- [Gingko](https://github.com/robertaboukhalil/ginkgo) - [web-based] - Gingko is a cloud-based single-cell copy-number variation analysis tool.
+- [Gingko](https://github.com/robertaboukhalil/ginkgo) - [R, C] - Gingko is a cloud-based web app single-cell copy-number variation analysis tool.
 
 ## Tutorials and workflows
  

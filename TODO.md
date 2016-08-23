@@ -1,12 +1,6 @@
 # STUFF FOR ME TO ADD
 
 
-Comparative analysis of methods: http://biorxiv.org/content/early/2016/01/05/035758
-
-Review of experimental design and analysis: http://genomebiology.biomedcentral.com/articles/10.1186/s13059-016-0927-y
-
-QC: http://www.morgridge.net/SinQC.html
-
 # Normalization
 
 http://michelebusby.tumblr.com/post/130202229486/the-ks-test-looks-pretty-good-for-single-cell

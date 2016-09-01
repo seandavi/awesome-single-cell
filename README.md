@@ -1,6 +1,6 @@
 # awesome-single-cell
 
-List of software packages for single-cell data analysis, including RNA-seq, ATAC-seq, etc. [Contributions welcome](https://github.com/seandavi/awesome-single-cell/blob/master/CONTRIBUTE.md)...
+List of software packages (and the people developing these methods) for single-cell data analysis, including RNA-seq, ATAC-seq, etc. [Contributions welcome](https://github.com/seandavi/awesome-single-cell/blob/master/CONTRIBUTE.md)...
 
 ## Software packages
 
@@ -78,4 +78,28 @@ List of software packages for single-cell data analysis, including RNA-seq, ATAC
 
 - [CrazyHotTommy's RNA-seq analysis list](https://github.com/crazyhottommy/RNA-seq-analysis#single-cell-rna-seq) - Very broad list that includes some single cell RNA-seq packages and papers.
 
+## People
 
+Gender bias at conferences is a well known problem ([http://www.sciencemag.org/careers/2015/07/countering-gender-bias-conferences](http://www.sciencemag.org/careers/2015/07/countering-gender-bias-conferences)). Creating a list of potential speakers can help mitigate this bias and a community of people developing and maintaining helps to further diversify this list beyond smaller networks. 
+
+### Female
+
+- [Christina Kendziorski (University of Wisconsin–Madison, USA)](https://www.biostat.wisc.edu/~kendzior/) 
+- [Sandrine Dudoit (UC Berkeley, USA)](http://www.stat.berkeley.edu/~sandrine/)
+- [Keegan Korthauer (Dana Farber Cancer Institute, USA)](http://bcb.dfci.harvard.edu/~keegan/)
+- [Stephanie Hicks (Dana Farber Cancer Institute, USA)](http://www.stephaniehicks.com/)
+- [Dana Pe'er (Columbia University, USA](http://www.c2b2.columbia.edu/danapeerlab/html/)
+- [Aviv Regev (Broad Institute, USA)](https://www.broadinstitute.org/scientific-community/science/core-faculty-labs/regev-lab/regev-lab-home)
+- [Catalina Vallejos (MRC Biostatistics Unit and EMBL-EBI, UK)](http://www.mrc-bsu.cam.ac.uk/people/in-alphabetical-order/t-to-z/catalina-vallejos-menesses/)
+- [Sarah Teichmann (Wellcome Trust Sanger Institute, UK)](http://www.teichlab.org/)
+- [Emma Pierson (Stanford University, USA)](http://cs.stanford.edu/people/emmap1/)
+- [Ning Leng (Morgridge Institute for Research, USA)](https://www.biostat.wisc.edu/~ningleng/)
+- [Laleh Haghverdi (Institute of Computational Biology, USA)](https://www.helmholtz-muenchen.de/icb/institute/staff/staff/ma/2453/-Haghverdi/index.html)
+
+### Male
+
+- [Raphael Gottardo (Fred Hutchinson Cancer Research Center, USA)](https://www.fredhutch.org/en/labs/profiles/gottardo-raphael.html)
+- [John Marioni (EBI, UK)](http://www.ebi.ac.uk/research/marioni)
+- [Oliver Stegle (EBI, UK)](http://www.ebi.ac.uk/research/stegle)
+- [Davis McCarthy (EBI, UK)](https://sites.google.com/site/davismcc/)
+- [Aaron Lun (Cancer Research UK, UK)](http://www.cruk.cam.ac.uk/users/aaron-lun)

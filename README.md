@@ -106,3 +106,4 @@ Gender bias at conferences is a well known problem ([http://www.sciencemag.org/c
 - [Oliver Stegle (EBI, UK)](http://www.ebi.ac.uk/research/stegle)
 - [Davis McCarthy (EBI, UK)](https://sites.google.com/site/davismcc/)
 - [Aaron Lun (Cancer Research UK, UK)](http://www.cruk.cam.ac.uk/users/aaron-lun)
+- [Cole Trapnell (University of Washington, Department of Genome Sciences)](http://cole-trapnell-lab.github.io/}

@@ -69,6 +69,10 @@ List of software packages (and the people developing these methods) for single-c
 
 ## Journal articles of general interest
 
+### Paper collections
+
+- [Mendeley Single Cell Sequencing Analysis](https://www.mendeley.com/groups/9329461/single-cell-sequencing-analysis/papers/)
+
 ### Experimental design
 
 - [Design and computational analysis of single-cell RNA-sequencing experiments](http://genomebiology.biomedcentral.com/articles/10.1186/s13059-016-0927-y)

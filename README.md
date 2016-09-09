@@ -85,6 +85,7 @@ List of software packages (and the people developing these methods) for single-c
 ## Similar lists and collections
 
 - [CrazyHotTommy's RNA-seq analysis list](https://github.com/crazyhottommy/RNA-seq-analysis#single-cell-rna-seq) - Very broad list that includes some single cell RNA-seq packages and papers.
+- [lazappi's Single-cell Software table](https://github.com/lazappi/awesome-single-cell) - Table of single cell software and it's functions. Live version [here](https://goo.gl/4wcVwn).
 
 ## People
 

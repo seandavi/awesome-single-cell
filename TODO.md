@@ -27,8 +27,6 @@ DISCO: https://pbtech-vc.med.cornell.edu/git/mason-lab/disco/tree/master
 
 Comparative analysis: http://biorxiv.org/content/early/2016/04/07/047613
 
-SC3: consensus clustering https://github.com/hemberg-lab/sc3
-
 destiny: diffusion maps for single-cell data http://bioconductor.org/packages/release/bioc/html/destiny.html
 
 https://github.com/govinda-kamath/clustering_on_transcript_compatibility_counts
@@ -38,8 +36,6 @@ GiniClust https://github.com/lanjiangboston/GiniClust
 pcaReduce: https://github.com/JustinaZ/pcaReduce
 
 https://github.com/BatzoglouLabSU/SIMLR
-
-Vortex: http://web.stanford.edu/~samusik/vortex/
 
 # Differential Expression
 

@@ -21,11 +21,13 @@ List of software packages (and the people developing these methods) for single-c
 - [flotilla](https://github.com/yeolab/flotilla) - [Python] Reproducible machine learning analysis of gene expression and alternative splicing data
 - [GiniClust](https://github.com/lanjiangboston/GiniClust) - [Python/R] - GiniClust is a clustering method implemented in Python and R for detecting rare cell-types from large-scale single-cell gene expression data.  GiniClust can be applied to datasets originating from different platforms, such as multiplex qPCR data, traditional single-cell RNAseq or newly emerging UMI-based single-cell RNAseq, e.g. inDrops and Drop-seq.
 - [HocusPocus](https://github.com/joeburns06/hocuspocus) - [R] - Basic PCA-based workflow for analysis and plotting of single cell RNA-seq data.
+- [M3Drop](https://github.com/tallulandrews/M3Drop) - [R] - Michaelis-Menten Modelling of Dropouts for scRNASeq.
 - [MAST](https://github.com/RGLab/MAST) - [R] - Model-based Analysis of Single-cell Transcriptomics (MAST) fits a two-part, generalized linear models that are specially adapted for bimodal and/or zero-inflated single cell gene expression data.
 - [Monocle](http://cole-trapnell-lab.github.io/monocle-release/) - [R] - Differential expression and time-series analysis for single-cell RNA-Seq.
 - [OEFinder](https://github.com/lengning/OEFinder) - [R] - Identify ordering effect genes in single cell RNA-seq data. OEFinder shiny impelemention depends on packages shiny, shinyFiles, gdata, and EBSeq.
 - [Ouija](https://github.com/kieranrcampbell/ouija) - [R] - Incorporate prior information into single-cell trajectory (pseudotime) analyses using Bayesian nonlinear factor analysis.
 - [outrigger](https://github.com/YeoLab/outrigger) - [Python] - Outrigger is a program to calculate alternative splicing scores of RNA-Seq data based on junction reads and a *de novo*, custom annotation created with a graph database, especially made for single-cell analyses.
+- [PoissonUMIs](https://github.com/tallulandrews/PoissonUMIs) - [R] - Poisson Modelling of scRNASeq UMI counts.
 - [SAKE](https://github.com/naikai/sake) - [R] - Single-cell RNA-Seq Analysis and Clustering Evaluation.
 - [SC3](https://github.com/hemberg-lab/sc3) - [R] - SC3 is a tool for the unsupervised clustering of cells from single cell RNA-Seq experiments.
 - [scater](bioconductor.org/packages/scater) - [R] - Scater places an emphasis on tools for quality control, visualisation and pre-processing of data before further downstream analysis, filling a useful niche between raw RNA-sequencing count or transcripts-per-million data and more focused downstream modelling tools such as monocle, scLVM, SCDE, edgeR, limma and so on.

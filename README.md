@@ -28,7 +28,8 @@ List of software packages (and the people developing these methods) for single-c
 - [Ouija](https://github.com/kieranrcampbell/ouija) - [R] - Incorporate prior information into single-cell trajectory (pseudotime) analyses using Bayesian nonlinear factor analysis.
 - [outrigger](https://github.com/YeoLab/outrigger) - [Python] - Outrigger is a program to calculate alternative splicing scores of RNA-Seq data based on junction reads and a *de novo*, custom annotation created with a graph database, especially made for single-cell analyses.
 - [PoissonUMIs](https://github.com/tallulandrews/PoissonUMIs) - [R] - Poisson Modelling of scRNASeq UMI counts.
-- [SC3](https://github.com/hemberg-lab/sc3) - [R] - SC3 is an interactive tool for the unsupervised clustering of cells from single cell RNA-Seq experiments.
+- [SAKE](https://github.com/naikai/sake) - [R] - Single-cell RNA-Seq Analysis and Clustering Evaluation.
+- [SC3](https://github.com/hemberg-lab/sc3) - [R] - SC3 is a tool for the unsupervised clustering of cells from single cell RNA-Seq experiments.
 - [scater](bioconductor.org/packages/scater) - [R] - Scater places an emphasis on tools for quality control, visualisation and pre-processing of data before further downstream analysis, filling a useful niche between raw RNA-sequencing count or transcripts-per-million data and more focused downstream modelling tools such as monocle, scLVM, SCDE, edgeR, limma and so on.
 - [scDD](https://github.com/kdkorthauer/scDD) - [R] - scDD (Single-Cell Differential Distributions) is a framework to identify genes with different expression patterns between biological groups of interest.  In addition to traditional differential expression, it can detect differences that are more complex and subtle than a mean shift.
 - [SCDE](https://github.com/hms-dbmi/scde) - [R] - Differential expression using error models and overdispersion-based identification of important gene sets.
@@ -74,8 +75,10 @@ List of software packages (and the people developing these methods) for single-c
 
 ## Web portals and apps
 
+- [ASAP](http://www.singlecell.ch/) - Automated Single-cell Analysis Pipeline (https://f1000research.com/posters/5-1441).
 - [conquer](http://imlspenticton.uzh.ch:3838/conquer/) - A repository of consistently processed, analysis-ready single-cell RNA-seq data sets.
 - [Neuro Single Cell Expression Portal at the Broad](https://portals.broadinstitute.org/single_cell) - The Single-Cell RNA-Seq Portal for Brain Research was developed to facilitate sharing scientific results, and disseminate datasets resulting from the NIH's BRAIN initiative.
+- [SAKE](http://sake.mhammell.tools/) - Single-cell RNA-Seq Analysis and Clustering Evaluation.
 
 ## Journal articles of general interest
 
@@ -123,3 +126,4 @@ Gender bias at conferences is a well known problem ([http://www.sciencemag.org/c
 - [Aaron Lun (Cancer Research UK, UK)](http://www.cruk.cam.ac.uk/users/aaron-lun)
 - [Cole Trapnell (University of Washington, Department of Genome Sciences)](http://cole-trapnell-lab.github.io/)
 - [Rahul Satija (New York Genome Center)](http://satijalab.org/)
+- [Martin Hemberg (Sanger Institute, UK)](http://www.sanger.ac.uk/science/groups/hemberg-group)

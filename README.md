@@ -117,6 +117,7 @@ Gender bias at conferences is a well known problem ([http://www.sciencemag.org/c
 - [Emma Pierson (Stanford University, USA)](http://cs.stanford.edu/people/emmap1/)
 - [Ning Leng (Morgridge Institute for Research, USA)](https://www.biostat.wisc.edu/~ningleng/)
 - [Laleh Haghverdi (Institute of Computational Biology, Germany)](https://www.helmholtz-muenchen.de/icb/institute/staff/staff/ma/2453/-Haghverdi/index.html)
+- [Rhonda Bacher (University of Wisconsin-Madison, USA)](https://twitter.com/rbacher)
 
 ### Male
 

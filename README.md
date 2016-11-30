@@ -132,3 +132,4 @@ Gender bias at conferences is a well known problem ([http://www.sciencemag.org/c
 - [Cole Trapnell (University of Washington, Department of Genome Sciences)](http://cole-trapnell-lab.github.io/)
 - [Rahul Satija (New York Genome Center)](http://satijalab.org/)
 - [Martin Hemberg (Sanger Institute, UK)](http://www.sanger.ac.uk/science/groups/hemberg-group)
+- [Peter Sims (Columbia University, Department of Systems Biology)](http://www.columbia.edu/~pas2182/index.php/home-top.html)

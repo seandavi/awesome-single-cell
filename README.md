@@ -64,6 +64,10 @@ List of software packages (and the people developing these methods) for single-c
 
 - [Gingko](https://github.com/robertaboukhalil/ginkgo) - [R, C] - Gingko is a cloud-based web app single-cell copy-number variation analysis tool.
 
+### Variant calling
+
+- [monovar](https://bitbucket.org/hamimzafar/monovar) - [python] - Monovar is a single nucleotide variant (SNV) detection and genotyping algorithm for single-cell DNA sequencing data. It takes a list of bam files as input and outputs a vcf file containing the detected SNVs.
+
 ## Tutorials and workflows
  
 - [Aaron Lun's Single Cell workflow on Bioconductor](http://bioconductor.org/help/workflows/simpleSingleCell/) - [R] - This article describes a computational workflow for basic analysis of scRNA-seq data using software packages from the open-source Bioconductor project.

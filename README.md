@@ -1,5 +1,5 @@
 # awesome-single-cell
-
+i
 List of software packages for single-cell data analysis, including RNA-seq, ATAC-seq, etc. [Contributions welcome](https://github.com/seandavi/awesome-single-cell/blob/master/CONTRIBUTE.md)...
 
 ## Software packages
@@ -14,6 +14,7 @@ List of software packages for single-cell data analysis, including RNA-seq, ATAC
 - [HocusPocus](https://github.com/joeburns06/hocuspocus) - [R] - Basic PCA-based workflow for analysis and plotting of single cell RNA-seq data.
 - [MAST](https://github.com/RGLab/MAST) - [R] - Model-based Analysis of Single-cell Transcriptomics
 (MAST) fits a two-part, generalized linear models that are specially adapted for bimodal and/or zero-inflated single cell gene expression data.
+- [MIMOSCA](https://github.com/asncd/MIMOSCA) - [python] - A repository for the design and analysis of pooled single cell RNA-seq perturbation experiments (Perturb-seq).
 - [Monocle](http://cole-trapnell-lab.github.io/monocle-release/) - [R] - Differential expression and time-series analysis for single-cell RNA-Seq.
 - [OEFinder](https://github.com/lengning/OEFinder) - [R] - Identify ordering effect genes in single cell RNA-seq data. OEFinder shiny impelemention depends on packages shiny, shinyFiles, gdata, and EBSeq.
 - [SC3](https://github.com/hemberg-lab/sc3) - [R] - SC3 is an interactive tool for the unsupervised clustering of cells from single cell RNA-Seq experiments.
@@ -36,8 +37,6 @@ List of software packages for single-cell data analysis, including RNA-seq, ATAC
 - [SPADE](http://www.nature.com/nprot/journal/v11/n7/full/nprot.2016.066.html) - [R] - Visualization and cellular hierarchy inference of single-cell data using SPADE.
 - [TraCeR](http://github.com/teichlab/tracer) - [python] - Reconstruction of T-Cell receptor sequences from single-cell RNA-seq data.
 - [TSCAN](https://github.com/zji90/TSCAN) - [R] - Pseudo-time reconstruction and evaluation in single-cell RNA-seq analysis.
-- [MIMOSCA](https://github.com/asncd/MIMOSCA) - [python] - A repository for the design and analysis of pooled single cell RNA-seq perturbation experiments (Perturb-seq).
-
 ### Copy number analysis
 
 - [Gingko](https://github.com/robertaboukhalil/ginkgo) - [R, C] - Gingko is a cloud-based web app single-cell copy-number variation analysis tool.

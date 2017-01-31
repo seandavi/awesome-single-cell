@@ -69,7 +69,7 @@ List of software packages (and the people developing these methods) for single-c
 
 ### Copy number analysis
 
-- [Gingko](https://github.com/robertaboukhalil/ginkgo) - [R, C] - Gingko is a cloud-based web app single-cell copy-number variation analysis tool.
+- [Ginkgo](https://github.com/robertaboukhalil/ginkgo) - [R, C] - Ginkgo is a cloud-based web app for single-cell copy-number variation analysis tool.
 
 ### Variant calling
 
@@ -96,6 +96,7 @@ List of software packages (and the people developing these methods) for single-c
 
 - [ASAP](http://www.singlecell.ch/) - Automated Single-cell Analysis Pipeline (https://f1000research.com/posters/5-1441).
 - [conquer](http://imlspenticton.uzh.ch:3838/conquer/) - A repository of consistently processed, analysis-ready single-cell RNA-seq data sets.
+- [Ginkgo](http://qb.cshl.edu/ginkgo) - [R, C] - Ginkgo is a web application for single-cell copy-number variation analysis and visualization
 - [Neuro Single Cell Expression Portal at the Broad](https://portals.broadinstitute.org/single_cell) - The Single-Cell RNA-Seq Portal for Brain Research was developed to facilitate sharing scientific results, and disseminate datasets resulting from the NIH's BRAIN initiative.
 - [SAKE](http://sake.mhammell.tools/) - Single-cell RNA-Seq Analysis and Clustering Evaluation.
 

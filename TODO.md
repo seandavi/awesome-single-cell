@@ -103,3 +103,11 @@ DNA SNV calling: https://bitbucket.org/hamimzafar/monovar
 # Methylation
 
 Prediction of missing information: https://github.com/cangermueller/deepcpg
+
+# Reviews
+
+Design and computational analysis of single-cell RNA-sequencing experiments: https://doi.org/10.1186/s13059-016-0927-y
+
+Defining cell types and states with single-cell genomics: https://doi.org/10.1101/gr.190595.115
+
+Scaling single-cell genomics from phenomenology to mechanism: https://doi.org/10.1038/nature21350

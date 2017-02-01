@@ -69,6 +69,8 @@ SCOUP: https://github.com/hmatsu1226/SCOUP
 
 Ouija: https://github.com/kieranrcampbell/ouija
 
+Others listed at https://github.com/agitter/single-cell-pseudotime
+
 # Pipelines
 
 Seurat http://www.satijalab.org/seurat.html

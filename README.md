@@ -79,6 +79,7 @@ List of software packages (and the people developing these methods) for single-c
 
 - [BASIC](http://ttic.uchicago.edu/~aakhan/BASIC/) - [python] - BASIC is a semi-de novo assembly method to determine the full-length sequence of the BCR in single B cells from scRNA-seq data.
 - [SiFit](https://bitbucket.org/hamimzafar/sifit) - [Java] - [SiFit: A Method for Inferring Tumor Trees from Single-Cell Sequencing Data under Finite-site Models](http://biorxiv.org/content/early/2016/12/04/091595)
+
 ## Tutorials and workflows
  
 - [Aaron Lun's Single Cell workflow on Bioconductor](http://bioconductor.org/help/workflows/simpleSingleCell/) - [R] - This article describes a computational workflow for basic analysis of scRNA-seq data using software packages from the open-source Bioconductor project.
@@ -94,6 +95,7 @@ List of software packages (and the people developing these methods) for single-c
 
 ## Web portals and apps
 
+- [10X Genomics datasets](https://support.10xgenomics.com/single-cell/datasets) - 10x genomics public datasets, including 1.3M cell mouse brain dataset.
 - [ASAP](http://www.singlecell.ch/) - Automated Single-cell Analysis Pipeline (https://f1000research.com/posters/5-1441).
 - [conquer](http://imlspenticton.uzh.ch:3838/conquer/) - A repository of consistently processed, analysis-ready single-cell RNA-seq data sets.
 - [Ginkgo](http://qb.cshl.edu/ginkgo) - [R, C] - Ginkgo is a web application for single-cell copy-number variation analysis and visualization.

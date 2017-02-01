@@ -99,6 +99,7 @@ List of software packages (and the people developing these methods) for single-c
 - [Ginkgo](http://qb.cshl.edu/ginkgo) - [R, C] - Ginkgo is a web application for single-cell copy-number variation analysis and visualization.
 - [Neuro Single Cell Expression Portal at the Broad](https://portals.broadinstitute.org/single_cell) - The Single-Cell RNA-Seq Portal for Brain Research was developed to facilitate sharing scientific results, and disseminate datasets resulting from the NIH's BRAIN initiative.
 - [SAKE](http://sake.mhammell.tools/) - Single-cell RNA-Seq Analysis and Clustering Evaluation.
+- [scRNASeqDB](https://bioinfo.uth.edu/scrnaseqdb/) - A database aggregating human single-cell RNA-seq datasets.
 
 ## Journal articles of general interest
 

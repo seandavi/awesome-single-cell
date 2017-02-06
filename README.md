@@ -98,6 +98,7 @@ List of software packages (and the people developing these methods) for single-c
 - [10X Genomics datasets](https://support.10xgenomics.com/single-cell/datasets) - 10x genomics public datasets, including 1.3M cell mouse brain dataset.
 - [ASAP](http://www.singlecell.ch/) - Automated Single-cell Analysis Pipeline (https://f1000research.com/posters/5-1441).
 - [conquer](http://imlspenticton.uzh.ch:3838/conquer/) - A repository of consistently processed, analysis-ready single-cell RNA-seq data sets.
+- [D<sup>3</sup>E](http://www.sanger.ac.uk/sanger/GeneRegulation_D3E/) - Discrete Distributional Differential Expression (D<sup>3</sup>E) is a tool for identifying differentially-expressed genes, based on single-cell RNA-seq data.
 - [Ginkgo](http://qb.cshl.edu/ginkgo) - [R, C] - Ginkgo is a web application for single-cell copy-number variation analysis and visualization.
 - [Neuro Single Cell Expression Portal at the Broad](https://portals.broadinstitute.org/single_cell) - The Single-Cell RNA-Seq Portal for Brain Research was developed to facilitate sharing scientific results, and disseminate datasets resulting from the NIH's BRAIN initiative.
 - [SAKE](http://sake.mhammell.tools/) - Single-cell RNA-Seq Analysis and Clustering Evaluation.

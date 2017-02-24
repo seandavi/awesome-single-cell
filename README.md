@@ -110,6 +110,7 @@ List of software packages (and the people developing these methods) for single-c
 ### Paper collections
 
 - [Mendeley Single Cell Sequencing Analysis](https://www.mendeley.com/groups/9329461/single-cell-sequencing-analysis/papers/)
+- [BioMedCentral Single-Cell -omics collection](http://www.biomedcentral.com/collections/singlecellomics)
 
 ### Big data approach overview
 - [Single-cell Transcriptome Study as Big Data] (http://www.sciencedirect.com/science/article/pii/S1672022916000437)

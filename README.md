@@ -80,6 +80,7 @@ List of software packages (and the people developing these methods) for single-c
 
 - [BASIC](http://ttic.uchicago.edu/~aakhan/BASIC/) - [python] - BASIC is a semi-de novo assembly method to determine the full-length sequence of the BCR in single B cells from scRNA-seq data.
 - [SiFit](https://bitbucket.org/hamimzafar/sifit) - [Java] - [SiFit: A Method for Inferring Tumor Trees from Single-Cell Sequencing Data under Finite-site Models](http://biorxiv.org/content/early/2016/12/04/091595)
+- [MAGIC]( https://github.com/pkathail/magic) - [python] - [MAGIC: A diffusion-based imputation method reveals gene-gene interactions in single-cell RNA-sequencing data](http://www.biorxiv.org/content/early/2017/02/25/111591)
 
 ## Tutorials and workflows
  

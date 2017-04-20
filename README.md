@@ -10,6 +10,7 @@ List of software packages (and the people developing these methods) for single-c
 - [anchor](https://github.com/yeolab/anchor) - [Python] - ⚓ Find bimodal, unimodal, and multimodal features in your data
 - [BackSPIN](https://github.com/linnarsson-lab/BackSPIN) - [Python] - Biclustering algorithm developed taking into account intrinsic features of single-cell RNA-seq experiments.
 - [BASiCS](https://github.com/catavallejos/BASiCS) - [R] - Bayesian Analysis of single-cell RNA-seq data. Estimates cell-specific normalization constants. Technical variability is quantified based on spike-in genes. The total variability of the expression counts is decomposed into technical and biological components. BASiCS can also identify genes with differential expression/over-dispersion between two or more groups of cells. 
+- [BEARscc](https://bitbucket.org/bsblabludwig/bearscc) - [R] - BEARscc makes use of ERCC spike-in measurements to model technical variance as a function of gene expression and technical dropout effects on lowly expressed genes. 
 - [bonvoyage](https://github.com/yeolab/bonvoyage) - [Python] - 📐 Transform percentage-based units into a 2d space to evaluate changes in distribution with both magnitude and direction.
 - [BPSC](https://github.com/nghiavtr/BPSC) - [R] - Beta-Poisson model for single-cell RNA-seq data analyses
 - [Cellity](https://github.com/teichlab/cellity) - [R] - Classification of low quality cells in scRNA-seq data using R
@@ -117,7 +118,7 @@ List of software packages (and the people developing these methods) for single-c
 - [BioMedCentral Single-Cell -omics collection](http://www.biomedcentral.com/collections/singlecellomics)
 
 ### Big data approach overview
-- [Single-cell Transcriptome Study as Big Data] (http://www.sciencedirect.com/science/article/pii/S1672022916000437)
+- [Single-cell Transcriptome Study as Big Data](http://www.sciencedirect.com/science/article/pii/S1672022916000437)
 
 ### Experimental design
 

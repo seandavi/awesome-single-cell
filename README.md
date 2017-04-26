@@ -10,29 +10,40 @@ List of software packages (and the people developing these methods) for single-c
 
 #### Github
 
-[![GitHub stars](https://img.shields.io/github/stars/yeolab/anchor.svg?style=social&label=Star)](https://github.com/YeoLab/anchor)
+- Github forks: [![GitHub forks](https://img.shields.io/github/forks/yeolab/anchor.svg?style=social&label=Fork)](https://github.com/YeoLab/anchor)
+- Github stars: [![GitHub stars](https://img.shields.io/github/stars/yeolab/anchor.svg?style=social&label=Star)](https://github.com/YeoLab/anchor)
+- GitHub releases: [![GitHub release](https://img.shields.io/github/release/YeoLab/anchor.svg)](https://github.com/YeoLab/anchor/releases)
+
+#### BitBucket
+
+- HNubmer of issues: [![Bitbucket issues](https://img.shields.io/bitbucket/issues/atlassian/python-bitbucket.svg)]()
 
 #### Bioconductor
 
-Bioconductor downloads: http://bioconductor.org/shields/downloads/Biobase.svg
-Duration in Bioconductor: http://bioconductor.org/shields/years-in-bioc/Biobase.svg
+- Bioconductor downloads: http://bioconductor.org/shields/downloads/Biobase.svg
+- Duration in Bioconductor: http://bioconductor.org/shields/years-in-bioc/Biobase.svg
 
 #### PyPI/Python
 
-PyPI downloads/week: https://img.shields.io/pypi/dm/Django.svg
-PyPI version: https://img.shields.io/pypi/v/nine.svg
-PyPI license: https://img.shields.io/pypi/l/Django.svg
-PyPI python versions: https://img.shields.io/pypi/pyversions/Django.svg
+- PyPI downloads/week: https://img.shields.io/pypi/dm/Django.svg
+- PyPI version: https://img.shields.io/pypi/v/nine.svg
+- PyPI license: https://img.shields.io/pypi/l/Django.svg
+- PyPI python versions: https://img.shields.io/pypi/pyversions/Django.svg
 
+#### Python + Github example
 
-[![PyPI](https://img.shields.io/pypi/v/nine.svg)](https://pypi.python.org/pypi/anchor-bio) [![Python Versions](https://img.shields.io/pypi/pyversions/anchor-bio.svg)](https://pypi.python.org/pypi/anchor-bio) [![Downloads Per Month](https://img.shields.io/pypi/dm/anchor-bio.svg)](https://pypi.python.org/pypi/anchor-bio) [![License](https://img.shields.io/pypi/l/anchor-bio.svg)](https://pypi.python.org/pypi/anchor-bio)
+- PyPI Package name: `anchor-bio`
+- Github username: `yeolab`
+- Github package name: `anchor`
+
+[![PyPI](https://img.shields.io/pypi/v/anchor-bio.svg)](https://pypi.python.org/pypi/anchor-bio) [![Python Versions](https://img.shields.io/pypi/pyversions/anchor-bio.svg)](https://pypi.python.org/pypi/anchor-bio) [![Downloads Per Month](https://img.shields.io/pypi/dm/anchor-bio.svg)](https://pypi.python.org/pypi/anchor-bio) [![License](https://img.shields.io/pypi/l/anchor-bio.svg)](https://pypi.python.org/pypi/anchor-bio) [![GitHub stars](https://img.shields.io/github/stars/yeolab/anchor.svg?style=social&label=Star)](https://github.com/YeoLab/anchor)
 
 #### Bioconda
 
-license: https://anaconda.org/bioconda/berokka/badges/license.svg
-version: https://anaconda.org/bioconda/berokka/badges/version.svg
-downloads: 	https://anaconda.org/bioconda/berokka/badges/downloads.svg
-Install: [![install with bioconda](https://img.shields.io/badge/install%20with-bioconda-brightgreen.svg?style=flat)](http://bioconda.github.io/recipes/phylotoast/README.html)
+- license: https://anaconda.org/bioconda/berokka/badges/license.svg
+- version: https://anaconda.org/bioconda/berokka/badges/version.svg
+- downloads: 	https://anaconda.org/bioconda/berokka/badges/downloads.svg
+- Install: [![install with bioconda](https://img.shields.io/badge/install%20with-bioconda-brightgreen.svg?style=flat)](http://bioconda.github.io/recipes/phylotoast/README.html)
 
 
 
@@ -40,13 +51,13 @@ Install: [![install with bioconda](https://img.shields.io/badge/install%20with-b
 | --------------- | ------ | ----------- |
 
 
-- [anchor](https://github.com/yeolab/anchor) - [Python] [![PyPI](https://img.shields.io/pypi/v/nine.svg)](https://pypi.python.org/pypi/anchor-bio) [![Python Versions](https://img.shields.io/pypi/pyversions/anchor-bio.svg)](https://pypi.python.org/pypi/anchor-bio) [![Downloads Per Month](https://img.shields.io/pypi/dm/anchor-bio.svg)](https://pypi.python.org/pypi/anchor-bio) [![License](https://img.shields.io/pypi/l/anchor-bio.svg)](https://pypi.python.org/pypi/anchor-bio) - ⚓ Find bimodal, unimodal, and multimodal features in your data
-- [BackSPIN](https://github.com/linnarsson-lab/BackSPIN) [![GitHub stars](https://img.shields.io/github/stars/yeolab/anchor.svg?style=social&label=Star)](https://github.com/YeoLab/anchor) - [Python] - Biclustering algorithm developed taking into account intrinsic features of single-cell RNA-seq experiments.
-- [BASiCS](https://github.com/catavallejos/BASiCS) - [R] - Bayesian Analysis of single-cell RNA-seq data. Estimates cell-specific normalization constants. Technical variability is quantified based on spike-in genes. The total variability of the expression counts is decomposed into technical and biological components. BASiCS can also identify genes with differential expression/over-dispersion between two or more groups of cells. 
-- [BEARscc](https://bitbucket.org/bsblabludwig/bearscc) - [R] - BEARscc makes use of ERCC spike-in measurements to model technical variance as a function of gene expression and technical dropout effects on lowly expressed genes. 
-- [bonvoyage](https://github.com/yeolab/bonvoyage) - [Python] - 📐 Transform percentage-based units into a 2d space to evaluate changes in distribution with both magnitude and direction.
-- [BPSC](https://github.com/nghiavtr/BPSC) - [R] - Beta-Poisson model for single-cell RNA-seq data analyses
-- [Cellity](https://github.com/teichlab/cellity) - [R] - Classification of low quality cells in scRNA-seq data using R
+- [anchor](https://github.com/yeolab/anchor) - [Python] [![PyPI](https://img.shields.io/pypi/v/anchor-bio.svg)](https://pypi.python.org/pypi/anchor-bio) [![Python Versions](https://img.shields.io/pypi/pyversions/anchor-bio.svg)](https://pypi.python.org/pypi/anchor-bio) [![Downloads Per Month](https://img.shields.io/pypi/dm/anchor-bio.svg)](https://pypi.python.org/pypi/anchor-bio) [![License](https://img.shields.io/pypi/l/anchor-bio.svg)](https://pypi.python.org/pypi/anchor-bio) [![GitHub stars](https://img.shields.io/github/stars/yeolab/anchor.svg?style=social&label=Star)](https://github.com/YeoLab/anchor) [![GitHub forks](https://img.shields.io/github/forks/yeolab/anchor.svg?style=social&label=Fork)](https://github.com/YeoLab/anchor)- ⚓ Find bimodal, unimodal, and multimodal features in your data
+- [BackSPIN](https://github.com/linnarsson-lab/BackSPIN) - [Python] [![PyPI](https://img.shields.io/pypi/v/backspinpy.svg)](https://pypi.python.org/pypi/backspinpy) [![Python Versions](https://img.shields.io/pypi/pyversions/backspinpy.svg)](https://pypi.python.org/pypi/backspinpy) [![Downloads Per Month](https://img.shields.io/pypi/dm/backspinpy.svg)](https://pypi.python.org/pypi/backspinpy) [![License](https://img.shields.io/pypi/l/backspinpy.svg)](https://pypi.python.org/pypi/backspinpy) [![GitHub stars](https://img.shields.io/github/stars/linnarsson-lab/backspin.svg?style=social&label=Star)](https://github.com/linnarsson-lab/backspin) [![GitHub forks](https://img.shields.io/github/forks/linnarsson-lab/backspin.svg?style=social&label=Fork)](https://github.com/linnarsson-lab/backspin) [![GitHub release](https://img.shields.io/github/release/linnarsson-lab/BackSPIN.svg)](https://github.com/linnarsson-lab/BackSPIN/releases)- Biclustering algorithm developed taking into account intrinsic features of single-cell RNA-seq experiments.
+- [BASiCS](https://github.com/catavallejos/BASiCS) - [R] [![GitHub stars](https://img.shields.io/github/stars/catavallejos/BASiCS.svg?style=social&label=Star)](https://github.com/catavallejos/BASiCS) [![GitHub forks](https://img.shields.io/github/forks/catavallejos/BASiCS.svg?style=social&label=Fork)](https://github.com/catavallejos/BASiCS) [![GitHub release](https://img.shields.io/github/release/catvallejos/BASiCS.svg)](https://github.com/catvallejos/BASiCS/releases) - Bayesian Analysis of single-cell RNA-seq data. Estimates cell-specific normalization constants. Technical variability is quantified based on spike-in genes. The total variability of the expression counts is decomposed into technical and biological components. BASiCS can also identify genes with differential expression/over-dispersion between two or more groups of cells.
+- [BEARscc](https://bitbucket.org/bsblabludwig/bearscc) - [R] [![Bitbucket issues](https://img.shields.io/bitbucket/issues/bsblabludwig/bearscc.svg?label=bitbucket_issues)]() - BEARscc makes use of ERCC spike-in measurements to model technical variance as a function of gene expression and technical dropout effects on lowly expressed genes.
+- [bonvoyage](https://github.com/yeolab/bonvoyage) - [Python] [![PyPI](https://img.shields.io/pypi/v/bonvoyage.svg)](https://pypi.python.org/pypi/bonvoyage) [![Python Versions](https://img.shields.io/pypi/pyversions/bonvoyage.svg)](https://pypi.python.org/pypi/bonvoyage) [![Downloads Per Month](https://img.shields.io/pypi/dm/bonvoyage.svg)](https://pypi.python.org/pypi/bonvoyage) [![License](https://img.shields.io/pypi/l/bonvoyage.svg)](https://pypi.python.org/pypi/bonvoyage) [![GitHub stars](https://img.shields.io/github/stars/yeolab/bonvoyage.svg?style=social&label=Star)](https://github.com/YeoLab/bonvoyage) [![GitHub forks](https://img.shields.io/github/forks/yeolab/bonvoyage.svg?style=social&label=Fork)](https://github.com/YeoLab/bonvoyage) - 📐 Transform percentage-based units into a 2d space to evaluate changes in distribution with both magnitude and direction.
+- [BPSC](https://github.com/nghiavtr/BPSC) - [R] [![GitHub stars](https://img.shields.io/github/stars/nghiavtr/BASiCS.svg?style=social&label=Star)](https://github.com/nghiavtr/BASiCS) [![GitHub forks](https://img.shields.io/github/forks/nghiavtr/BASiCS.svg?style=social&label=Fork)](https://github.com/nghiavtr/BASiCS) [![GitHub release](https://img.shields.io/github/release/nghiavtr/BASiCS.svg)](https://github.com/nghiavtr/BASiCS/releases)  - Beta-Poisson model for single-cell RNA-seq data analyses
+- [Cellity](https://github.com/teichlab/cellity) - [R] [![Bioconductor Downloads](http://bioconductor.org/shields/downloads/cellity.svg)](http://bioconductor.org/packages/release/bioc/html/cellity.html) [![Time in Bioconductor](http://bioconductor.org/shields/years-in-bioc/Biobase.svg)](http://bioconductor.org/packages/release/bioc/html/cellity.html) [![GitHub stars](https://img.shields.io/github/stars/Teichlab/cellity.svg?style=social&label=Star)](https://github.com/Teichlab/cellity) [![GitHub forks](https://img.shields.io/github/forks/Teichlab/cellity.svg?style=social&label=Fork)](https://github.com/Teichlab/cellity) - Classification of low quality cells in scRNA-seq data using R
 - [cellTree](https://www.bioconductor.org/packages/3.3/bioc/html/cellTree.html) - [R] - Cell population analysis and visualization from single cell RNA-seq data using a Latent Dirichlet Allocation model.
 - [clusterExperiment](https://github.com/epurdom/clusterExperiment) - [R] - Functions for running and comparing many different clusterings of single-cell sequencing data. Meant to work with SCONE and slingshot.
 - [destiny](http://bioconductor.org/packages/destiny/) - [R] - Diffusion maps are spectral method for non-linear dimension reduction introduced by Coifman et al.(2005). Diffusion maps are based on a distance metric (diffusion distance) which is conceptually relevant to how differentiating cells follow noisy diffusion-like dynamics, moving from a pluripotent state towards more differentiated states.

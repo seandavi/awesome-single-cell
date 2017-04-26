@@ -14,6 +14,10 @@ List of software packages (and the people developing these methods) for single-c
 - Github stars: [![GitHub stars](https://img.shields.io/github/stars/yeolab/anchor.svg?style=social&label=Star)](https://github.com/YeoLab/anchor)
 - GitHub releases: [![GitHub release](https://img.shields.io/github/release/YeoLab/anchor.svg)](https://github.com/YeoLab/anchor/releases)
 
+Example using `nghiavtr/BASiCS`:
+
+[![GitHub stars](https://img.shields.io/github/stars/nghiavtr/BASiCS.svg?style=social&label=Star)](https://github.com/nghiavtr/BASiCS) [![GitHub forks](https://img.shields.io/github/forks/nghiavtr/BASiCS.svg?style=social&label=Fork)](https://github.com/nghiavtr/BASiCS) [![GitHub release](https://img.shields.io/github/release/nghiavtr/BASiCS.svg)](https://github.com/nghiavtr/BASiCS/releases)
+
 #### BitBucket
 
 - HNubmer of issues: [![Bitbucket issues](https://img.shields.io/bitbucket/issues/atlassian/python-bitbucket.svg)]()
@@ -23,6 +27,10 @@ List of software packages (and the people developing these methods) for single-c
 - Bioconductor downloads: http://bioconductor.org/shields/downloads/Biobase.svg
 - Duration in Bioconductor: http://bioconductor.org/shields/years-in-bioc/Biobase.svg
 
+Example using `cellity`:
+
+[![Bioconductor Downloads](http://bioconductor.org/shields/downloads/cellity.svg)](http://bioconductor.org/packages/release/bioc/html/cellity.html) [![Time in Bioconductor](http://bioconductor.org/shields/years-in-bioc/Biobase.svg)](http://bioconductor.org/packages/release/bioc/html/cellity.html)
+
 #### PyPI/Python
 
 - PyPI downloads/week: https://img.shields.io/pypi/dm/Django.svg
@@ -30,7 +38,7 @@ List of software packages (and the people developing these methods) for single-c
 - PyPI license: https://img.shields.io/pypi/l/Django.svg
 - PyPI python versions: https://img.shields.io/pypi/pyversions/Django.svg
 
-#### Python + Github example
+Python + Github example:
 
 - PyPI Package name: `anchor-bio`
 - Github username: `yeolab`

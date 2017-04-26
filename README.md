@@ -7,8 +7,41 @@ List of software packages (and the people developing these methods) for single-c
 
 ### RNA-seq
 
-- [anchor](https://github.com/yeolab/anchor) - [Python] - ⚓ Find bimodal, unimodal, and multimodal features in your data
-- [BackSPIN](https://github.com/linnarsson-lab/BackSPIN) - [Python] - Biclustering algorithm developed taking into account intrinsic features of single-cell RNA-seq experiments.
+
+#### Github
+
+[![GitHub stars](https://img.shields.io/github/stars/yeolab/anchor.svg?style=social&label=Star)](https://github.com/YeoLab/anchor)
+
+#### Bioconductor
+
+Bioconductor downloads: http://bioconductor.org/shields/downloads/Biobase.svg
+Duration in Bioconductor: http://bioconductor.org/shields/years-in-bioc/Biobase.svg
+
+#### PyPI/Python
+
+PyPI downloads/week: https://img.shields.io/pypi/dm/Django.svg
+PyPI version: https://img.shields.io/pypi/v/nine.svg
+PyPI license: https://img.shields.io/pypi/l/Django.svg
+PyPI python versions: https://img.shields.io/pypi/pyversions/Django.svg
+
+
+[![PyPI](https://img.shields.io/pypi/v/nine.svg)](https://pypi.python.org/pypi/anchor-bio) [![Python Versions](https://img.shields.io/pypi/pyversions/anchor-bio.svg)](https://pypi.python.org/pypi/anchor-bio) [![Downloads Per Month](https://img.shields.io/pypi/dm/anchor-bio.svg)](https://pypi.python.org/pypi/anchor-bio) [![License](https://img.shields.io/pypi/l/anchor-bio.svg)](https://pypi.python.org/pypi/anchor-bio)
+
+#### Bioconda
+
+license: https://anaconda.org/bioconda/berokka/badges/license.svg
+version: https://anaconda.org/bioconda/berokka/badges/version.svg
+downloads: 	https://anaconda.org/bioconda/berokka/badges/downloads.svg
+Install: [![install with bioconda](https://img.shields.io/badge/install%20with-bioconda-brightgreen.svg?style=flat)](http://bioconda.github.io/recipes/phylotoast/README.html)
+
+
+
+| Name (Language) | Badges | Description |
+| --------------- | ------ | ----------- |
+
+
+- [anchor](https://github.com/yeolab/anchor) - [Python] [![PyPI](https://img.shields.io/pypi/v/nine.svg)](https://pypi.python.org/pypi/anchor-bio) [![Python Versions](https://img.shields.io/pypi/pyversions/anchor-bio.svg)](https://pypi.python.org/pypi/anchor-bio) [![Downloads Per Month](https://img.shields.io/pypi/dm/anchor-bio.svg)](https://pypi.python.org/pypi/anchor-bio) [![License](https://img.shields.io/pypi/l/anchor-bio.svg)](https://pypi.python.org/pypi/anchor-bio) - ⚓ Find bimodal, unimodal, and multimodal features in your data
+- [BackSPIN](https://github.com/linnarsson-lab/BackSPIN) [![GitHub stars](https://img.shields.io/github/stars/yeolab/anchor.svg?style=social&label=Star)](https://github.com/YeoLab/anchor) - [Python] - Biclustering algorithm developed taking into account intrinsic features of single-cell RNA-seq experiments.
 - [BASiCS](https://github.com/catavallejos/BASiCS) - [R] - Bayesian Analysis of single-cell RNA-seq data. Estimates cell-specific normalization constants. Technical variability is quantified based on spike-in genes. The total variability of the expression counts is decomposed into technical and biological components. BASiCS can also identify genes with differential expression/over-dispersion between two or more groups of cells. 
 - [BEARscc](https://bitbucket.org/bsblabludwig/bearscc) - [R] - BEARscc makes use of ERCC spike-in measurements to model technical variance as a function of gene expression and technical dropout effects on lowly expressed genes. 
 - [bonvoyage](https://github.com/yeolab/bonvoyage) - [Python] - 📐 Transform percentage-based units into a 2d space to evaluate changes in distribution with both magnitude and direction.

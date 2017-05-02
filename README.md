@@ -117,7 +117,7 @@ List of software packages (and the people developing these methods) for single-c
 - [Neuro Single Cell Expression Portal at the Broad](https://portals.broadinstitute.org/single_cell) - The Single-Cell RNA-Seq Portal for Brain Research was developed to facilitate sharing scientific results, and disseminate datasets resulting from the NIH's BRAIN initiative.
 - [SAKE](http://sake.mhammell.tools/) - Single-cell RNA-Seq Analysis and Clustering Evaluation.
 - [scRNASeqDB](https://bioinfo.uth.edu/scrnaseqdb/) - A database aggregating human single-cell RNA-seq datasets. [ref](http://biorxiv.org/content/early/2017/01/31/104810)
-- [Granatum](http://garmiregroup.org/granatum/app) - Granatum is a graphical single-cell RNA-seq (scRNA-seq) analysis pipeline for genomics scientists. [Deposited in December 2016](http://biorxiv.org/content/early/2017/02/22/110759).
+- [Granatum](http://garmiregroup.org/granatum/app) - Granatum is a graphical single-cell RNA-seq (scRNA-seq) analysis pipeline for genomics scientists. [Deposited in Feb. 2017](http://biorxiv.org/content/early/2017/02/22/110759).
 
 ## Journal articles of general interest
 
@@ -162,7 +162,7 @@ Gender bias at conferences is a well known problem ([http://www.sciencemag.org/c
 - [Ning Leng (Morgridge Institute for Research, USA)](https://www.biostat.wisc.edu/~ningleng/)
 - [Laleh Haghverdi (Institute of Computational Biology, Germany)](https://www.helmholtz-muenchen.de/icb/institute/staff/staff/ma/2453/-Haghverdi/index.html)
 - [Rhonda Bacher (University of Wisconsin-Madison, USA)](https://twitter.com/rbacher)
-- [Lana X. Garmire, (University oh Hawaii, Cancer Center)](http://garmiregroup.org/)
+- [Lana X. Garmire, (University oh Hawaii, Cancer Center, USA)](http://garmiregroup.org/)
 
 ### Male
 

@@ -159,7 +159,7 @@ Gender bias at conferences is a well known problem ([http://www.sciencemag.org/c
 - [Sandrine Dudoit (UC Berkeley, USA)](http://www.stat.berkeley.edu/~sandrine/)
 - [Keegan Korthauer (Dana Farber Cancer Institute, USA)](http://bcb.dfci.harvard.edu/~keegan/)
 - [Stephanie Hicks (Dana Farber Cancer Institute, USA)](http://www.stephaniehicks.com/)
-- [Dana Pe'er (Columbia University, USA](http://www.c2b2.columbia.edu/danapeerlab/html/)
+- [Dana Pe'er (Columbia University, USA)](http://www.c2b2.columbia.edu/danapeerlab/html/)
 - [Alicia Oshlack (Murdock Children's Research Institute, Australia)](https://www.mcri.edu.au/users/dr-alicia-oshlack)
 - [Aviv Regev (Broad Institute, USA)](https://www.broadinstitute.org/scientific-community/science/core-faculty-labs/regev-lab/regev-lab-home)
 - [Catalina Vallejos (MRC Biostatistics Unit and EMBL-EBI, UK)](http://www.mrc-bsu.cam.ac.uk/people/in-alphabetical-order/t-to-z/catalina-vallejos-menesses/)
@@ -169,6 +169,7 @@ Gender bias at conferences is a well known problem ([http://www.sciencemag.org/c
 - [Laleh Haghverdi (Institute of Computational Biology, Germany)](https://www.helmholtz-muenchen.de/icb/institute/staff/staff/ma/2453/-Haghverdi/index.html)
 - [Rhonda Bacher (University of Wisconsin-Madison, USA)](https://twitter.com/rbacher)
 - [Lana X. Garmire, (University oh Hawaii, Cancer Center, USA)](http://garmiregroup.org/)
+- [Barbara Treutlein (Max Planck Institute for Evolutionary Anthropology, Germany)](http://www.treutleinlab.org/)
 
 ### Male
 

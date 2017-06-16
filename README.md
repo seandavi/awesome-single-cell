@@ -170,6 +170,7 @@ Gender bias at conferences is a well known problem ([http://www.sciencemag.org/c
 - [Rhonda Bacher (University of Wisconsin-Madison, USA)](https://twitter.com/rbacher)
 - [Lana X. Garmire, (University oh Hawaii, Cancer Center, USA)](http://garmiregroup.org/)
 - [Barbara Treutlein (Max Planck Institute for Evolutionary Anthropology, Germany)](http://www.treutleinlab.org/)
+- [Samantha Morris (Depts of Dev. Bio. and Genetics, Washington University, St. Louis)](http://morrislab.wustl.edu/)
 
 ### Male
 

@@ -77,6 +77,7 @@ List of software packages (and the people developing these methods) for single-c
 - [TRAPeS](https://github.com/yoseflab/trapes) - [python, C++] - TRAPeS (TCR Reconstruction Algorithm for Paired-End Single-cell), a software for reconstruction of T cell receptors (TCR) using short, paired-end single-cell RNA-sequencing.
 - [TSCAN](https://github.com/zji90/TSCAN) - [R] - Pseudo-time reconstruction and evaluation in single-cell RNA-seq analysis.
 - [ZIFA](https://github.com/epierson9/ZIFA) - [Python] - Zero-inflated dimensionality reduction algorithm for single-cell data.
+- [zUMIs](https://github.com/sdparekh/zUMIs) - [R, perl, shell] - a fast and flexible pipeline to process RNA-seq data with UMIs.
 
 
 ### Copy number analysis
@@ -144,7 +145,7 @@ List of software packages (and the people developing these methods) for single-c
 
 ### Methods comparisons
 
-- [Comparative analysis of single-cell RNA sequencing methods](http://biorxiv.org/content/early/2016/06/29/035758) - a comparison of wet lab protocols for scRNA sequencing.
+- [Comparative analysis of single-cell RNA sequencing methods](https://doi.org/10.1016/j.molcel.2017.01.023) - a comparison of wet lab protocols for scRNA sequencing.
 
 ## Similar lists and collections
 

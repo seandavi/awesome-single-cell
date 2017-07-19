@@ -153,7 +153,7 @@ List of software packages (and the people developing these methods) for single-c
 ## Similar lists and collections
 
 - [CrazyHotTommy's RNA-seq analysis list](https://github.com/crazyhottommy/RNA-seq-analysis#single-cell-rna-seq) - Very broad list that includes some single cell RNA-seq packages and papers.
-- [lazappi's Single-cell Software table](https://github.com/lazappi/single-cell-software) - Table of single cell software and it's functions. Live version [here](https://goo.gl/4wcVwn).
+- [scRNA-tools.org](https://www.scrna-tools.org) - Database of scRNA-seq analysis tools and their functions. Managed through this [Github repository](https://github.com/Oshlack/scRNA-tools).
 - [agitter's Pseudotime estimation list](https://github.com/agitter/single-cell-pseudotime) - An overview of algorithms for estimating pseudotime in single-cell RNA-seq data.
 
 ## People

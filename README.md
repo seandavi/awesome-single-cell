@@ -176,7 +176,7 @@ Gender bias at conferences is a well known problem ([http://www.sciencemag.org/c
 - [Dana Pe'er (Columbia University, USA)](http://www.c2b2.columbia.edu/danapeerlab/html/)
 - [Alicia Oshlack (Murdock Children's Research Institute, Australia)](https://www.mcri.edu.au/users/dr-alicia-oshlack)
 - [Aviv Regev (Broad Institute, USA)](https://www.broadinstitute.org/scientific-community/science/core-faculty-labs/regev-lab/regev-lab-home)
-- [Catalina Vallejos (MRC Biostatistics Unit and EMBL-EBI, UK)](http://www.mrc-bsu.cam.ac.uk/people/in-alphabetical-order/t-to-z/catalina-vallejos-menesses/)
+- [Catalina Vallejos (The Alan Turing Institute & UCL, UK)](https://sites.google.com/view/catalinavallejos)
 - [Sarah Teichmann (Wellcome Trust Sanger Institute, UK)](http://www.teichlab.org/)
 - [Emma Pierson (Stanford University, USA)](http://cs.stanford.edu/people/emmap1/)
 - [Ning Leng (Morgridge Institute for Research, USA)](https://www.biostat.wisc.edu/~ningleng/)

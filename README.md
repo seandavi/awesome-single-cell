@@ -46,6 +46,7 @@ List of software packages (and the people developing these methods) for single-c
 - [outrigger](https://github.com/YeoLab/outrigger) - [Python] - Outrigger is a program to calculate alternative splicing scores of RNA-Seq data based on junction reads and a *de novo*, custom annotation created with a graph database, especially made for single-cell analyses.
 - [PhenoPath](https://github.com/kieranrcampbell/phenopath) - [R] - Single-cell pseudotime with heterogeneous genetic and environmental backgrounds, including Bayesian significance testing of iteractions.
 - [PoissonUMIs](https://github.com/tallulandrews/PoissonUMIs) - [R] - Poisson Modelling of scRNASeq UMI counts.
+- [SAVER](https://github.com/mohuangx/SAVER) - [R] - SAVER (Single-cell Analysis Via Expression Recovery) implements a regularized regression prediction and empirical Bayes method to recover the true gene expression profile in noisy and sparse single-cell RNA-seq data.
 - [SAKE](https://github.com/naikai/sake) - [R] - Single-cell RNA-Seq Analysis and Clustering Evaluation.
 - [SC3](https://github.com/hemberg-lab/sc3) - [R] - SC3 is a tool for the unsupervised clustering of cells from single cell RNA-Seq experiments.
 - [Scanpy](https://github.com/theislab/scanpy) - [Py] - Scanpy provides computationally efficient tools that scale up to very large data sets and enables simple integraton of advanced machine learning algorithms.

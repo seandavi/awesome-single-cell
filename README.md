@@ -141,6 +141,7 @@ List of software packages (and the people developing these methods) for single-c
 - [scmap](http://www.hemberg-lab.cloud/scmap/) - A web tool for fast and accurate mapping of cells to a reference database using scRNA-seq data
 - [scRNA.seq.datasets](https://hemberg-lab.github.io/scRNA.seq.datasets) - Collection of public scRNA-Seq datasets used by [Hemberg Lab](http://www.sanger.ac.uk/science/groups/hemberg-group)
 - [scRNASeqDB](https://bioinfo.uth.edu/scrnaseqdb/) - A database aggregating human single-cell RNA-seq datasets. [ref](http://biorxiv.org/content/early/2017/01/31/104810)
+- [SCPortalen](http://single-cell.clst.riken.jp/) - SCPortalen: human and mouse single-cell centric database. [ref](https://doi.org/10.1093/nar/gkx949)
 
 ## Journal articles of general interest
 

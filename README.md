@@ -8,6 +8,7 @@ List of software packages (and the people developing these methods) for single-c
 ### RNA-seq
 
 - [anchor](https://github.com/yeolab/anchor) - [Python] - ⚓ Find bimodal, unimodal, and multimodal features in your data
+- [ascend](https://github.com/IMB-Computational-Genomics-Lab/ascend) - [R] - ascend is an R package comprised of fast, streamlined analysis functions optimized to address the statistical challenges of single cell RNA-seq. The package incorporates novel and established methods to provide a flexible framework to perform filtering, quality control, normalization, dimension reduction, clustering, differential expression and a wide-range of plotting. 
 - [BackSPIN](https://github.com/linnarsson-lab/BackSPIN) - [Python] - Biclustering algorithm developed taking into account intrinsic features of single-cell RNA-seq experiments.
 - [BASiCS](https://github.com/catavallejos/BASiCS) - [R] - Bayesian Analysis of single-cell RNA-seq data. Estimates cell-specific normalization constants. Technical variability is quantified based on spike-in genes. The total variability of the expression counts is decomposed into technical and biological components. BASiCS can also identify genes with differential expression/over-dispersion between two or more groups of cells.
 - [BatchEffectRemoval](https://github.com/ushaham/BatchEffectRemoval) - [Python] - [Removal of Batch Effects using Distribution-Matching Residual Networks](https://doi.org/10.1093/bioinformatics/btx196)

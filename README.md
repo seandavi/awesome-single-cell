@@ -167,7 +167,8 @@ List of software packages (and the people developing these methods) for single-c
 ### Methods comparisons
 
 - [Comparative analysis of single-cell RNA sequencing methods](https://doi.org/10.1016/j.molcel.2017.01.023) - a comparison of wet lab protocols for scRNA sequencing.
-- [Single-Cell RNA-Sequencing: Assessment of Differential Expression Analysis Methods](https://www.frontiersin.org/articles/10.3389/fgene.2017.00062/full) - an assessment of main bulk and single-cell differential analysis methods used to analyze scRNA-seq data. 
+- [Comparison of methods to detect differentially expressed genes between single-cell populations](https://doi.org/10.1093/bib/bbw057) - comparison of five statistical methods to detect differentially expressed genes between two distinct single-cell populations.
+- [Single-Cell RNA-Sequencing: Assessment of Differential Expression Analysis Methods](https://www.frontiersin.org/articles/10.3389/fgene.2017.00062/full) - an assessment of main bulk and single-cell differential analysis methods used to analyze scRNA-seq data.
 
 ## Similar lists and collections
 

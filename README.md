@@ -107,6 +107,7 @@ List of software packages (and the people developing these methods) for single-c
 
 ### Copy number analysis
 
+- [aneufinder](https://github.com/ataudt/aneufinder) - [R] - Bioconductor module for copy-number detection in single-cell whole genome sequencing (scWGS) and strand-seq data using a Hidden Markov Model or binary bisection method.
 - [Ginkgo](https://github.com/robertaboukhalil/ginkgo) - [R, C] - Ginkgo is a web application for single-cell copy-number variation analysis.
 
 ### Variant calling

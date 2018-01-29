@@ -79,7 +79,6 @@ List of software packages (and the people developing these methods) for single-c
 - [SCORPIUS](https://github.com/rcannood/SCORPIUS) - [R] - SCORPIUS an unsupervised approach for inferring developmental chronologies from single-cell RNA sequencing data. It accurately reconstructs trajectories for a wide variety of dynamic cellular processes. The performance was evaluated using a new, quantitative evaluation pipeline, comparing the performance of current state-of-the-art techniques on 10 publicly available single-cell RNA sequencing datasets. It automatically identifies marker genes, speeding up knowledge discovery.
 - [SCOUP](https://github.com/hmatsu1226/SCOUP) - [C++] - Uses probabilistic model based on the Ornstein-Uhlenbeck process to analyze single-cell expression data during differentiation.
 - [scran](http://bioconductor.org/packages/scran) - [R] - This package implements a variety of low-level analyses of single-cell RNA-seq data. Methods are provided for normalization of cell-specific biases, pool-based norms to estimate size factors, assignment of cell cycle phase, and detection of highly variable and significantly correlated genes.
-- [SCRAT](https://github.com/zji90/SCRAT) - [R] - SCRAT provides essential tools for users to read in single-cell regolome data (ChIP-seq, ATAC-seq, DNase-seq) and summarize into different types of features. It also allows users to visualize the features, cluster samples and identify key features.
 - [scTCRseq](https://github.com/ElementoLab/scTCRseq) - [python] - Map T-cell receptor (TCR) repertoires from single cell RNAseq.
 - [SCUBA](https://github.com/gcyuan/SCUBA) - [matlab/R] - SCUBA stands for "Single-cell Clustering Using Bifurcation Analysis." SCUBA is a novel computational method for extracting lineage relationships from single-cell gene expression data, and modeling the dynamic changes associated with cell differentiation.
 - [SEPA](https://github.com/zji90/SEPA) - [R] - SEPA provides convenient functions for users to assign genes into different gene expression patterns such as constant, monotone increasing and increasing then decreasing. SEPA then performs GO enrichment analysis to analysis the functional roles of genes with same or similar patterns.
@@ -116,16 +115,20 @@ List of software packages (and the people developing these methods) for single-c
 - [monovar](https://bitbucket.org/hamimzafar/monovar) - [python] - Monovar is a single nucleotide variant (SNV) detection and genotyping algorithm for single-cell DNA sequencing data. It takes a list of bam files as input and outputs a vcf file containing the detected SNVs.
 - [SSrGE](https://github.com/lanagarmire/SSrGE) - [python] - SSrGE is an approach to identify SNVs correlated with Gene Expression using multiple regularized linear regressions. It contains its own pipeline to infer SNVs from scRNA-seq reads and is able to identify and sort genes and SNVs for a given cell subgroup. Deposited in [BioRvix in December 2016](http://biorxiv.org/content/early/2017/03/01/095810).
 
-### Methylation
+### Epigenomics
 
 - [DeepCpg](https://github.com/cangermueller/deepcpg) - [python] - DeepCpG is a deep neural network for predicting the methylation state of CpG dinucleotides in multiple cells. It allows to accurately impute incomplete DNA methylation profiles, to discover predictive sequence motifs, and to quantify the effect of sequence mutations.
+- [SCRAT](https://github.com/zji90/SCRAT) - [R] - SCRAT provides essential tools for users to read in single-cell regolome data (ChIP-seq, ATAC-seq, DNase-seq) and summarize into different types of features. It also allows users to visualize the features, cluster samples and identify key features.
+
+### Multi-assay data integration
+
+- [MATCHER]( https://github.com/jw156605/MATCHER) - [python] - [MATCHER: An algorithm for integrating single cell transcriptomic and epigenomic data using manifold alignment. MATCHER takes multiple types of single cell measurements performed on distinct single cells and infers single cell multi-omic profiles.](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-017-1269-0)
 
 ### Other applications
 
 - [BASIC](http://ttic.uchicago.edu/~aakhan/BASIC/) - [python] - BASIC is a semi-de novo assembly method to determine the full-length sequence of the BCR in single B cells from scRNA-seq data.
 - [dropSeqPipe](https://github.com/Hoohm/dropSeqPipe) - [python, R, snakemake] - An automatic data handling pipeline for drop-seq/scrb-seq data. It runs from raw fastq.gz data until the final count matrix with QC plots along the way.
 - [MAGIC]( https://github.com/pkathail/magic) - [python] - [MAGIC: A diffusion-based imputation method reveals gene-gene interactions in single-cell RNA-sequencing data](http://www.biorxiv.org/content/early/2017/02/25/111591)
-- [MATCHER]( https://github.com/jw156605/MATCHER) - [python] - [MATCHER: An algorithm for integrating single cell transcriptomic and epigenomic data using manifold alignment. MATCHER takes multiple types of single cell measurements performed on distinct single cells and infers single cell multi-omic profiles.](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-017-1269-0)
 - [MetaNeighbor](github.com/maggiecrow/MetaNeighbor) - [R] - [MetaNeighbor: a method to rapidly assess cell type identity using both functional and random gene sets](https://doi.org/10.1101/150524)
 - [powsimR](https://github.com/bvieth/powsimR) - [R] - [Power analysis for bulk and single cell RNA-seq experiments.](https://doi.org/10.1101/117150)
 - [SiFit](https://bitbucket.org/hamimzafar/sifit) - [Java] - [SiFit: A Method for Inferring Tumor Trees from Single-Cell Sequencing Data under Finite-site Models](http://biorxiv.org/content/early/2016/12/04/091595)

@@ -4,7 +4,7 @@ List of software packages (and the people developing these methods) for single-c
 
 ## Citation
 
-[![DOI](https://zenodo.org/badge/62237945.svg)](https://zenodo.org/badge/latestdoi/62237945)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1117762.svg)](https://doi.org/10.5281/zenodo.1117762)
 
 
 ## Software packages

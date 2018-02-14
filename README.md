@@ -180,6 +180,7 @@ List of software packages (and the people developing these methods) for single-c
 ### Experimental design
 
 - [Design and computational analysis of single-cell RNA-sequencing experiments](http://genomebiology.biomedcentral.com/articles/10.1186/s13059-016-0927-y)
+- [How to design a single-cell RNA-sequencing experiment: pitfalls, challenges and perspectives](https://doi.org/10.1093/bib/bby007)
 
 ### Methods comparisons
 

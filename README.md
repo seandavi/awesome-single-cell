@@ -127,6 +127,7 @@ List of software packages (and the people developing these methods) for single-c
 ### Other applications
 
 - [BASIC](http://ttic.uchicago.edu/~aakhan/BASIC/) - [python] - BASIC is a semi-de novo assembly method to determine the full-length sequence of the BCR in single B cells from scRNA-seq data.
+- [dropEst](https://github.com/hms-dbmi/dropEst) - [C++, R] - High-performance pipeline for initial analysis of droplet-based single-cell RNA-seq data (Drop-seq, inDrop, 10x and some others). Allows to estimate gene count matrix as well as diagnostic stats from fastq files with raw reads. Implements corrections for different noise sources.
 - [dropSeqPipe](https://github.com/Hoohm/dropSeqPipe) - [python, R, snakemake] - An automatic data handling pipeline for drop-seq/scrb-seq data. It runs from raw fastq.gz data until the final count matrix with QC plots along the way.
 - [MAGIC]( https://github.com/pkathail/magic) - [python] - [MAGIC: A diffusion-based imputation method reveals gene-gene interactions in single-cell RNA-sequencing data](http://www.biorxiv.org/content/early/2017/02/25/111591)
 - [MetaNeighbor](github.com/maggiecrow/MetaNeighbor) - [R] - [MetaNeighbor: a method to rapidly assess cell type identity using both functional and random gene sets](https://doi.org/10.1101/150524)

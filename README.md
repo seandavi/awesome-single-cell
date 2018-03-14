@@ -197,6 +197,7 @@ List of software packages (and the people developing these methods) for single-c
 - [Comparison of computational methods for imputing single-cell RNA-sequencing data](https://doi.org/10.1101/241190) - We compared eight imputation methods, evaluated their power in recovering original real data, and performed broad analyses to explore their effects on clustering cell types, detecting differentially expressed genes, and reconstructing lineage trajectories in the context of both simulated and real data. Simulated datasets and case studies highlight that there are no one method performs the best in all the situations.
 - [Comparison of methods to detect differentially expressed genes between single-cell populations](https://doi.org/10.1093/bib/bbw057) - comparison of five statistical methods to detect differentially expressed genes between two distinct single-cell populations.
 - [Single-Cell RNA-Sequencing: Assessment of Differential Expression Analysis Methods](https://www.frontiersin.org/articles/10.3389/fgene.2017.00062/full) - an assessment of main bulk and single-cell differential analysis methods used to analyze scRNA-seq data.
+- [A comparison of single-cell trajectory inference methods: towards more accurate and robust tools](https://www.biorxiv.org/content/early/2018/03/05/276907) - A comparison of 29 trajectory inference methods on real and synthetic data.  
 
 ## Similar lists and collections
 

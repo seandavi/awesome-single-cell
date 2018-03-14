@@ -47,7 +47,7 @@ List of software packages (and the people developing these methods) for single-c
 - [MAGIC](https://github.com/pkathail/magic) - [python or matlab] - Markov Affinity-based Graph Imputation of Cells (MAGIC).
 - [MAST](https://github.com/RGLab/MAST) - [R] - Model-based Analysis of Single-cell Transcriptomics (MAST) fits a two-part, generalized linear models that are specially adapted for bimodal and/or zero-inflated single cell gene expression data.
 - [MERLoT](https://github.com/soedinglab/merlot) - [R/python] - Reconstructing complex lineage trees from scRNA-seq data using MERLoT.
-- [mfa](https://github.com/kieranrcampbell/mfa) - [R] - Bayesian modelling of bifurcations using a mixture of factor analysers
+- [mfa](https://github.com/kieranrcampbell/mfa) - [R] - [Probabilistic modeling of bifurcations in single-cell gene expression data using a Bayesian mixture of factor analyzers](https://wellcomeopenresearch.org/articles/2-19/v1)
 - [K-Branches](https://github.com/theislab/kbranches) - [R] - The main idea behind the K-Branches method is to identify regions of interest (branching regions and tips) in differentiation trajectories of single cells. So far, K-Branches is intended to be used on the diffusion map representation of the data, so the user should either provide the data in diffusion map space or use the destiny package perform diffusion map dimensionality reduction.
 - [M3Drop](https://github.com/tallulandrews/M3Drop) - [R] - Michaelis-Menten Modelling of Dropouts for scRNASeq.
 - [MAST](https://github.com/RGLab/MAST) - [R] - Model-based Analysis of Single-cell Transcriptomics (MAST) fits a two-part, generalized linear models that are specially adapted for bimodal and/or zero-inflated single cell gene expression data

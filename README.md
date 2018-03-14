@@ -229,7 +229,7 @@ List of software packages (and the people developing these methods) for single-c
 - [Comparison of methods to detect differentially expressed genes between single-cell populations](https://doi.org/10.1093/bib/bbw057) - comparison of five statistical methods to detect differentially expressed genes between two distinct single-cell populations.
 - [Bias, Robustness And Scalability In Differential Expression Analysis Of Single-Cell RNA-Seq Data](http://dx.doi.org/10.1038/nmeth.4612) - comparison of 36 statistical methods to detect differentially expressed genes between two annotated populations from the [conquer](http://imlspenticton.uzh.ch:3838/conquer/) database of consistently processed scRNA-seq datasets.
 - [Single-Cell RNA-Sequencing: Assessment of Differential Expression Analysis Methods](https://www.frontiersin.org/articles/10.3389/fgene.2017.00062/full) - an assessment of main bulk and single-cell differential analysis methods used to analyze scRNA-seq data.
-- [A comparison of single-cell trajectory inference methods: towards more accurate and robust tools](https://www.biorxiv.org/content/early/2018/03/05/276907) - A comparison of 29 trajectory inference methods on real and synthetic data.  
+- [A comparison of single-cell trajectory inference methods: towards more accurate and robust tools](https://doi.org/10.1101/276907) - A comparison of 29 trajectory inference methods on real and synthetic data.  
 
 ## Similar lists and collections
 

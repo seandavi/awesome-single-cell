@@ -32,6 +32,7 @@ List of software packages (and the people developing these methods) for single-c
 - [DeLorean](https://cran.r-project.org/web/packages/DeLorean/index.html) - [R] - Bayesian pseudotime estimation algorithm that uses Gaussian processes to model gene expression profiles and provides a full posterior for the pseudotimes.
 - [dropClust](https://github.com/debsin/dropClust) - [R/Python] - Efficient clustering of ultra-large scRNA-seq data.
 - [dropsim](https://github.com/marchinilab/dropsim) - [R] - Simulating droplet based scRNA-seq data.
+- [dynverse](https://github.com/dynverse/dynverse/) - [R] - [A comparison of single-cell trajectory inference methods: towards more accurate and robust tools](https://doi.org/10.1101/276907)
 - [ECLAIR](https://github.com/GGiecold/ECLAIR) - [python] - ECLAIR stands for Ensemble Clustering for Lineage Analysis, Inference and Robustness. Robust and scalable inference of cell lineages from gene expression data.
 - [embeddr](https://github.com/kieranrcampbell/embeddr) - [R] - Embeddr creates a reduced dimensional representation of the gene space using a high-variance gene correlation graph and laplacian eigenmaps. It then fits a smooth pseudotime trajectory using principal curves.
 - [Falco](https://github.com/VCCRI/Falco/) - [AWS cloud] - [Falco: A quick and flexible single-cell RNA-seq processing framework on the cloud](http://www.biorxiv.org/content/early/2016/07/15/064006.abstract).

@@ -1,0 +1,8 @@
+title: Awesome-single-cell
+description: List of software packages for single-cell data analysis, including RNA-seq, ATAC-seq, etc.
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-hacker
+
+gems:
+  - jekyll-mentions

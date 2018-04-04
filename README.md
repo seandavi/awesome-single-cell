@@ -126,6 +126,7 @@ List of software packages (and the people developing these methods) for single-c
 ### Variant calling
 
 - [monovar](https://bitbucket.org/hamimzafar/monovar) - [python] - Monovar is a single nucleotide variant (SNV) detection and genotyping algorithm for single-cell DNA sequencing data. It takes a list of bam files as input and outputs a vcf file containing the detected SNVs.
+- [SCIPhi](https://github.com/cbg-ethz/SCIPhI) - [python] - [Single-cell mutation identification via phylogenetic inference (SCIPhI) is a new approach to mutation detection in individual tumor cells by leveraging the evolutionary relationship among cells.](https://www.biorxiv.org/content/early/2018/03/28/290908)
 - [SSrGE](https://github.com/lanagarmire/SSrGE) - [python] - SSrGE is an approach to identify SNVs correlated with Gene Expression using multiple regularized linear regressions. It contains its own pipeline to infer SNVs from scRNA-seq reads and is able to identify and sort genes and SNVs for a given cell subgroup. Deposited in [BioRvix in December 2016](http://biorxiv.org/content/early/2017/03/01/095810).
 
 ### Epigenomics

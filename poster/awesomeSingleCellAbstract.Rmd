@@ -1,0 +1,26 @@
+---
+title: "Awesome-Single-Cell: A Crowdsourced Knowledge Resource for Single Cell Data Analysis"
+author: Sean Davis, MD, PhD
+output: 
+  word_document
+vignette: >
+  %\VignetteIndexEntry{Vignette Title}
+  %\VignetteEngine{knitr::rmarkdown}
+  %\VignetteEncoding{UTF-8}  
+---
+
+### Background
+
+In parallel with the rapid development of single cell assays has been a similarly unprecedented explosion of analysis approaches, tools, and workflows for interpreting and comprehending the data. To keep pace with the growing landscape of analysis approaches, we established and maintain an open and community-curated resource that catalogs software, data resources. It also includes a list of academic researchers who are leaders in the field, facilitating gender-equal speaker invitations.
+
+### Study Design and Methods 
+
+The awesome-single-cell resources uses the social coding website, GitHub. Established on June 29, 2016, the repository uses "pull requests" and "issues" to allow community contribution and engagement. Forty-five contributors have made 280 separate additions to the resource.
+
+### Results and Conclusions
+
+Here, we present the resource itself, https://github.com/seandavi/awesome-single-cell, as an example of how the combination of social coding platforms, social media outreach, and identification of a need can result in a successful knowledge base with little effort and no financial cost. After just under 20 months, we have cataloged over 150 software, tools, and databases for single cell analysis. Listing categories include software, workflows, tutorials, comparisons of tools, and academic speakers (59% female). Biological applications include RNA-seq, epigenomics, copy number, variant calling, and multi-assay data integration. Our resources has garnered significant attention in the field including a citation in a recent Nature editorial. Most importantly, the awesome-single-cell list provides a valuable, timely, curated resource that adapts and grows through the power of the crowd.
+
+### Abstract Acknowledgements
+
+The authors thank the many contributors to awesome-single-cell and the extensive social media outreach and sharing that has multiplied the value of the resource many fold.

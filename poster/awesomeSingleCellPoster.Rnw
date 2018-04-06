@@ -1,0 +1,174 @@
+\documentclass[final]{beamer}
+\usetheme{SD}
+\usepackage[orientation=landscape,size=custom,width=160,height=90,scale=1.9,debug]{beamerposter}
+\usepackage[backend=bibtex]{biblatex}
+\bibliography{references}
+\renewcommand*{\bibfont}{\footnotesize}
+
+%\usepackage[absolute,overlay]{textpos}
+%\setlength{\TPHorizModule}{1cm}
+%\setlength{\TPVertModule}{1cm}
+
+\title{Awesome-Single-Cell: 
+A Crowdsourced Knowledge Resource for Single Cell Data Analysis}
+\author{Sean Davis, MD, PhD \& 45 community contributors}
+\footer{More information at \texttt{\url{https://github.com/seandavi/awesome-single-cell}}}
+\date{April 6, 2018}
+
+\begin{document}
+
+<<init, include=FALSE>>=
+library(gh)
+library(purrr)
+library(dplyr)
+library(magrittr)
+library(ggplot2)
+library(lubridate)
+library(stringr)
+library(tm)
+library(SnowballC)
+library(RColorBrewer)
+library(wordcloud)
+library(gridExtra)
+@
+
+<<readdata, include=FALSE>>=
+dat = readLines('../README.md')
+gh_token = readLines('~/.github_token')[1]
+commits = gh("/repos/seandavi/awesome-single-cell/commits",  
+             .limit = Inf, 
+             .token = gh_token)
+@
+
+
+\begin{frame}[fragile]
+  \begin{columns}[t]
+    \begin{column}{0.24\linewidth}
+      \begin{block}{Background}
+In parallel with the rapid development of single cell assays has been a similarly unprecedented explosion of analysis approaches, tools, and workflows for interpreting and comprehending the data. To keep pace with the growing landscape of analysis approaches, we established and maintain an open and community-curated resource that catalogs software, data resources, workflows, and tutorials related to single cell data analysis and interpretation. It also includes a list of academic researchers who are leaders in the field, facilitating gender-equal speaker invitations \cite{noauthor2015qx}.
+      \end{block}
+      \begin{block}{Materials and Methods}
+The awesome-single-cell resources uses the social coding website, GitHub. GitHub allows anyone with a free account to contribute to the resource, maintained as a single versioned document, via a moderated "pull request" model. We use the Zenodo open science service \cite{zenodo} to maintain versioned Digital Object Identifiers (DOI) to content. Since being established on June 29, 2016, the repository has had forty-nine contributors who have made more than 300 separate additions to the resource. 
+      \end{block}
+      \begin{block}{Utilizing Online Community Best Practices}
+Open online communities have the potential for conflict, disagreements, or claims of intellectual property. To mitigate those risks and address them we they arise, we have applied open community standards including:
+        \begin{itemize}
+          \item{Maintaining a clear, public-facing description of project}
+          \item{Clear guidelines for contribution}
+          \item{A formal code-of-conduct}
+          \item{The full text of an open license}
+        \end{itemize}
+      \end{block}
+    \end{column}
+    \begin{column}{0.24\linewidth}
+      \begin{block}{GitHub Site}
+<<screenshot, echo=FALSE, fig.cap="The awesome-single-cell list is maintained as a markdown document on the GitHub social coding site">>=
+library(webshot)
+webshot("https://github.com/seandavi/awesome-single-cell/blob/master/README.md", 
+        cliprect = c(580,0,1024,700),zoom=2)
+@
+      \end{block}
+      \begin{block}{Technical Details of Available Software}
+<<techdetails, echo=FALSE, fig.width=12, fig.height=9, fig.cap="Programming language and hosting platform or site for software.">>=
+software = as.data.frame(str_match(dat,'- \\[(\\S+)\\]\\((http\\S+)\\) - \\[(.*)\\] - (.*)')) %>%
+  setNames(c('match', 'Name', 'URL', 'Language(s)', 'Description')) %>%
+  dplyr::filter(!is.na(Name))
+lplot = Corpus(VectorSource(software[['Language(s)']])) %>%
+  tm_map(content_transformer(tolower)) %>%
+  tm_map(removeWords, "or") %>%
+  tm_map(function(x) str_replace_all(x, ',',' ')) %>%
+  tm_map(function(x) str_replace_all(x, '/',' ')) %>%
+  tm_map(stripWhitespace) %>% 
+  content() %>%
+  str_split(' ') %>%
+  unlist %>% 
+  table() %>%
+  as.data.frame() %>%
+  setNames(c('Language', 'Count')) %>%
+  ggplot(aes(x = reorder(Language,Count), y=Count)) + 
+    geom_bar(stat='identity') + 
+    coord_flip() + 
+    theme_light(base_size = 20) + 
+    xlab("Language")
+hplot = software[['URL']] %>% 
+  str_split('/') %>% 
+  sapply('[',3) %>%
+  table() %>% 
+  as.data.frame() %>%
+  setNames(c('Site', 'Count')) %>%
+  ggplot(aes(x = reorder(Site,Count), y=Count)) + 
+    geom_bar(stat='identity') + 
+    coord_flip() + 
+    theme_light(base_size = 20) + 
+    xlab("Hosting")
+grid.arrange(lplot,hplot, nrow=2)
+@
+      \end{block}
+    \end{column}
+    \begin{column}{0.24\linewidth}
+      \begin{block}{Growth and Popularity}
+<<commits, echo=FALSE, fig.width = 12, fig.height = 9, fig.cap = "Statistics over time. Top panel reports additions to the repository (commits) over time. GitHub 'stars' are similar to 'likes' in other social media platforms.">>=
+commit_date = commits %>% 
+  purrr::map_chr(function(x) x[['commit']][['author']][['date']]) %>%
+  as.Date() %>%
+  as_tibble() %>% 
+  mutate(Time=paste(year(value),sprintf("%02d",month(value)),sep="-")) %>%
+  mutate(x = 1)
+cplot = ggplot(commit_date[order(commit_date$value),],aes(value, cumsum(x))) + 
+  geom_line() + 
+  theme_light(base_size = 20) + 
+  xlab("Date") +
+  ylab("Cumulative number of additions") +
+  labs(title="Additions Over Time")
+starred_date = gh("/repos/seandavi/awesome-single-cell/stargazers", 
+                  .limit=Inf, 
+                  .send_headers = c("Accept" = "application/vnd.github.v3.star+json"),
+                  .token = gh_token) %>%
+  purrr::map_chr('starred_at') %>%
+  as.Date()  %>%
+  as_tibble() %>% 
+  mutate(Time=paste(year(value),sprintf("%02d",month(value)),sep="-")) %>%
+  mutate(x = 1)
+splot = ggplot(starred_date[order(starred_date$value),],aes(value, cumsum(x))) + 
+  geom_line() + 
+  theme_light(base_size = 20) + 
+  xlab("Date") +
+  ylab("Cumulative 'stars'") +
+  labs(title="GitHub 'Stars' Over Time")
+gridExtra::grid.arrange(cplot, splot, ncol = 1)
+@
+      \end{block}
+      \begin{block}{Describing Software Packages}
+<<wordcloud, fig.width=10, fig.height=10, fig.cap="Wordcloud derived from contributed software package descriptions.", echo=FALSE>>=
+docs <- Corpus(VectorSource(software[['Description']])) %>%
+  tm_map(content_transformer(tolower)) %>%
+  tm_map(removeNumbers) %>%
+  tm_map(removeWords,stopwords("english")) %>%
+  tm_map(removePunctuation) %>% 
+  tm_map(stripWhitespace)
+dtm = TermDocumentMatrix(docs)
+m <- as.matrix(dtm)
+v <- sort(rowSums(m),decreasing=TRUE)
+d <- data.frame(word = names(v),freq=v)
+wordcloud(words = d$word, freq = d$freq, min.freq = 2,
+          max.words=100, random.order=FALSE, rot.per=0.35, 
+          colors=brewer.pal(8, "Dark2"),scale=c(8,1))
+@
+      \end{block}
+
+    \end{column}
+    \begin{column}{0.24\linewidth}
+
+      \begin{block}{Results and Conclusions}
+      Here, we present the awesome-single-cell resource as an example of how the combination of social coding platforms, social media outreach, and identification of a need can result in a successful knowledge base with little effort and no financial cost. After just under 20 months, we have cataloged over 150 software, tools, and databases for single cell analysis. Listing categories include software, workflows, tutorials, comparisons of tools, and academic speakers (59\% female). Biological applications include RNA-seq, epigenomics, copy number, variant calling, and multi-assay data integration. Our resources has garnered significant attention in the field including a citation in a recent Nature editorial \cite{Perkel2017-xt}. Most importantly, the awesome-single-cell list provides a valuable, timely, curated resource that adapts and grows through the power of the crowd.
+      \end{block}
+      \begin{block}{Contributing}
+Your contributions are welcome. To contribute, you need to create or already have a \textit{free} GitHub account and be able to use an online text editor. Adding your own favorites or even your own software, tool, database, or single-cell speaker is encouraged.
+      \end{block}
+      \begin{block}{References}
+        \printbibliography
+      \end{block}
+    \end{column}
+    \end{columns}
+  \end{frame}
+\end{document}

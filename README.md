@@ -238,7 +238,7 @@ Gender bias at conferences is a well known problem ([http://www.sciencemag.org/c
 - [Ning Leng (Morgridge Institute for Research, USA)](https://www.biostat.wisc.edu/~ningleng/)
 - [Laleh Haghverdi (Institute of Computational Biology, Germany)](https://www.helmholtz-muenchen.de/icb/institute/staff/staff/ma/2453/-Haghverdi/index.html)
 - [Rhonda Bacher (University of Wisconsin-Madison, USA)](https://twitter.com/rbacher)
-- [Lana X. Garmire, (University oh Hawaii, Cancer Center, USA)](http://garmiregroup.org/)
+- [Lana X. Garmire, (University of Hawaii Cancer Center, USA)](http://garmiregroup.org/)
 - [Barbara Treutlein (Max Planck Institute for Evolutionary Anthropology, Germany)](http://www.treutleinlab.org/)
 - [Samantha Morris (Depts of Dev. Bio. and Genetics, Washington University, St. Louis)](http://morrislab.wustl.edu/)
 

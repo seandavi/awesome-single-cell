@@ -238,7 +238,7 @@ Gender bias at conferences is a well known problem ([http://www.sciencemag.org/c
 - [Keegan Korthauer (Dana Farber Cancer Institute, USA)](http://bcb.dfci.harvard.edu/~keegan/)
 - [Stephanie Hicks (Dana Farber Cancer Institute, USA)](http://www.stephaniehicks.com/)
 - [Dana Pe'er (Columbia University, USA)](http://www.c2b2.columbia.edu/danapeerlab/html/)
-- [Alicia Oshlack (Murdock Children's Research Institute, Australia)](https://www.mcri.edu.au/users/dr-alicia-oshlack)
+- [Alicia Oshlack (Murdoch Children's Research Institute, Australia)](https://www.mcri.edu.au/users/dr-alicia-oshlack)
 - [Aviv Regev (Broad Institute, USA)](https://www.broadinstitute.org/scientific-community/science/core-faculty-labs/regev-lab/regev-lab-home)
 - [Catalina Vallejos (The Alan Turing Institute & UCL, UK)](https://sites.google.com/view/catalinavallejos)
 - [Sarah Teichmann (Wellcome Trust Sanger Institute, UK)](http://www.teichlab.org/)
@@ -249,6 +249,8 @@ Gender bias at conferences is a well known problem ([http://www.sciencemag.org/c
 - [Lana X. Garmire, (University of Hawaii Cancer Center, USA)](http://garmiregroup.org/)
 - [Barbara Treutlein (Max Planck Institute for Evolutionary Anthropology, Germany)](http://www.treutleinlab.org/)
 - [Samantha Morris (Depts of Dev. Bio. and Genetics, Washington University, St. Louis)](http://morrislab.wustl.edu/)
+- [Charlotte Soneson (Institute of Molecular Life Sciences, University of Zurich)](https://csoneson.github.io/)
+- [Elisabetta Mereu (Centre for Genomic Regulation, Barcelona)](http://www.cnag.cat/elisabetta-mereu)
 
 ### Male
 
@@ -263,3 +265,10 @@ Gender bias at conferences is a well known problem ([http://www.sciencemag.org/c
 - [Oliver Stegle (EBI, UK)](http://www.ebi.ac.uk/research/stegle)
 - [Cole Trapnell (University of Washington, Department of Genome Sciences)](http://cole-trapnell-lab.github.io/)
 - [Itai Yanai (New York University, School of Medicine, Institute for Computational Medicine, USA)](https://yanailab.org/about/)
+- [Fabian Theis (Institute of Computational Biology, Helmholtz Zentrum München)](https://www.helmholtz-muenchen.de/icb/institute/staff/staff/ma/2494/index.html)
+- [Mark Robinson (Institute of Molecular Life Sciences, University of Zurich)](http://www.imls.uzh.ch/en/research/robinson.html)
+- [Holger Heyn (Centre for Genomic Regulation, Barcelona)](http://www.cnag.crg.eu/holger-heyn)
+- [Yvan Saeys (Vlaams Instituut voor Biotechnologie, Netherlands)](http://www.vib.be/en/research/scientists/Pages/Yvan-Saeys-Lab.aspx)
+- [Stein Aerts (KU Leuven Center for Human Genetics, Belgium)](http://aertslab.org/)
+- [Sten Linnarson (Karolinska Institutet, Sweden)](http://linnarssonlab.org/)
+

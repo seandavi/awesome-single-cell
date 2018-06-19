@@ -275,7 +275,7 @@ Gender bias at conferences is a well known problem ([http://www.sciencemag.org/c
 - [Davis McCarthy (EBI, UK)](https://sites.google.com/site/davismcc/)
 - [John Reid (MRC Biostatistics Unit, Cambridge University, UK)](http://johnreid.github.io/)
 - [Mark Robinson (Institute of Molecular Life Sciences, University of Zurich)](http://www.imls.uzh.ch/en/research/robinson.html)
-- [Yvan Saeys (Vlaams Instituut voor Biotechnologie, Netherlands)](http://www.vib.be/en/research/scientists/Pages/Yvan-Saeys-Lab.aspx)
+- [Yvan Saeys (Vlaams Instituut voor Biotechnologie, Ghent, Belgium)](http://www.vib.be/en/research/scientists/Pages/Yvan-Saeys-Lab.aspx)
 - [Rahul Satija (New York Genome Center)](http://satijalab.org/)
 - [Peter Sims (Columbia University, Department of Systems Biology)](http://www.columbia.edu/~pas2182/index.php/home-top.html)
 - [Oliver Stegle (EBI, UK)](http://www.ebi.ac.uk/research/stegle)

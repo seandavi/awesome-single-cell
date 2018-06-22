@@ -126,6 +126,12 @@ List of software packages (and the people developing these methods) for single-c
 - [zUMIs](https://github.com/sdparekh/zUMIs) - [R, perl, shell] - [zUMIs: A fast and flexible pipeline to process RNA-seq data with UMIs.](https://www.biorxiv.org/content/early/2017/10/18/153940)
 
 
+### Doublet Identification
+
+- [demuxlet](https://github.com/statgen/demuxlet) - [shell] - [Multiplexed droplet single-cell RNA-sequencing using natural genetic variation](https://www.nature.com/articles/nbt.4042)
+- DoubletFinder - [R] - Doublet detection in single-cell RNA sequencing data using artificial nearest neighbors[BioRxiv](https://www.biorxiv.org/content/early/2018/06/20/352484)
+- [DoubletDetection](https://github.com/JonathanShor/DoubletDetection) - [R, Python] - A Python3 package to detect doublets (technical errors) in single-cell RNA-seq count matrices. An [R implementation](https://github.com/TomKellyGenetics/DoubletDetection) is in development.
+
 
 ### Copy number analysis
 

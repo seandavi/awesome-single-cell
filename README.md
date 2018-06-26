@@ -155,7 +155,8 @@ List of software packages (and the people developing these methods) for single-c
 ### Multi-assay data integration
 
 - [MATCHER]( https://github.com/jw156605/MATCHER) - [python] - [MATCHER: An algorithm for integrating single cell transcriptomic and epigenomic data using manifold alignment. MATCHER takes multiple types of single cell measurements performed on distinct single cells and infers single cell multi-omic profiles.](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-017-1269-0)
-
+- [MOFA]( https://github.com/bioFAM/MOFA/tree/master/mofa/core) - [python, R] - [Multi‐Omics Factor Analysis, a framework for unsupervised integration of multi‐omics data sets. MOFA is a method for disentangling the different sources of heterogeneity in bulk and single-cell multi-omics data sets. It identifies the latent factors that drive unique and shared variability in the different assays. The factors can be used for visualisation, pseudotime reconstruction, imputation, among other functionalities.](http://msb.embopress.org/content/14/6/e8124)
+ 
 ### Other applications
 
 - [BASIC](http://ttic.uchicago.edu/~aakhan/BASIC/) - [python] - BASIC is a semi-de novo assembly method to determine the full-length sequence of the BCR in single B cells from scRNA-seq data.

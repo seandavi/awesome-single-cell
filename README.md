@@ -247,7 +247,7 @@ Gender bias at conferences is a well known problem ([http://www.sciencemag.org/c
 - [Barbara Di Camillo (Information Engineering Department, University of Padova, Italy](https://www.dei.unipd.it/~dicamill/)
 - [Sandrine Dudoit (UC Berkeley, USA)](http://www.stat.berkeley.edu/~sandrine/)
 - [Lana X. Garmire, (University of Hawaii Cancer Center, USA)](http://garmiregroup.org/)
-- [Laleh Haghverdi (Institute of Computational Biology, Germany)](https://www.helmholtz-muenchen.de/icb/institute/staff/staff/ma/2453/-Haghverdi/index.html)
+- [Laleh Haghverdi (EMBL, Germany)](https://www.embl.de/research/units/genome_biology/huber/members/index.php?s_personId=CP-60025160)
 - [Stephanie Hicks (Dana Farber Cancer Institute, USA)](http://www.stephaniehicks.com/)
 - [Christina Kendziorski (University of Wisconsin–Madison, USA)](https://www.biostat.wisc.edu/~kendzior/)
 - [Keegan Korthauer (Dana Farber Cancer Institute, USA)](http://bcb.dfci.harvard.edu/~keegan/)

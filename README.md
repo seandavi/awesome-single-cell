@@ -246,6 +246,7 @@ Gender bias at conferences is a well known problem ([http://www.sciencemag.org/c
 
 - [Rhonda Bacher (University of Wisconsin-Madison, USA)](https://twitter.com/rbacher)
 - [Barbara Di Camillo (Information Engineering Department, University of Padova, Italy](https://www.dei.unipd.it/~dicamill/)
+- [Jinmiao Chen (Singapore Immunology Network, A\*STAR, Singapore)](https://www.a-star.edu.sg/sign/PEOPLE/Principal-Investigators/Investigator-Details?givenName=Jinmiao&lastName=CHEN)
 - [Sandrine Dudoit (UC Berkeley, USA)](http://www.stat.berkeley.edu/~sandrine/)
 - [Lana X. Garmire, (University of Hawaii Cancer Center, USA)](http://garmiregroup.org/)
 - [Laleh Haghverdi (EMBL, Germany)](https://www.embl.de/research/units/genome_biology/huber/members/index.php?s_personId=CP-60025160)
@@ -268,8 +269,10 @@ Gender bias at conferences is a well known problem ([http://www.sciencemag.org/c
 
 - [Stein Aerts (KU Leuven Center for Human Genetics, Belgium)](http://aertslab.org/)
 - [Raphael Gottardo (Fred Hutchinson Cancer Research Center, USA)](https://www.fredhutch.org/en/labs/profiles/gottardo-raphael.html)
+- [Chung Chau Hon (RIKEN Centre for Integrative Medical Sciences, Yokohama)](http://www.riken.jp/en/research/labs/ims/genom_inf/)
 - [Martin Hemberg (Sanger Institute, UK)](http://www.sanger.ac.uk/science/groups/hemberg-group)
 - [Holger Heyn (Centre for Genomic Regulation, Barcelona)](http://www.cnag.crg.eu/holger-heyn)
+- [Peter Kharchenko (Department of Biomedical Informatics, Harvard Medical School, USA)](http://pklab.med.harvard.edu/)
 - [Sten Linnarson (Karolinska Institutet, Sweden)](http://linnarssonlab.org/)
 - [Aaron Lun (Cancer Research UK, UK)](http://www.cruk.cam.ac.uk/users/aaron-lun)
 - [John Marioni (EBI, UK)](http://www.ebi.ac.uk/research/marioni)

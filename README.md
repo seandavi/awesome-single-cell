@@ -269,6 +269,7 @@ Gender bias at conferences is a well known problem ([http://www.sciencemag.org/c
 ### Male
 
 - [Stein Aerts (KU Leuven Center for Human Genetics, Belgium)](http://aertslab.org/)
+- [Bart DePlancke (EPFL, School of Life sciences, Institute of Bioengineering, Switzerland)](https://deplanckelab.epfl.ch/)
 - [Raphael Gottardo (Fred Hutchinson Cancer Research Center, USA)](https://www.fredhutch.org/en/labs/profiles/gottardo-raphael.html)
 - [Chung Chau Hon (RIKEN Centre for Integrative Medical Sciences, Yokohama)](http://www.riken.jp/en/research/labs/ims/genom_inf/)
 - [Martin Hemberg (Sanger Institute, UK)](http://www.sanger.ac.uk/science/groups/hemberg-group)

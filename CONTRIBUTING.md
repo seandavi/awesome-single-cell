@@ -1,8 +1,8 @@
 Contribution and suggestions are welcome! Simply 
 
-1. [fork this repository](https://github.com/seandavi/awesome-single-cell/edit/master/CONTRIBUTE.md#fork-destination-box)
-2. make a change to README.md
-3. submit a pull request.
+1. [Fork this repository](https://github.com/seandavi/awesome-single-cell/edit/master/CONTRIBUTE.md#fork-destination-box)
+2. Make a change to README.md
+3. [Submit a pull request](https://help.github.com/articles/creating-a-pull-request/).
 
 Please ensure your pull request adheres to the following guidelines:
 

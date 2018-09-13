@@ -290,5 +290,5 @@ Gender bias at conferences is a well known problem ([http://www.sciencemag.org/c
 - [Oliver Stegle (EBI, UK)](http://www.ebi.ac.uk/research/stegle)
 - [Fabian Theis (Institute of Computational Biology, Helmholtz Zentrum München)](https://www.helmholtz-muenchen.de/icb/institute/staff/staff/ma/2494/index.html)
 - [Cole Trapnell (University of Washington, Department of Genome Sciences)](http://cole-trapnell-lab.github.io/)
-- [Itai Yanai (New York University, School of Medicine, Institute for Computational Medicine, USA)](https://yanailab.org/about/)
+- [Itai Yanai (New York University, School of Medicine, Institute for Computational Medicine, USA)](https://yanailab.org/)
 

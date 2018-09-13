@@ -256,7 +256,7 @@ Gender bias at conferences is a well known problem ([http://www.sciencemag.org/c
 - [Laleh Haghverdi (EMBL, Germany)](https://www.embl.de/research/units/genome_biology/huber/members/index.php?s_personId=CP-60025160)
 - [Stephanie Hicks (Dana Farber Cancer Institute, USA)](http://www.stephaniehicks.com/)
 - [Christina Kendziorski (University of Wisconsin–Madison, USA)](https://www.biostat.wisc.edu/~kendzior/)
-- [Keegan Korthauer (Dana Farber Cancer Institute, USA)](http://bcb.dfci.harvard.edu/~keegan/)
+- [Keegan Korthauer (Dana Farber Cancer Institute, USA)](http://kkorthauer.org/)
 - [Ning Leng (Morgridge Institute for Research, USA)](https://www.biostat.wisc.edu/~ningleng/)
 - [Elisabetta Mereu (Centre for Genomic Regulation, Barcelona)](http://www.cnag.cat/elisabetta-mereu)
 - [Samantha Morris (Depts of Dev. Bio. and Genetics, Washington University, St. Louis)](http://morrislab.wustl.edu/)

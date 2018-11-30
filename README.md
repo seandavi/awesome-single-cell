@@ -165,7 +165,13 @@ List of software packages (and the people developing these methods) for single-c
 - [CITE-seq-Count](https://github.com/Hoohm/CITE-seq-Count) - [python] Cite-seq-Count is a python package that deals with Cellular Indexing of Transcriptomes and Epitopes by Sequencing (CITE-seq) and cell hashing data. [CITE-seq](https://cite-seq.com/) is a multimodal single cell phenotyping method that allows for immunophenotyping of cells with a potentially limitless number of markers and unbiased transcriptome analysis using existing single-cell sequencing approaches.
 - [MATCHER]( https://github.com/jw156605/MATCHER) - [python] - [MATCHER: An algorithm for integrating single cell transcriptomic and epigenomic data using manifold alignment. MATCHER takes multiple types of single cell measurements performed on distinct single cells and infers single cell multi-omic profiles.](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-017-1269-0)
 - [MOFA]( https://github.com/bioFAM/MOFA/tree/master/mofa/core) - [python, R] - Multi‐Omics Factor Analysis, a framework for unsupervised integration of multi‐omics data sets. MOFA is a method for disentangling the different sources of heterogeneity in bulk and single-cell multi-omics data sets. It identifies the latent factors that drive unique and shared variability in the different assays. The factors can be used for visualisation, pseudotime reconstruction, imputation, among other functionalities. [Paper](http://msb.embopress.org/content/14/6/e8124)
- 
+
+### Rare cell detection
+
+- [FiRE](https://github.com/princethewinner/FiRE) - [python, R, C++] - Finder of rare entities (FiRE) helps identify rare cell types in voluminous single-cell datasets. Design of FiRE is inspired by the observation that rareness estimation of a particular data point is the flip side of measuring the density around it. In principle, FiRE uses the Sketching technique, a variant of locality sensitive hashing, to assign rareness score to every cell.
+[Paper](https://www.nature.com/articles/s41467-018-07234-6)
+
+
 ### Other applications
 
 - [BASIC](http://ttic.uchicago.edu/~aakhan/BASIC/) - [python] - BASIC is a semi-de novo assembly method to determine the full-length sequence of the BCR in single B cells from scRNA-seq data.

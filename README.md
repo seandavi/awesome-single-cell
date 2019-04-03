@@ -73,9 +73,11 @@ List of software packages (and the people developing these methods) for single-c
 - [ouija](https://github.com/kieranrcampbell/ouija) - [R] - [A descriptive marker gene approach to single-cell pseudotime inference](https://doi.org/10.1101/060442)
 - [ouijaflow](http://www.github.com/kieranrcampbell/ouijaflow) - [python] - [A descriptive marker gene approach to single-cell pseudotime inference](https://doi.org/10.1101/060442)
 - [outrigger](https://github.com/YeoLab/outrigger) - [Python] - Outrigger is a program to calculate alternative splicing scores of RNA-Seq data based on junction reads and a *de novo*, custom annotation created with a graph database, especially made for single-cell analyses.
+- [Palantir](https://github.com/dpeerlab/Palantir/) - [Python] - [Characterization of cell fate probabilities in single-cell data with Palantir](https://www.nature.com/articles/s41587-019-0068-4)
 - [pcaReduce](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-016-0984-y) - [R] - hierarchical clustering of single cell transcriptional profiles.
 - [PHATE - Potential of Heat-diffusion for Affinity-based Transition Embedding](https://github.com/KrishnaswamyLab/PHATE) - [Python, R, matlab] - PHATE is a tool for visualizing high dimensional single-cell data with natural progressions or trajectories. PHATE uses a novel conceptual framework for learning and visualizing the manifold inherent to biological systems in which smooth transitions mark the progressions of cells from one state to another.
 - [PhenoPath](https://github.com/kieranrcampbell/phenopath) - [R] - Single-cell pseudotime with heterogeneous genetic and environmental backgrounds, including Bayesian significance testing of iteractions.
+- [pseudodynamics](https://github.com/theislab/pseudodynamics) - [MATLAB] - [Inferring population dynamics from single-cell RNA-sequencing time series data](https://www.nature.com/articles/s41587-019-0088-0)
 - [PoissonUMIs](https://github.com/tallulandrews/PoissonUMIs) - [R] - Poisson Modelling of scRNASeq UMI counts.
 - [powsimR](https://bvieth.github.io/powsimR/) - [R] - Power analysis is essential to optimize the design of RNA-seq experiments and to assess and compare the power to detect differentially expressed genes. [PowsimR](https://academic.oup.com/bioinformatics/article/33/21/3486/3952669) is a flexible tool to simulate and evaluate differential expression from bulk and especially single-cell RNA-seq data making it suitable for a priori and posterior power analyses.
 - [PyGMNormalize](https://github.com/ficusss/PyGMNormalize) - [Python] - Python implementation of [edgeR](https://www.ncbi.nlm.nih.gov/pubmed/19910308) normalization method for count matrices.
@@ -138,7 +140,7 @@ List of software packages (and the people developing these methods) for single-c
 - [trendsceek](https://github.com/edsgard/trendsceek) - [R] - [Identification of spatial expression trends in single-cell gene expression data](https://www.nature.com/articles/nmeth.4634)
 - [TSCAN](https://github.com/zji90/TSCAN) - [R] - Pseudo-time reconstruction and evaluation in single-cell RNA-seq analysis.
 - [UNCURL](https://github.com/yjzhang/uncurl_python) - [Python] - Unsupervised and semi-supervised sampling effect removal for single-cell RNA-seq data.
-- [VELOCYTO](http://velocyto.org/) - [Python, R] - Estimating RNA velocity in single cell RNA sequencing datasets. 
+- [VELOCYTO](http://velocyto.org/) - [Python, R] - Estimating RNA velocity in single cell RNA sequencing datasets.
 - [VISION](https://www.biorxiv.org/content/early/2018/09/28/403055) - [] - A tool for annotating the sources of variation in single cell RNA-seq data in an automated, unbiased and scalable manner. It produces an interactive, low latency and feature rich web-based report that can be easily shared amongst researchers.
 - [ZIFA](https://github.com/epierson9/ZIFA) - [Python] - Zero-inflated dimensionality reduction algorithm for single-cell data.
 - [zinbwaveZinger](https://github.com/statOmics/zinbwaveZinger) - [R] - We introduce a weighting strategy, based on a zero-inflated negative binomial model, that identifies excess zero counts and generates gene- and cell-specific weights to unlock bulk RNA-seq DE pipelines for zero-inflated data, boosting performance for scRNA-seq. https://doi.org/10.1186/s13059-018-1406-4
@@ -173,7 +175,7 @@ List of software packages (and the people developing these methods) for single-c
 
 ### Epigenomics
 
-- [ChromA](https://github.com/marianogabitto/ChromA) - [C++/Fortran] - Chromatin Accessibility Annotation Tool. 
+- [ChromA](https://github.com/marianogabitto/ChromA) - [C++/Fortran] - Chromatin Accessibility Annotation Tool.
 - [ChromVAR](https://bioconductor.org/packages/release/bioc/html/chromVAR.html) - [R] - Determine variations in chromatin accessibility across sets of annotations or peaks. Designed primarily for single-cell or sparse chromatin accessibility data, e.g. from scATAC-seq or sparse bulk ATAC or DNAse-seq experiments. [BioRxiv](https://www.biorxiv.org/content/early/2017/02/21/110346)
 - [DeepCpg](https://github.com/cangermueller/deepcpg) - [python] - DeepCpG is a deep neural network for predicting the methylation state of CpG dinucleotides in multiple cells. It allows to accurately impute incomplete DNA methylation profiles, to discover predictive sequence motifs, and to quantify the effect of sequence mutations.
 - [Melissa](https://github.com/andreaskapou/Melissa) - [R] - Melissa (MEthyLation Inference for Single cell Analysis), a Bayesian hierarchical method to quantify spatially-varying methylation profiles across genomic regions from single-cell bisulfite sequencing data (scBS-seq). Melissa clusters individual cells based on local methylation patterns, enabling the discovery of epigenetic differences and similarities among individual cells. The clustering also acts as an effective regularisation method for imputation of methylation on unassayed CpG sites, enabling transfer of information between individual cells. [BioRxiv](https://doi.org/10.1101/312025)
@@ -328,4 +330,3 @@ Gender bias at conferences is a well known problem ([http://www.sciencemag.org/c
 - [Fabian Theis (Institute of Computational Biology, Helmholtz Zentrum München)](https://www.helmholtz-muenchen.de/icb/institute/staff/staff/ma/2494/index.html)
 - [Cole Trapnell (University of Washington, Department of Genome Sciences)](http://cole-trapnell-lab.github.io/)
 - [Itai Yanai (New York University, School of Medicine, Institute for Computational Medicine, USA)](https://yanailab.org/)
-

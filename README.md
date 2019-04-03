@@ -45,7 +45,7 @@ List of software packages (and the people developing these methods) for single-c
 - [Falco](https://github.com/VCCRI/Falco/) - [AWS cloud] - [Falco: A quick and flexible single-cell RNA-seq processing framework on the cloud](http://www.biorxiv.org/content/early/2016/07/15/064006.abstract).
 - [FastProject](https://github.com/yoseflab/fastproject) - [Python] - Signature analysis on low-dimensional projections of single-cell expression data.
 - [flotilla](https://github.com/yeolab/flotilla) - [Python] - Reproducible machine learning analysis of gene expression and alternative splicing data
-- [Flt-SNE](https://github.com/KlugerLab/FIt-SNE_ - [C++/Fortran/Python] - Fast Fourier Transform-accelerated Interpolation-based t-SNE (FIt-SNE).
+- [FIt-SNE](https://github.com/KlugerLab/FIt-SNE) - [C++/Fortran/Python] - Fast Fourier Transform-accelerated Interpolation-based t-SNE (FIt-SNE).
 - [GPfates](https://github.com/Teichlab/GPfates) - [Python] - Model transcriptional cell fates as mixtures of Gaussian Processes
 - [GPseudoClust](https://github.com/magStra/GPseudoClust) - [Python] - Software that clusters genes for pseudotemporally ordered data and quantifies the uncertainty in cluster allocations arising from the uncertainty in the pseudotime ordering.
 - [GiniClust](https://github.com/lanjiangboston/GiniClust) - [Python/R] - GiniClust is a clustering method implemented in Python and R for detecting rare cell-types from large-scale single-cell gene expression data.  GiniClust can be applied to datasets originating from different platforms, such as multiplex qPCR data, traditional single-cell RNAseq or newly emerging UMI-based single-cell RNAseq, e.g. inDrops and Drop-seq.

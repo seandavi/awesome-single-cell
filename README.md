@@ -138,7 +138,7 @@ List of software packages (and the people developing these methods) for single-c
 - [trendsceek](https://github.com/edsgard/trendsceek) - [R] - [Identification of spatial expression trends in single-cell gene expression data](https://www.nature.com/articles/nmeth.4634)
 - [TSCAN](https://github.com/zji90/TSCAN) - [R] - Pseudo-time reconstruction and evaluation in single-cell RNA-seq analysis.
 - [UNCURL](https://github.com/yjzhang/uncurl_python) - [Python] - Unsupervised and semi-supervised sampling effect removal for single-cell RNA-seq data.
-- [VELOCYTO](http://velocyto.org/) - [Python, R] - Estimating RNA velocity in single cell RNA sequencing datasets.
+- [VELOCYTO](http://velocyto.org/) - [Python, R] - Estimating RNA velocity in single cell RNA sequencing datasets. 
 - [VISION](https://www.biorxiv.org/content/early/2018/09/28/403055) - [] - A tool for annotating the sources of variation in single cell RNA-seq data in an automated, unbiased and scalable manner. It produces an interactive, low latency and feature rich web-based report that can be easily shared amongst researchers.
 - [ZIFA](https://github.com/epierson9/ZIFA) - [Python] - Zero-inflated dimensionality reduction algorithm for single-cell data.
 - [zinbwaveZinger](https://github.com/statOmics/zinbwaveZinger) - [R] - We introduce a weighting strategy, based on a zero-inflated negative binomial model, that identifies excess zero counts and generates gene- and cell-specific weights to unlock bulk RNA-seq DE pipelines for zero-inflated data, boosting performance for scRNA-seq. https://doi.org/10.1186/s13059-018-1406-4
@@ -173,7 +173,7 @@ List of software packages (and the people developing these methods) for single-c
 
 ### Epigenomics
 
-- [ChromA](https://github.com/marianogabitto/ChromA) - [C++/Fortran] - Chromatin Accessibility Annotation Tool.
+- [ChromA](https://github.com/marianogabitto/ChromA) - [C++/Fortran] - Chromatin Accessibility Annotation Tool. 
 - [ChromVAR](https://bioconductor.org/packages/release/bioc/html/chromVAR.html) - [R] - Determine variations in chromatin accessibility across sets of annotations or peaks. Designed primarily for single-cell or sparse chromatin accessibility data, e.g. from scATAC-seq or sparse bulk ATAC or DNAse-seq experiments. [BioRxiv](https://www.biorxiv.org/content/early/2017/02/21/110346)
 - [DeepCpg](https://github.com/cangermueller/deepcpg) - [python] - DeepCpG is a deep neural network for predicting the methylation state of CpG dinucleotides in multiple cells. It allows to accurately impute incomplete DNA methylation profiles, to discover predictive sequence motifs, and to quantify the effect of sequence mutations.
 - [Melissa](https://github.com/andreaskapou/Melissa) - [R] - Melissa (MEthyLation Inference for Single cell Analysis), a Bayesian hierarchical method to quantify spatially-varying methylation profiles across genomic regions from single-cell bisulfite sequencing data (scBS-seq). Melissa clusters individual cells based on local methylation patterns, enabling the discovery of epigenetic differences and similarities among individual cells. The clustering also acts as an effective regularisation method for imputation of methylation on unassayed CpG sites, enabling transfer of information between individual cells. [BioRxiv](https://doi.org/10.1101/312025)
@@ -328,3 +328,4 @@ Gender bias at conferences is a well known problem ([http://www.sciencemag.org/c
 - [Fabian Theis (Institute of Computational Biology, Helmholtz Zentrum München)](https://www.helmholtz-muenchen.de/icb/institute/staff/staff/ma/2494/index.html)
 - [Cole Trapnell (University of Washington, Department of Genome Sciences)](http://cole-trapnell-lab.github.io/)
 - [Itai Yanai (New York University, School of Medicine, Institute for Computational Medicine, USA)](https://yanailab.org/)
+

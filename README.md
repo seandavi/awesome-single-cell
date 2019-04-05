@@ -298,7 +298,7 @@ Gender bias at conferences is a well known problem ([http://www.sciencemag.org/c
 - [Elisabetta Mereu (Centre for Genomic Regulation, Barcelona)](http://www.cnag.cat/elisabetta-mereu)
 - [Samantha Morris (Depts of Dev. Bio. and Genetics, Washington University, St. Louis)](http://morrislab.wustl.edu/)
 - [Alicia Oshlack (Murdoch Children's Research Institute, Australia)](https://www.mcri.edu.au/users/dr-alicia-oshlack)
-- [Dana Pe'er (Columbia University, USA)](http://www.c2b2.columbia.edu/danapeerlab/html/)
+- [Dana Pe'er (Memorial Sloan Kettering Cancer Center, USA)](https://www.mskcc.org/research/ski/labs/dana-pe-er)
 - [Emma Pierson (Stanford University, USA)](http://cs.stanford.edu/people/emmap1/)
 - [Aviv Regev (Broad Institute, USA)](https://www.broadinstitute.org/scientific-community/science/core-faculty-labs/regev-lab/regev-lab-home)
 - [Charlotte Soneson (Institute of Molecular Life Sciences, University of Zurich)](https://csoneson.github.io/)

@@ -247,6 +247,7 @@ List of software packages (and the people developing these methods) for single-c
 - [Single Cell Portal](https://portals.broadinstitute.org/single_cell) - The Single-Cell Portal was developed to facilitate open data and open science in Single-cell Genomics. The portal currently focuses on sharing scientific results interactively, and sharing associated datasets.
 - [singleCellTK](https://bioconductor.org/packages/release/bioc/html/singleCellTK.html) - The singleCellTK is an R/Shiny package and GUI for analyzing and visualizing scRNA-Seq through a web interface. Analysis modules include data summary and filtering, dimensionality reduction and clustering, batch correction, differential expression analysis, pathway activity analysis, and power analysis.
 - [STREAM](http://stream.pinellolab.org/) - STREAM is an interactive computational pipeline for reconstructing complex celluar developmental trajectories from sc-qPCR, scRNA-seq or scATAC-seq data. [preprint](https://doi.org/10.1101/302554).
+- [WOT](https://broadinstitute.github.io/wot/) - Waddington Optimal Transport (wot) uses time-course data to infer how the probability distribution of cells in gene-expression space evolves over time, by using the mathematical approach of optimal transport.
 
 ## Journal articles of general interest
 

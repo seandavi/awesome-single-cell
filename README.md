@@ -222,7 +222,7 @@ List of software packages (and the people developing these methods) for single-c
 - [Hemberg Lab scRNA-seq course materials](http://hemberg-lab.github.io/scRNA.seq.course/index.html)
 - [Using Seurat (v1.2) for unsupervised clustering and biomarker discovery](http://www.satijalab.org/seurat/get_started_v1_2.html) - 301 single cells across diverse tissues from (Pollen et al., Nature Biotechnology, 2014). Original tutorial using Seurat 1.2
 - [Using Seurat (v1.2) for spatial inference in single-cell data](http://www.satijalab.org/seurat/get_started_v1_2.html) - 851 single cells from Zebrafish embryogenesis (Satija*, Farrell* et al., Nature Biotechnology, 2015). Original tutorial using Seurat 1.2
-- [Seurat (v2.0) - Guided Clustering Tutorial](http://satijalab.org/seurat/pbmc3k_tutorial.html) - new tutorial using Seurat 2.0
+- [Seurat (v3.0) - Guided Clustering Tutorial](https://satijalab.org/seurat/v3.0/immune_alignment.html) - new tutorial using Seurat 3.0
 
 ## Web portals and apps
 

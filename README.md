@@ -297,6 +297,7 @@ Gender bias at conferences is a well known problem ([http://www.sciencemag.org/c
 - [Stephanie Hicks (Dana Farber Cancer Institute, USA)](http://www.stephaniehicks.com/)
 - [Christina Kendziorski (University of Wisconsin–Madison, USA)](https://www.biostat.wisc.edu/~kendzior/)
 - [Keegan Korthauer (Dana Farber Cancer Institute, USA)](http://kkorthauer.org/)
+- [Smita Krishnaswamy (Yale University)](https://krishnaswamylab.org)
 - [Ning Leng (Morgridge Institute for Research, USA)](https://www.biostat.wisc.edu/~ningleng/)
 - [Elisabetta Mereu (Centre for Genomic Regulation, Barcelona)](http://www.cnag.cat/elisabetta-mereu)
 - [Samantha Morris (Depts of Dev. Bio. and Genetics, Washington University, St. Louis)](http://morrislab.wustl.edu/)

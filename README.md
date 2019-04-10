@@ -23,6 +23,7 @@ List of software packages (and the people developing these methods) for single-c
 - [BPSC](https://github.com/nghiavtr/BPSC) - [R] - Beta-Poisson model for single-cell RNA-seq data analyses
 - [CALISTA](https://github.com/CABSEL/CALISTA) - [R] - CALISTA provides a user-friendly toolbox for the analysis of single cell expression data. CALISTA accomplishes three major tasks: 1)	Identification of cell clusters in a cell population based on single-cell gene expression data, 2)	Reconstruction of lineage progression and produce transition genes, and 3)	Pseudotemporal ordering of cells along any given developmental paths in the lineage progression.
 - [ccRemover](https://CRAN.R-project.org/package=ccRemover) - [R] - Removes the Cell-Cycle Effect from Single-Cell RNA-Sequencing Data. [Identifying and removing the cell-cycle effect from single-cell RNA-Sequencing data](https://www.nature.com/articles/srep33892).
+- [Cell\_BLAST](https://github.com/gao-lab/Cell_BLAST) - [Python] - A BLAST-like toolkit for scRNA-seq data querying and automated annotation.
 - [CellCNN](https://github.com/eiriniar/CellCnn) - [Python] - Representation Learning for detection of phenotype-associated cell subsets
 - [Cellity](https://github.com/teichlab/cellity) - [R] - Classification of low quality cells in scRNA-seq data using R
 - [CellRanger](https://support.10xgenomics.com/single-cell-gene-expression/software/pipelines/latest/what-is-cell-ranger) - [Linux Binary] - Cell Ranger is a set of analysis pipelines that process Chromium single-cell RNA-seq output to align reads, generate gene-cell matrices and perform clustering and gene expression analysis. *Software requires registration with 10xgenomics.*
@@ -228,6 +229,7 @@ List of software packages (and the people developing these methods) for single-c
 
 - [10X Genomics datasets](https://support.10xgenomics.com/single-cell/datasets) - 10x genomics public datasets, including 1.3M cell mouse brain dataset.
 - [ASAP](http://asap.epfl.ch/) - Automated Single-cell Analysis Pipeline (deposited in [BioRXiv](http://biorxiv.org/content/early/2016/12/22/096222) on December 22, 2016).
+- [Cell\_BLAST](http://cblast.gao-lab.org/) - A Web portal powered by Cell\_BLAST (scRNA-seq querying tool) and ACA (scRNA-seq database).
 - [cellBrowser](https://github.com/maximilianh/cellBrowser) - [Python, Javascript] Python pipeline and Javascript scatter plot library for single-cell datasets. [Demo](https://cells.ucsc.edu/)
 - [CellView](https://github.com/mohanbolisetty/CellView) - CellView is an R Shiny web application that allows knowledge-based and hypothesis-driven exploration of processed single cell transcriptomic data. [ref](https://www.biorxiv.org/content/early/2017/04/04/123810).
 - [conquer](http://imlspenticton.uzh.ch:3838/conquer/) - A repository of consistently processed, analysis-ready single-cell RNA-seq data sets.

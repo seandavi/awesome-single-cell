@@ -231,29 +231,36 @@ List of software packages (and the people developing these methods) for single-c
 
 ## Web portals and apps
 
+### Web portals
+
 - [10X Genomics datasets](https://support.10xgenomics.com/single-cell/datasets) - 10x genomics public datasets, including 1.3M cell mouse brain dataset.
 - [ASAP](http://asap.epfl.ch/) - Automated Single-cell Analysis Pipeline (deposited in [BioRXiv](http://biorxiv.org/content/early/2016/12/22/096222) on December 22, 2016).
 - [Cell\_BLAST](http://cblast.gao-lab.org/) - A Web portal powered by Cell\_BLAST (scRNA-seq querying tool) and ACA (scRNA-seq database).
-- [cellBrowser](https://github.com/maximilianh/cellBrowser) - [Python, Javascript] Python pipeline and Javascript scatter plot library for single-cell datasets. [Demo](https://cells.ucsc.edu/)
-- [CellView](https://github.com/mohanbolisetty/CellView) - CellView is an R Shiny web application that allows knowledge-based and hypothesis-driven exploration of processed single cell transcriptomic data. [ref](https://www.biorxiv.org/content/early/2017/04/04/123810).
 - [conquer](http://imlspenticton.uzh.ch:3838/conquer/) - A repository of consistently processed, analysis-ready single-cell RNA-seq data sets.
 - [D<sup>3</sup>E](http://www.sanger.ac.uk/sanger/GeneRegulation_D3E/) - Discrete Distributional Differential Expression (D<sup>3</sup>E) is a tool for identifying differentially-expressed genes, based on single-cell RNA-seq data.
-- [Ginkgo](http://qb.cshl.edu/ginkgo) - [R, C] - Ginkgo is a web application for single-cell copy-number variation analysis and visualization.
-- [Granatum](http://garmiregroup.org/granatum/app) - Granatum 🍇 is a graphical single-cell RNA-seq (scRNA-seq) analysis pipeline for genomics scientists. [Published in December 2017](https://doi.org/10.1186/s13073-017-0492-3).
-- [iS-CellR](https://github.com/immcore/iS-CellR) - iS-CellR (Interactive platform for Single-cell RNAseq) is a web-based Shiny app that integrates the Seurat package with Shiny's reactive programming framework to provide comprhensive analysis and interactive visualization of single-cell RNAseq data. [Paper](https://doi.org/10.1093/bioinformatics/bty517)
 - [JingleBells](http://jinglebells.bgu.ac.il/) - A repository of standardized single cell RNA-Seq datasets for analysis and visualization in IGV at the single cell level. Currently focused on immune cells (http://www.jimmunol.org/content/198/9/3375.long).
-- [NASQAR](http://nasqar.abudhabi.nyu.edu/) - Nucleic Acid SeQuence Analysis Resource, a web-based platform that provides an intuitive interface for popular tools (like DESeq2, Seurat, and others) to perform standard downstream analysis workflows for RNAseq data. The portal hosts a number of R Shiny apps.
-- [PIVOT](https://github.com/qinzhu/PIVOT) - Platform for Interactive analysis and Visualization Of Transcriptomics data. [ref](https://doi.org/10.1186/s12859-017-1994-0)
 - [SCPortalen](http://single-cell.clst.riken.jp/) - SCPortalen: human and mouse single-cell centric database. [ref](https://doi.org/10.1093/nar/gkx949)
 - [scRNA.seq.datasets](https://hemberg-lab.github.io/scRNA.seq.datasets) - Collection of public scRNA-Seq datasets used by [Hemberg Lab](http://www.sanger.ac.uk/science/groups/hemberg-group)
 - [scRNASeqDB](https://bioinfo.uth.edu/scrnaseqdb/) - A database aggregating human single-cell RNA-seq datasets. [ref](http://biorxiv.org/content/early/2017/01/31/104810)
+- [Single Cell Portal](https://portals.broadinstitute.org/single_cell) - The Single-Cell Portal was developed to facilitate open data and open science in Single-cell Genomics. The portal currently focuses on sharing scientific results interactively, and sharing associated datasets.
+- [WOT](https://broadinstitute.github.io/wot/) - Waddington Optimal Transport (wot) uses time-course data to infer how the probability distribution of cells in gene-expression space evolves over time, by using the mathematical approach of optimal transport.
+
+### Interactive visualization and analysis
+
+- [cellBrowser](https://github.com/maximilianh/cellBrowser) - [Python, Javascript] Python pipeline and Javascript scatter plot library for single-cell datasets. [Demo](https://cells.ucsc.edu/)
+- [CellView](https://github.com/mohanbolisetty/CellView) - CellView is an R Shiny web application that allows knowledge-based and hypothesis-driven exploration of processed single cell transcriptomic data. [ref](https://www.biorxiv.org/content/early/2017/04/04/123810).
+- [Cerebro](https://github.com/romanhaa/Cerebro) - [R] - Cerebro (cell report browser), a Shiny- and Electron-based standalone desktop application for macOS and Windows, which allows investigation and inspection of pre-processed single-cell transcriptomics data without requiring bioinformatic experience of the user. Through an interactive and intuitive graphical interface, users can i) explore similarities and heterogeneity between samples and cells clusters in 2D or 3D projections such as t-SNE or UMAP, ii) display the expression level of single genes or genes sets of interest, iii) browse tables of most expressed genes and marker genes for each sample and cluster. [bioRxiv](https://www.biorxiv.org/content/10.1101/631705v1)
+- [Ginkgo](http://qb.cshl.edu/ginkgo) - [R, C] - Ginkgo is a web application for single-cell copy-number variation analysis and visualization.
+- [Granatum](http://garmiregroup.org/granatum/app) - Granatum 🍇 is a graphical single-cell RNA-seq (scRNA-seq) analysis pipeline for genomics scientists. [Published in December 2017](https://doi.org/10.1186/s13073-017-0492-3).
+- [iS-CellR](https://github.com/immcore/iS-CellR) - iS-CellR (Interactive platform for Single-cell RNAseq) is a web-based Shiny app that integrates the Seurat package with Shiny's reactive programming framework to provide comprhensive analysis and interactive visualization of single-cell RNAseq data. [Paper](https://doi.org/10.1093/bioinformatics/bty517)
+- [NASQAR](http://nasqar.abudhabi.nyu.edu/) - Nucleic Acid SeQuence Analysis Resource, a web-based platform that provides an intuitive interface for popular tools (like DESeq2, Seurat, and others) to perform standard downstream analysis workflows for RNAseq data. The portal hosts a number of R Shiny apps.
+- [PIVOT](https://github.com/qinzhu/PIVOT) - Platform for Interactive analysis and Visualization Of Transcriptomics data. [ref](https://doi.org/10.1186/s12859-017-1994-0)
 - [SeuratWizard](https://github.com/nasqar/SeuratWizard/) - a web-based (wizard style) interactive R Shiny application to perform guided single-cell RNA-seq data analysis and clustering. [demo](http://nasqar.abudhabi.nyu.edu/SeuratWizard)
 - [SeuratV3Wizard](https://github.com/nasqar/seuratv3wizard) - a web-based (wizard style) interactive R Shiny application to perform guided single-cell RNA-seq data analysis and clustering based on Seurat v3. [demo](http://nasqar.abudhabi.nyu.edu/SeuratV3Wizard/)
 - [ShinyCortex](https://bioinf.eva.mpg.de/shiny/sample-apps/ShinyCortex/) - a resource that brings together data from recent scRNA-seq studies of the developing cortex for further analysis. ShinyCortex is based in R and displays recently published scRNA-seq data from the human and mouse cortex in a comprehensible, dynamic and accessible way, suitable for data exploration by biologists. [paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5962798/)
-- [Single Cell Portal](https://portals.broadinstitute.org/single_cell) - The Single-Cell Portal was developed to facilitate open data and open science in Single-cell Genomics. The portal currently focuses on sharing scientific results interactively, and sharing associated datasets.
 - [singleCellTK](https://bioconductor.org/packages/release/bioc/html/singleCellTK.html) - The singleCellTK is an R/Shiny package and GUI for analyzing and visualizing scRNA-Seq through a web interface. Analysis modules include data summary and filtering, dimensionality reduction and clustering, batch correction, differential expression analysis, pathway activity analysis, and power analysis.
 - [STREAM](http://stream.pinellolab.org/) - STREAM is an interactive computational pipeline for reconstructing complex celluar developmental trajectories from sc-qPCR, scRNA-seq or scATAC-seq data. [preprint](https://doi.org/10.1101/302554).
-- [WOT](https://broadinstitute.github.io/wot/) - Waddington Optimal Transport (wot) uses time-course data to infer how the probability distribution of cells in gene-expression space evolves over time, by using the mathematical approach of optimal transport.
+
 
 ## Journal articles of general interest
 

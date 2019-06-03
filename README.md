@@ -239,6 +239,7 @@ List of software packages (and the people developing these methods) for single-c
 - [Cell\_BLAST](http://cblast.gao-lab.org/) - A Web portal powered by Cell\_BLAST (scRNA-seq querying tool) and ACA (scRNA-seq database).
 - [conquer](http://imlspenticton.uzh.ch:3838/conquer/) - A repository of consistently processed, analysis-ready single-cell RNA-seq data sets.
 - [D<sup>3</sup>E](http://www.sanger.ac.uk/sanger/GeneRegulation_D3E/) - Discrete Distributional Differential Expression (D<sup>3</sup>E) is a tool for identifying differentially-expressed genes, based on single-cell RNA-seq data.
+- [EBI Single Cell Expression Atlas](https://www.ebi.ac.uk/gxa/sc/home) - The Single Cell Expression Atlas contains uniformly re-analysed single cell expression data across different species and provides interactive visualizations to explore that data.
 - [JingleBells](http://jinglebells.bgu.ac.il/) - A repository of standardized single cell RNA-Seq datasets for analysis and visualization in IGV at the single cell level. Currently focused on immune cells (http://www.jimmunol.org/content/198/9/3375.long).
 - [SCPortalen](http://single-cell.clst.riken.jp/) - SCPortalen: human and mouse single-cell centric database. [ref](https://doi.org/10.1093/nar/gkx949)
 - [scRNA.seq.datasets](https://hemberg-lab.github.io/scRNA.seq.datasets) - Collection of public scRNA-Seq datasets used by [Hemberg Lab](http://www.sanger.ac.uk/science/groups/hemberg-group)

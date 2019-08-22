@@ -232,14 +232,15 @@ List of software packages (and the people developing these methods) for single-c
 - [Using Seurat (v1.2) for spatial inference in single-cell data](http://www.satijalab.org/seurat/get_started_v1_2.html) - 851 single cells from Zebrafish embryogenesis (Satija*, Farrell* et al., Nature Biotechnology, 2015). Original tutorial using Seurat 1.2
 - [Seurat (v3.0) - Guided Clustering Tutorial](https://satijalab.org/seurat/v3.0/immune_alignment.html) - new tutorial using Seurat 3.0
 
-## Web portals and apps
+## Web portals, apps, and databases
 
-### Web portals
+### Web portals and databases
 
 - [10X Genomics datasets](https://support.10xgenomics.com/single-cell/datasets) - 10x genomics public datasets, including 1.3M cell mouse brain dataset.
 - [ASAP](http://asap.epfl.ch/) - Automated Single-cell Analysis Pipeline (deposited in [BioRXiv](http://biorxiv.org/content/early/2016/12/22/096222) on December 22, 2016).
 - [Cell\_BLAST](http://cblast.gao-lab.org/) - A Web portal powered by Cell\_BLAST (scRNA-seq querying tool) and ACA (scRNA-seq database).
 - [conquer](http://imlspenticton.uzh.ch:3838/conquer/) - A repository of consistently processed, analysis-ready single-cell RNA-seq data sets.
+- [Curated Database of single-cell studies](http://www.nxn.se/single-cell-studies/) - Available as a `tsv` download. Over 500 single cell transcriptomics studies have been published to date. Many of these have data available, but the links between data, study, and systems studied can be hard to identify through literature search. This manuscript describes a nearly exhaustive and manually curated database of single cell transcriptomics studies with descriptions of what kind of data and what biological systems have been studied. [bioRxiv](https://doi.org/10.1101/742304).
 - [D<sup>3</sup>E](http://www.sanger.ac.uk/sanger/GeneRegulation_D3E/) - Discrete Distributional Differential Expression (D<sup>3</sup>E) is a tool for identifying differentially-expressed genes, based on single-cell RNA-seq data.
 - [EBI Single Cell Expression Atlas](https://www.ebi.ac.uk/gxa/sc/home) - The Single Cell Expression Atlas contains uniformly re-analysed single cell expression data across different species and provides interactive visualizations to explore that data.
 - [JingleBells](http://jinglebells.bgu.ac.il/) - A repository of standardized single cell RNA-Seq datasets for analysis and visualization in IGV at the single cell level. Currently focused on immune cells (http://www.jimmunol.org/content/198/9/3375.long).

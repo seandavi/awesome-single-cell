@@ -217,9 +217,13 @@ List of software packages (and the people developing these methods) for single-c
 - [Wishbone](https://github.com/ManuSetty/wishbone) - [python] - [Wishbone is an algorithm to identify bifurcating developmental trajectories from single cell data. Wishbone can applied to both single cell RNA-seq and mass cytometry datasets.](http://www.nature.com/nbt/journal/v34/n6/full/nbt.3569.html)
 - [Snakemake single-cell-rna-seq workflow](https://github.com/snakemake-workflows/single-cell-rna-seq) - [python, R, snakemake] - An automated pipeline for single cell RNA-seq analysis.
 
+### Spatial transcriptomics
+
+- [Starspace](https://starspace.readthedocs.io/en/latest/) - [Python] - Defines a schema for gene or protein expression data containing spatially localized information. Converts data from a variety of assay types, including Spatial Transcriptomics, CODEX, In-situ Sequencing, MERFISH, osmFISH, and starMAP. Demonstrates how to visualize and interact with these data using common analysis packages, and convert the formats into loom and anndata objects, for downstream analysis in R and Python.
 
 ## Tutorials and workflows
 
+- [Orchestrating Single-Cell Analysis with Bioconductor](https://osca.bioconductor.org) - [R] - This blogdown book describes a comprehensive and reproducible workflow for the analysis of single-cell RNA-sequencing data. 
 - [Aaron Lun's Single Cell workflow on Bioconductor](http://bioconductor.org/help/workflows/simpleSingleCell/) - [R] - This article describes a computational workflow for basic analysis of scRNA-seq data using software packages from the open-source Bioconductor project.
 - [Bioconductor2016 Single-cell-RNA-sequencing workshop by Sandrine Dudoit lab](https://github.com/drisso/bioc2016singlecell) - [R] - SCONE, clusterExperiment, and slingshot tutorial.
 - [BiomedCentral Single Cell Omics collectin](http://www.biomedcentral.com/collections/singlecellomics) - collection of papers describing techniques for single-cell analysis and protocols.
@@ -316,7 +320,7 @@ Gender bias at conferences is a well known problem ([http://www.sciencemag.org/c
 - [Sandrine Dudoit (UC Berkeley, USA)](http://www.stat.berkeley.edu/~sandrine/)
 - [Lana X. Garmire, (University of Hawaii Cancer Center, USA)](http://garmiregroup.org/)
 - [Laleh Haghverdi (EMBL, Germany)](https://www.embl.de/research/units/genome_biology/huber/members/index.php?s_personId=CP-60025160)
-- [Stephanie Hicks (Dana Farber Cancer Institute, USA)](http://www.stephaniehicks.com/)
+- [Stephanie Hicks (Johns Hopkins Bloomberg School of Public Health, USA)](http://www.stephaniehicks.com/)
 - [Christina Kendziorski (University of Wisconsin–Madison, USA)](https://www.biostat.wisc.edu/~kendzior/)
 - [Keegan Korthauer (Dana Farber Cancer Institute, USA)](http://kkorthauer.org/)
 - [Smita Krishnaswamy (Yale University)](https://krishnaswamylab.org)

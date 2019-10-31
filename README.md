@@ -220,6 +220,8 @@ List of software packages (and the people developing these methods) for single-c
 ### Spatial transcriptomics
 
 - [Starspace](https://starspace.readthedocs.io/en/latest/) - [Python] - Defines a schema for gene or protein expression data containing spatially localized information. Converts data from a variety of assay types, including Spatial Transcriptomics, CODEX, In-situ Sequencing, MERFISH, osmFISH, and starMAP. Demonstrates how to visualize and interact with these data using common analysis packages, and convert the formats into loom and anndata objects, for downstream analysis in R and Python.
+- [SpatialDe](https://github.com/Teichlab/SpatialDE) - [Python] - [SpatialDE](https://www.nature.com/articles/nmeth.4636) is a statistical test to identify genes with spatial patterns of expression variation from multiplexed imaging or spatial RNA-sequencing data.
+- [NMFreg](https://github.com/tudaga/NMFreg_tutorial) - [Python] - The method is proposed in [Slide-seq](https://science.sciencemag.org/content/363/6434/1463) paper and reconstructs expression of each Slide-seq bead as a weighted combination of metagene factors, each corresponding to the expression signature of an individual cell type, defined from scRNA-seq.
 
 ## Tutorials and workflows
 

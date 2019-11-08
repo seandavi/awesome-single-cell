@@ -2,6 +2,8 @@
 
 List of software packages (and the people developing these methods) for single-cell data analysis, including RNA-seq, ATAC-seq, etc. [Contributions welcome](https://github.com/seandavi/awesome-single-cell/blob/master/CONTRIBUTING.md)...
 
+[![Build Status](https://travis-ci.org/seandavi/awesome-single-cell.svg?branch=master)](https://travis-ci.org/seandavi/awesome-single-cell)
+
 ## Citation
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1117762.svg)](https://doi.org/10.5281/zenodo.1117762)

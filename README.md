@@ -183,6 +183,8 @@ List of software packages (and the people developing these methods) for single-c
 
 ### Epigenomics
 
+- [SCALE](https://github.com/jsxlei/SCALE) - [python] - SCALE is a deeplearning tool combining GMM with VAE for single-cell ATAC-seq analysis (visualization, clustering, imputation, batch effect removal, downstream analysis for celltype-specific TFs). [SCALE method for single-cell ATAC-seq analysis via latent feature extraction
+](https://www.nature.com/articles/s41467-019-12630-7)
 - [ChromA](https://github.com/marianogabitto/ChromA) - [C++/Fortran] - Chromatin Accessibility Annotation Tool.
 - [ChromVAR](https://bioconductor.org/packages/release/bioc/html/chromVAR.html) - [R] - Determine variations in chromatin accessibility across sets of annotations or peaks. Designed primarily for single-cell or sparse chromatin accessibility data, e.g. from scATAC-seq or sparse bulk ATAC or DNAse-seq experiments. [BioRxiv](https://www.biorxiv.org/content/early/2017/02/21/110346)
 - [cisTopic](https://github.com/aertslab/cisTopic) - [R] - A probabilistic framework used to simultaneously discover coaccessible enhancers and stable cell states from sparse single-cell epigenomics data. https://www.nature.com/articles/s41592-019-0367-1

@@ -183,14 +183,14 @@ List of software packages (and the people developing these methods) for single-c
 
 ### Epigenomics
 
-- [SCALE](https://github.com/jsxlei/SCALE) - [python] - SCALE is a deeplearning tool combining GMM with VAE for single-cell ATAC-seq analysis (visualization, clustering, imputation, batch effect removal, downstream analysis for celltype-specific TFs). [SCALE method for single-cell ATAC-seq analysis via latent feature extraction
-](https://www.nature.com/articles/s41467-019-12630-7)
 - [ChromA](https://github.com/marianogabitto/ChromA) - [C++/Fortran] - Chromatin Accessibility Annotation Tool.
 - [ChromVAR](https://bioconductor.org/packages/release/bioc/html/chromVAR.html) - [R] - Determine variations in chromatin accessibility across sets of annotations or peaks. Designed primarily for single-cell or sparse chromatin accessibility data, e.g. from scATAC-seq or sparse bulk ATAC or DNAse-seq experiments. [BioRxiv](https://www.biorxiv.org/content/early/2017/02/21/110346)
 - [cisTopic](https://github.com/aertslab/cisTopic) - [R] - A probabilistic framework used to simultaneously discover coaccessible enhancers and stable cell states from sparse single-cell epigenomics data. https://www.nature.com/articles/s41592-019-0367-1
 - [cicero](https://cole-trapnell-lab.github.io/cicero-release/) - [R] - Predicts enhancer-gene pairs by co-accessibility. Also adapts [monocle](http://cole-trapnell-lab.github.io/monocle-release/) for single-cell ATAC-seq (clustering, trajectories, differential accessibility).
 - [DeepCpg](https://github.com/cangermueller/deepcpg) - [python] - DeepCpG is a deep neural network for predicting the methylation state of CpG dinucleotides in multiple cells. It allows to accurately impute incomplete DNA methylation profiles, to discover predictive sequence motifs, and to quantify the effect of sequence mutations.
 - [Melissa](https://github.com/andreaskapou/Melissa) - [R] - Melissa (MEthyLation Inference for Single cell Analysis), a Bayesian hierarchical method to quantify spatially-varying methylation profiles across genomic regions from single-cell bisulfite sequencing data (scBS-seq). Melissa clusters individual cells based on local methylation patterns, enabling the discovery of epigenetic differences and similarities among individual cells. The clustering also acts as an effective regularisation method for imputation of methylation on unassayed CpG sites, enabling transfer of information between individual cells. [BioRxiv](https://doi.org/10.1101/312025)
+- [SCALE](https://github.com/jsxlei/SCALE) - [python] - SCALE is a deeplearning tool combining GMM with VAE for single-cell ATAC-seq analysis (visualization, clustering, imputation, batch effect removal, downstream analysis for celltype-specific TFs). [SCALE method for single-cell ATAC-seq analysis via latent feature extraction
+](https://www.nature.com/articles/s41467-019-12630-7)
 - [SCRAT](https://github.com/zji90/SCRAT) - [R] - SCRAT provides essential tools for users to read in single-cell regolome data (ChIP-seq, ATAC-seq, DNase-seq) and summarize into different types of features. It also allows users to visualize the features, cluster samples and identify key features.
 
 ### Multi-assay data integration

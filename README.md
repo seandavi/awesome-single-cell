@@ -193,6 +193,7 @@ List of software packages (and the people developing these methods) for single-c
 - [SCALE](https://github.com/jsxlei/SCALE) - [python] - SCALE is a deeplearning tool combining GMM with VAE for single-cell ATAC-seq analysis (visualization, clustering, imputation, batch effect removal, downstream analysis for celltype-specific TFs). [SCALE method for single-cell ATAC-seq analysis via latent feature extraction
 ](https://www.nature.com/articles/s41467-019-12630-7)
 - [SCRAT](https://github.com/zji90/SCRAT) - [R] - SCRAT provides essential tools for users to read in single-cell regolome data (ChIP-seq, ATAC-seq, DNase-seq) and summarize into different types of features. It also allows users to visualize the features, cluster samples and identify key features.
+- [Signac] (https://satijalab.org/signac/) - [R] - Signac is an extension of Seurat for the analysis, interpretation, and exploration of single-cell chromatin datasets.
 
 ### Multi-assay data integration
 

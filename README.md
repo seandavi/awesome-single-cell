@@ -43,6 +43,7 @@ List of software packages (and the people developing these methods) for single-c
 - [DittoSeq](https://github.com/dtm2451/DittoSeq) - [R] - User Friendly Visualization tools for Single-cell and Bulk RNA Sequencing.  Color blindness friendly by default, and novice coder friendly as well, yet powerful enough to build publication-ready figures.
 - [dropClust](https://github.com/debsin/dropClust) - [R/Python] - Efficient clustering of ultra-large scRNA-seq data.
 - [dropsim](https://github.com/marchinilab/dropsim) - [R] - Simulating droplet based scRNA-seq data.
+- [dynamo](https://github.com/aristoteleo/dynamo-release) - [Python] - Inclusive model of expression dynamics with scSLAM-seq and multiomics, vector field reconstruction and potential landscape mapping.
 - [dynverse](https://github.com/dynverse/dynverse/) - [R] - [A comparison of single-cell trajectory inference methods: towards more accurate and robust tools](https://doi.org/10.1101/276907)
 - [ECLAIR](https://github.com/GGiecold/ECLAIR) - [python] - ECLAIR stands for Ensemble Clustering for Lineage Analysis, Inference and Robustness. Robust and scalable inference of cell lineages from gene expression data.
 - [embeddr](https://github.com/kieranrcampbell/embeddr) - [R] - Embeddr creates a reduced dimensional representation of the gene space using a high-variance gene correlation graph and laplacian eigenmaps. It then fits a smooth pseudotime trajectory using principal curves.
@@ -231,7 +232,7 @@ List of software packages (and the people developing these methods) for single-c
 
 ## Tutorials and workflows
 
-- [Orchestrating Single-Cell Analysis with Bioconductor](https://osca.bioconductor.org) - [R] - This blogdown book describes a comprehensive and reproducible workflow for the analysis of single-cell RNA-sequencing data. 
+- [Orchestrating Single-Cell Analysis with Bioconductor](https://osca.bioconductor.org) - [R] - This blogdown book describes a comprehensive and reproducible workflow for the analysis of single-cell RNA-sequencing data.
 - [Aaron Lun's Single Cell workflow on Bioconductor](http://bioconductor.org/help/workflows/simpleSingleCell/) - [R] - This article describes a computational workflow for basic analysis of scRNA-seq data using software packages from the open-source Bioconductor project.
 - [Bioconductor2016 Single-cell-RNA-sequencing workshop by Sandrine Dudoit lab](https://github.com/drisso/bioc2016singlecell) - [R] - SCONE, clusterExperiment, and slingshot tutorial.
 - [BiomedCentral Single Cell Omics collectin](http://www.biomedcentral.com/collections/singlecellomics) - collection of papers describing techniques for single-cell analysis and protocols.
@@ -240,7 +241,7 @@ List of software packages (and the people developing these methods) for single-c
 - [Gilad Lab Single Cell Data Exploration](http://jdblischak.github.io/singleCellSeq/analysis/) - R-based exploration of single cell sequence data. Lots of experimentation.
 - [Harvard STEM Cell Institute Single Cell Workshop 2015](http://hms-dbmi.github.io/scw/) - workshop on common computational analysis techniques for scRNA-seq data from differential expression to subpopulation identification and network analysis. [See course description for more information](http://scholar.harvard.edu/jeanfan/classes/single-cell-workshop-2015)
 - [Hemberg Lab scRNA-seq course materials](http://hemberg-lab.github.io/scRNA.seq.course/index.html)
-- [Theis Lab Single Cell Tutorial](https://github.com/theislab/single-cell-tutorial) - The main part of this repository is a case study where the best-practices established in the manuscript are applied to a mouse intestinal epithelium regions dataset from Haber et al., Nature 551 (2018) available from the GEO under GSE92332. 
+- [Theis Lab Single Cell Tutorial](https://github.com/theislab/single-cell-tutorial) - The main part of this repository is a case study where the best-practices established in the manuscript are applied to a mouse intestinal epithelium regions dataset from Haber et al., Nature 551 (2018) available from the GEO under GSE92332.
 - [Using Seurat (v1.2) for unsupervised clustering and biomarker discovery](http://www.satijalab.org/seurat/get_started_v1_2.html) - 301 single cells across diverse tissues from (Pollen et al., Nature Biotechnology, 2014). Original tutorial using Seurat 1.2
 - [Using Seurat (v1.2) for spatial inference in single-cell data](http://www.satijalab.org/seurat/get_started_v1_2.html) - 851 single cells from Zebrafish embryogenesis (Satija*, Farrell* et al., Nature Biotechnology, 2015). Original tutorial using Seurat 1.2
 - [Seurat (v3.0) - Guided Clustering Tutorial](https://satijalab.org/seurat/v3.0/immune_alignment.html) - new tutorial using Seurat 3.0

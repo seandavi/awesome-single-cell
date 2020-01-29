@@ -267,6 +267,7 @@ List of software packages (and the people developing these methods) for single-c
 - [scRNA.seq.datasets](https://hemberg-lab.github.io/scRNA.seq.datasets) - Collection of public scRNA-Seq datasets used by [Hemberg Lab](http://www.sanger.ac.uk/science/groups/hemberg-group)
 - [scRNASeqDB](https://bioinfo.uth.edu/scrnaseqdb/) - A database aggregating human single-cell RNA-seq datasets. [ref](http://biorxiv.org/content/early/2017/01/31/104810)
 - [Single Cell Portal](https://portals.broadinstitute.org/single_cell) - The Single-Cell Portal was developed to facilitate open data and open science in Single-cell Genomics. The portal currently focuses on sharing scientific results interactively, and sharing associated datasets.
+- [V-SVA](https://github.com/nlawlor/V-SVA) - An R Shiny application for detecting and annotating hidden sources of variation in single cell RNA-seq data.
 - [WOT](https://broadinstitute.github.io/wot/) - Waddington Optimal Transport (wot) uses time-course data to infer how the probability distribution of cells in gene-expression space evolves over time, by using the mathematical approach of optimal transport.
 
 ### Interactive visualization and analysis
@@ -287,6 +288,7 @@ List of software packages (and the people developing these methods) for single-c
 - [ShinyCortex](https://bioinf.eva.mpg.de/shiny/sample-apps/ShinyCortex/) - a resource that brings together data from recent scRNA-seq studies of the developing cortex for further analysis. ShinyCortex is based in R and displays recently published scRNA-seq data from the human and mouse cortex in a comprehensible, dynamic and accessible way, suitable for data exploration by biologists. [paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5962798/)
 - [singleCellTK](https://bioconductor.org/packages/release/bioc/html/singleCellTK.html) - The singleCellTK is an R/Shiny package and GUI for analyzing and visualizing scRNA-Seq through a web interface. Analysis modules include data summary and filtering, dimensionality reduction and clustering, batch correction, differential expression analysis, pathway activity analysis, and power analysis.
 - [STREAM](http://stream.pinellolab.org/) - STREAM is an interactive computational pipeline for reconstructing complex celluar developmental trajectories from sc-qPCR, scRNA-seq or scATAC-seq data. [preprint](https://doi.org/10.1101/302554).
+- [V-SVA](https://github.com/nlawlor/V-SVA) - An R Shiny application for detecting and annotating hidden sources of variation in single cell RNA-seq data.
 
 
 ## Journal articles of general interest

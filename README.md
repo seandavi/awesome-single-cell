@@ -178,6 +178,7 @@ List of software packages (and the people developing these methods) for single-c
 - [HoneyBADGER](https://github.com/JEFworks/HoneyBADGER) - [R] - HoneyBADGER identifies and infers the presence of CNV and LOH events in single cells and reconstructs subclonal architecture using allele and expression information from single-cell RNA-sequencing data.
 
 ### Variant calling
+- [cb_sniffer](https://github.com/sridnona/cb_sniffer) - [python] - Mutation barcode caller, calls mutant and ref barcodes from 10x single cell data.
 - [cerebra](https://github.com/czbiohub/cerebra) - [python] - Cerebra is a tool for high-throughput summarizing of vcf entries following traditional variant calling for a sequencing experiment. Helps to extract relevant mutation information from among tens of thousands of vcf lines.
 - [monovar](https://bitbucket.org/hamimzafar/monovar) - [python] - Monovar is a single nucleotide variant (SNV) detection and genotyping algorithm for single-cell DNA sequencing data. It takes a list of bam files as input and outputs a vcf file containing the detected SNVs.
 - [octopus](https://github.com/luntergroup/octopus) - [C++] - Bayesian haplotype-based mutation calling with [single-cell calling model](https://github.com/luntergroup/octopus/wiki/Calling-models:-Cell). Identifies clonal and subclonal mutations using phylogeny inference and accounts for allelic dropout.

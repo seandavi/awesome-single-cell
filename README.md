@@ -293,7 +293,7 @@ List of software packages (and the people developing these methods) for single-c
 - [singleCellTK](https://bioconductor.org/packages/release/bioc/html/singleCellTK.html) - The singleCellTK is an R/Shiny package and GUI for analyzing and visualizing scRNA-Seq through a web interface. Analysis modules include data summary and filtering, dimensionality reduction and clustering, batch correction, differential expression analysis, pathway activity analysis, and power analysis.
 - [STREAM](http://stream.pinellolab.org/) - STREAM is an interactive computational pipeline for reconstructing complex celluar developmental trajectories from sc-qPCR, scRNA-seq or scATAC-seq data. [preprint](https://doi.org/10.1101/302554).
 - [V-SVA](https://github.com/nlawlor/V-SVA) - An R Shiny application for detecting and annotating hidden sources of variation in single cell RNA-seq data.
-- [histoCAT](https://github.com/BodenmillerGroup/histoCAT) - Histology Topography Cytometry Analysis Toolbox (histoCAT) is a package to visualize and analyse highly multiplexed image cytometry data. [histoCAT: analysis of cell phenotypes and interactions in multiplex image cytometry data (https://www.nature.com/articles/nmeth.4391)]
+- [histoCAT](https://github.com/BodenmillerGroup/histoCAT) [MATLAB]- Histology Topography Cytometry Analysis Toolbox (histoCAT) is a package to visualize and analyse highly multiplexed image cytometry data. [histoCAT: analysis of cell phenotypes and interactions in multiplex image cytometry data](https://www.nature.com/articles/nmeth.4391)
 
 
 ## Journal articles of general interest

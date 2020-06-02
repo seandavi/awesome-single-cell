@@ -205,7 +205,7 @@ List of software packages (and the people developing these methods) for single-c
 ](https://www.nature.com/articles/s41467-019-12630-7)
 - [SCRAT](https://github.com/zji90/SCRAT) - [R] - SCRAT provides essential tools for users to read in single-cell regolome data (ChIP-seq, ATAC-seq, DNase-seq) and summarize into different types of features. It also allows users to visualize the features, cluster samples and identify key features.
 - [Signac](https://satijalab.org/signac/) - [R] - Signac is an extension of Seurat for the analysis, interpretation, and exploration of single-cell chromatin datasets.
-- [AtacWorks](https://github.com/clara-parabricks/AtacWorks) - [python] - AtacWorks is a deep learning tool to denoise and identify accessible chromatin regions from low-coverage, low cell count, or low-quality ATAC-seq data. AtacWorks can denoise signal and identify peaks from rare cellular subtypes in a mixed population.
+- [AtacWorks](https://github.com/clara-parabricks/AtacWorks) - [python] - AtacWorks is a deep learning tool to denoise and identify accessible chromatin regions from low-coverage, low cell count, or low-quality ATAC-seq data. AtacWorks can denoise signal and identify peaks from rare cellular subtypes in a mixed population. [Biorxiv](https://www.biorxiv.org/content/10.1101/829481v2)
 
 ### Multi-assay data integration
 
@@ -264,6 +264,7 @@ imputing missing gene expression measurements](https://arxiv.org/pdf/1905.02269.
 - [Using Seurat (v1.2) for unsupervised clustering and biomarker discovery](http://www.satijalab.org/seurat/get_started_v1_2.html) - 301 single cells across diverse tissues from (Pollen et al., Nature Biotechnology, 2014). Original tutorial using Seurat 1.2
 - [Using Seurat (v1.2) for spatial inference in single-cell data](http://www.satijalab.org/seurat/get_started_v1_2.html) - 851 single cells from Zebrafish embryogenesis (Satija*, Farrell* et al., Nature Biotechnology, 2015). Original tutorial using Seurat 1.2
 - [Seurat (v3.0) - Guided Clustering Tutorial](https://satijalab.org/seurat/v3.0/immune_alignment.html) - new tutorial using Seurat 3.0
+- [GPU accelerated single-cell analysis using RAPIDS](https://github.com/clara-parabricks/rapids-single-cell-examples) - NVIDIA tutorials on using RAPIDS (https://www.rapids.ai/) to accelerate single-cell analysis on GPUs.
 
 ## Web portals, apps, and databases
 

@@ -199,6 +199,7 @@ List of software packages (and the people developing these methods) for single-c
 - [SSrGE](https://github.com/lanagarmire/SSrGE) - [python] - SSrGE is an approach to identify SNVs correlated with Gene Expression using multiple regularized linear regressions. It contains its own pipeline to infer SNVs from scRNA-seq reads and is able to identify and sort genes and SNVs for a given cell subgroup. Deposited in [BioRxiv in December 2016](http://biorxiv.org/content/early/2017/03/01/095810).
 
 ### Epigenomics
+
 - [BIRD](https://github.com/WeiqiangZhou/BIRD) - [C++/R] - BIRD is a tool for predicting chromatin accessibility and inferring regulatory element activities in single cells using scRNA-seq. [Global prediction of chromatin accessibility using small-cell-number and single-cell RNA-seq](https://academic.oup.com/nar/article/47/19/e121/5552071)
 - [ChromA](https://github.com/marianogabitto/ChromA) - [C++/Fortran] - Chromatin Accessibility Annotation Tool.
 - [ChromVAR](https://bioconductor.org/packages/release/bioc/html/chromVAR.html) - [R] - Determine variations in chromatin accessibility across sets of annotations or peaks. Designed primarily for single-cell or sparse chromatin accessibility data, e.g. from scATAC-seq or sparse bulk ATAC or DNAse-seq experiments. [BioRxiv](https://www.biorxiv.org/content/early/2017/02/21/110346)

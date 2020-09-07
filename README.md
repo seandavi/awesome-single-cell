@@ -236,6 +236,7 @@ imputing missing gene expression measurements](https://arxiv.org/pdf/1905.02269.
 ### Other applications
 
 - [BASIC](http://ttic.uchicago.edu/~aakhan/BASIC/) - [python] - BASIC is a semi-de novo assembly method to determine the full-length sequence of the BCR in single B cells from scRNA-seq data.
+- [CytoSpill](https://github.com/KChen-lab/CytoSpill) - [R] - The goal of CytoSpill is to estimate and compensate spillover noises in CyTOF data, without requiring any training data.
 - [dropEst](https://github.com/hms-dbmi/dropEst) - [C++, R] - High-performance pipeline for initial analysis of droplet-based single-cell RNA-seq data (Drop-seq, inDrop, 10x and some others). Allows to estimate gene count matrix as well as diagnostic stats from fastq files with raw reads. Implements corrections for different noise sources.
 - [dropSeqPipe](https://github.com/Hoohm/dropSeqPipe) - [python, R, snakemake] - An automatic data handling pipeline for drop-seq/scrb-seq data. It runs from raw fastq.gz data until the final count matrix with QC plots along the way.
 - [immunarch](https://github.com/immunomind/immunarch) - [R] - R Package for Fast and Painless Exploration of Single-cell and Bulk T-cell/Antibody Immune Repertoires
@@ -338,7 +339,7 @@ imputing missing gene expression measurements](https://arxiv.org/pdf/1905.02269.
 
 - [Design and computational analysis of single-cell RNA-sequencing experiments](http://genomebiology.biomedcentral.com/articles/10.1186/s13059-016-0927-y)
 - [How to design a single-cell RNA-sequencing experiment: pitfalls, challenges and perspectives](https://doi.org/10.1093/bib/bby007)
-- [How to determine the number of patients required to ascertain a cell-type abundance change estimated from scRNA-seq experiment](https://www.biorxiv.org/content/10.1101/2020.05.31.126565v1). [a web tool of quick power estimation](https://www.biorxiv.org/content/10.1101/2020.05.31.126565v1).
+- [Sensei](https://kchen-lab.github.io/sensei/table_beta.html). [How to determine the number of patients required to ascertain a cell-type abundance change estimated from scRNA-seq experiment](https://www.biorxiv.org/content/10.1101/2020.05.31.126565v1). 
 
 ### Methods comparisons
 

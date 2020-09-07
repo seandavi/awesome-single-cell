@@ -191,6 +191,7 @@ List of software packages (and the people developing these methods) for single-c
 - [aneufinder](https://github.com/ataudt/aneufinder) - [R] - Bioconductor module for copy-number detection in single-cell whole genome sequencing (scWGS) and strand-seq data using a Hidden Markov Model or binary bisection method.
 - [Ginkgo](https://github.com/robertaboukhalil/ginkgo) - [R, C] - Ginkgo is a web application for single-cell copy-number variation analysis.
 - [HoneyBADGER](https://github.com/JEFworks/HoneyBADGER) - [R] - HoneyBADGER identifies and infers the presence of CNV and LOH events in single cells and reconstructs subclonal architecture using allele and expression information from single-cell RNA-sequencing data.
+- [MEDALT](https://github.com/KChen-lab/MEDALT) - [R, Python] - This package performs lineage tracing using copy number profile from single cell sequencing technology. It will infer: 1. An rooted directed minimal spanning tree (RDMST) to represent aneuploidy evolution of tumor cells. 2. The focal and broad copy number alterations associated with lineage expansion. 
 
 ### Variant calling
 - [cb_sniffer](https://github.com/sridnona/cb_sniffer) - [python] - Mutation barcode caller, calls mutant and ref barcodes from 10x single cell data.
@@ -217,6 +218,7 @@ List of software packages (and the people developing these methods) for single-c
 
 ### Multi-assay data integration
 
+- [bindSC](https://github.com/KChen-lab/bindSC) - [R] - bindSC (Bi-dimensional INtegration of multi-omics Data from Single Cell sequencing technologies) is an R package for single cell multi-omic integration analysis, developed and maintained by Ken chen's lab in MDACC. bindSC is developed to address the challenge of single-cell multi-omic data integration that consists of unpaired cells measured with unmatched features across modalities. 
 - [CITE-seq-Count](https://github.com/Hoohm/CITE-seq-Count) - [python] Cite-seq-Count is a python package that deals with Cellular Indexing of Transcriptomes and Epitopes by Sequencing (CITE-seq) and cell hashing data. [CITE-seq](https://cite-seq.com/) is a multimodal single cell phenotyping method that allows for immunophenotyping of cells with a potentially limitless number of markers and unbiased transcriptome analysis using existing single-cell sequencing approaches.
 - [clonealign](https://github.com/kieranrcampbell/clonealign/) - [R] - Integrate single-cell RNA and single-cell DNA-seq measured in separate cells from the same tumour to infer cancer-clone-specific gene expression profiles [clonealign: statistical integration of independent single-cell RNA and DNA sequencing data from human cancers, Genome Biology 2019](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-019-1645-z)
 - [gimVI](https://github.com/YosefLab/scVI) - [python] - gimVI is a joint generative model for imputation of missing genes in spatial transcriptomics assay from unpaired scRNA-seq data. [A joint model of unpaired data from scRNA-seq and spatial transcriptomics for
@@ -336,6 +338,7 @@ imputing missing gene expression measurements](https://arxiv.org/pdf/1905.02269.
 
 - [Design and computational analysis of single-cell RNA-sequencing experiments](http://genomebiology.biomedcentral.com/articles/10.1186/s13059-016-0927-y)
 - [How to design a single-cell RNA-sequencing experiment: pitfalls, challenges and perspectives](https://doi.org/10.1093/bib/bby007)
+- [How to determine the number of patients required to ascertain a cell-type abundance change estimated from scRNA-seq experiment](https://www.biorxiv.org/content/10.1101/2020.05.31.126565v1). [a web tool of quick power estimation](https://www.biorxiv.org/content/10.1101/2020.05.31.126565v1).
 
 ### Methods comparisons
 

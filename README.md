@@ -192,6 +192,7 @@ List of software packages (and the people developing these methods) for single-c
 - [Ginkgo](https://github.com/robertaboukhalil/ginkgo) - [R, C] - Ginkgo is a web application for single-cell copy-number variation analysis.
 - [HoneyBADGER](https://github.com/JEFworks/HoneyBADGER) - [R] - HoneyBADGER identifies and infers the presence of CNV and LOH events in single cells and reconstructs subclonal architecture using allele and expression information from single-cell RNA-sequencing data.
 - [MEDALT](https://github.com/KChen-lab/MEDALT) - [R, Python] - This package performs lineage tracing using copy number profile from single cell sequencing technology. It will infer: 1. An rooted directed minimal spanning tree (RDMST) to represent aneuploidy evolution of tumor cells. 2. The focal and broad copy number alterations associated with lineage expansion. 
+- [SCICoNE](https://github.com/cbg-ethz/SCICoNE) - [C++, Python] - Single-cell copy number calling and event history reconstruction. SCICoNE reconstructs the history of copy number events in the tumour and uses these evolutionary relationships to identify the copy number profiles of the individual cells.
 
 ### Variant calling
 - [cb_sniffer](https://github.com/sridnona/cb_sniffer) - [python] - Mutation barcode caller, calls mutant and ref barcodes from 10x single cell data.

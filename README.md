@@ -187,6 +187,7 @@ List of software packages (and the people developing these methods) for single-c
 - [DoubletDecon](https://github.com/EDePasquale/DoubletDecon) - [R] - Cell-State Aware Removal of Single-Cell RNA-Seq Doublets. [BioRxiv](DoubletDecon: Cell-State Aware Removal of Single-Cell RNA-Seq Doublets)
 - [DoubletDetection](https://github.com/JonathanShor/DoubletDetection) - [R, Python] - A Python3 package to detect doublets (technical errors) in single-cell RNA-seq count matrices. An [R implementation](https://github.com/TomKellyGenetics/DoubletDetection) is in development.
 - [Scrublet](github.com/AllonKleinLab/scrublet) - [Python] - Computational identification of cell doublets in single-cell transcriptomic data. [BioRxiv](https://www.biorxiv.org/content/early/2018/07/09/357368)
+- [solo](https://github.com/calico/solo) - [Python] - Doublet detection via semi-supervised deep learning.
 
 ### Copy number analysis
 

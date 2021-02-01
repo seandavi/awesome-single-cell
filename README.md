@@ -206,6 +206,7 @@ List of software packages (and the people developing these methods) for single-c
 
 ### Epigenomics
 
+- [ATACdemultiplex](https://gitlab.com/Grouumf/ATACdemultiplex) - [Go] - Suites of low-level multi-threaded utilities to efficiently manipulate large single-cell ATAC-Seq data (BAM, BED/fragments, Fastq files). Very efficient for creating sparse matrices, subset fragment/BED files, annotate peaks, estimate FDR corrected fisher features, create bigwig files and compute TSS enrichments (global and at the single-cell level).
 - [BIRD](https://github.com/WeiqiangZhou/BIRD) - [C++/R] - BIRD is a tool for predicting chromatin accessibility and inferring regulatory element activities in single cells using scRNA-seq. [Global prediction of chromatin accessibility using small-cell-number and single-cell RNA-seq](https://academic.oup.com/nar/article/47/19/e121/5552071)
 - [ChromA](https://github.com/marianogabitto/ChromA) - [C++/Fortran] - Chromatin Accessibility Annotation Tool.
 - [ChromVAR](https://bioconductor.org/packages/release/bioc/html/chromVAR.html) - [R] - Determine variations in chromatin accessibility across sets of annotations or peaks. Designed primarily for single-cell or sparse chromatin accessibility data, e.g. from scATAC-seq or sparse bulk ATAC or DNAse-seq experiments. [BioRxiv](https://www.biorxiv.org/content/early/2017/02/21/110346)

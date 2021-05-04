@@ -189,6 +189,10 @@ List of software packages (and the people developing these methods) for single-c
 - [Scrublet](github.com/AllonKleinLab/scrublet) - [Python] - Computational identification of cell doublets in single-cell transcriptomic data. [BioRxiv](https://www.biorxiv.org/content/early/2018/07/09/357368)
 - [solo](https://github.com/calico/solo) - [Python] - Doublet detection via semi-supervised deep learning.
 
+### Cell subsampling
+
+- [geosketch](https://github.com/parashardhapola/scar) - [Python] - Method to subsample massive scRNA-seq datasets while preserving rare cell states. Resulting “sketch” accelerates clustering, visualization, and integration analyses. [Paper](https://doi.org/10.1016/j.cels.2019.05.003)
+
 ### Copy number analysis
 
 - [aneufinder](https://github.com/ataudt/aneufinder) - [R] - Bioconductor module for copy-number detection in single-cell whole genome sequencing (scWGS) and strand-seq data using a Hidden Markov Model or binary bisection method.

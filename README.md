@@ -215,6 +215,7 @@ List of software packages (and the people developing these methods) for single-c
 
 ### Doublet Identification
 
+- [AMULET](https://github.com/UcarLab/AMULET) - [shell, Python, R] - A count based method for detecting multiplets from single nucleus ATAC-seq (snATAC-seq) data. [Genome Biology](https://doi.org/10.1186/s13059-021-02469-x)
 - [demuxlet](https://github.com/statgen/demuxlet) - [shell] - [Multiplexed droplet single-cell RNA-sequencing using natural genetic variation](https://www.nature.com/articles/nbt.4042)
 - [DoubletFinder](https://github.com/chris-mcginnis-ucsf/DoubletFinder) - [R] - Doublet detection in single-cell RNA sequencing data using artificial nearest neighbors. [BioRxiv](https://www.biorxiv.org/content/early/2018/06/20/352484)
 - [DoubletDecon](https://github.com/EDePasquale/DoubletDecon) - [R] - Cell-State Aware Removal of Single-Cell RNA-Seq Doublets. [BioRxiv](DoubletDecon: Cell-State Aware Removal of Single-Cell RNA-Seq Doublets)

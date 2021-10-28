@@ -142,7 +142,7 @@ List of software packages (and the people developing these methods) for single-c
 - [ZIFA](https://github.com/epierson9/ZIFA) - [Python] - Zero-inflated dimensionality reduction algorithm for single-cell data.
 
 ### Archetypal analysis
-- [scAAnet] (https://github.com/AprilYuge/scAAnet_latest) - [Python] - scAAnet performs non-linear archetypal analysis through autoencoder networks to identify shared gene expression programs (GEPs) among heterogenous cell populations and infer relative activity of each GEP across cells. 
+- [scAAnet](https://github.com/AprilYuge/scAAnet_latest) - [Python] - scAAnet performs non-linear archetypal analysis through autoencoder networks to identify shared gene expression programs (GEPs) among heterogenous cell populations and infer relative activity of each GEP across cells. 
 
 ### Count modelling and normalization
 

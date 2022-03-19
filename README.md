@@ -347,6 +347,7 @@ imputing missing gene expression measurements](https://arxiv.org/pdf/1905.02269.
 
 ### Big data approach overview
 - [Single-cell Transcriptome Study as Big Data](http://www.sciencedirect.com/science/article/pii/S1672022916000437)
+- [Single-cell transcriptomics: Current methods and challenges in data acquisition and analysis](https://www.frontiersin.org/articles/10.3389/fnins.2021.591122/full)
 
 ### Experimental design
 

@@ -113,7 +113,7 @@ List of software packages (and the people developing these methods) for single-c
 - [SINCERITIES](https://github.com/CABSEL/SINCERITIES) - [R/Matlab] - [Inferring gene regulatory networks from time-stamped single cell transcriptional expression profiles](https://academic.oup.com/bioinformatics/article/34/2/258/4158033)
 
 
-### TCR analysis
+### Immune receptor profiling
 
 - [Scirpy](https://github.com/icbi-lab/scirpy) - [Python] - [A Scanpy extension for analyzing single-cell T-cell receptor (TCR) sequencing data](https://www.biorxiv.org/content/10.1101/2020.04.10.035865v1).
 - [TraCeR](http://github.com/teichlab/tracer) - [python] - Reconstruction of T-Cell receptor sequences from single-cell RNA-seq data.

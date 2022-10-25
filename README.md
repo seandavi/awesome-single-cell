@@ -33,7 +33,7 @@ List of software packages (and the people developing these methods) for single-c
     - [Other applications](#other-applications)
     - [Spatial transcriptomics](#spatial-transcriptomics)
 - [Tutorials and workflows](#tutorials-and-workflows)
-- [Web portals, apps, and databases](#web portals,-apps,-and-databases)
+- [Web portals, apps, and databases](#web portals-apps-and-databases)
     - [Web portals and databases](#web-portals-and-databases)
     - [Interactive visualization and analysis](#interactive-visualization-and-analysis)
 - [Journal articles of general interest](#journal-articles-of-general-interest)

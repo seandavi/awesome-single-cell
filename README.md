@@ -7,7 +7,11 @@ List of software packages (and the people developing these methods) for single-c
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1117762.svg)](https://doi.org/10.5281/zenodo.1117762)
 
 ## Contents
-- [Software packages](#software-packages)
+
+- [awesome-single-cell](#awesome-single-cell)
+  - [Citation](#citation)
+  - [Contents](#contents)
+  - [Software packages](#software-packages)
     - [RNA-seq](#rna-seq)
     - [Quality control](#quality-control)
     - [Gene regulatory network identification](#gene-regulatory-network-identification)
@@ -17,7 +21,7 @@ List of software packages (and the people developing these methods) for single-c
     - [Dimension reduction](#dimension-reduction)
     - [Archetypal analysis](#archetypal-analysis)
     - [Count modelling and normalization](#count-modelling-and-normalization)
-    - [Batch-effect-removal](#batch-effect-removal)
+    - [Batch-effect removal](#batch-effect-removal)
     - [Cell projection and unimodal integration](#cell-projection-and-unimodal-integration)
     - [Simulation](#simulation)
     - [Pseudotime and trajectory inference](#pseudotime-and-trajectory-inference)
@@ -32,20 +36,20 @@ List of software packages (and the people developing these methods) for single-c
     - [Rare cell detection](#rare-cell-detection)
     - [Other applications](#other-applications)
     - [Spatial transcriptomics](#spatial-transcriptomics)
-- [Tutorials and workflows](#tutorials-and-workflows)
-- [Web portals, apps, and databases](#web-portals-apps-and-databases)
+  - [Tutorials and workflows](#tutorials-and-workflows)
+  - [Web portals, apps, and databases](#web-portals-apps-and-databases)
     - [Web portals and databases](#web-portals-and-databases)
     - [Interactive visualization and analysis](#interactive-visualization-and-analysis)
-- [Journal articles of general interest](#journal-articles-of-general-interest)
+  - [Journal articles of general interest](#journal-articles-of-general-interest)
     - [Paper collections](#paper-collections)
     - [Big data approach overview](#big-data-approach-overview)
     - [Experimental design](#experimental-design)
     - [Methods comparisons](#methods-comparisons)
-
-- [Similar lists and collections](#similar-lists-and-collections)
-- [People](#people)
+  - [Similar lists and collections](#similar-lists-and-collections)
+  - [People](#people)
     - [Female](#female)
     - [Male](#male)
+
 ## Software packages
 
 ### RNA-seq
@@ -72,17 +76,21 @@ List of software packages (and the people developing these methods) for single-c
 - [DESCEND](https://github.com/jingshuw/descend) - [R] - DESCEND deconvolves the true gene expression distribution across cells for UMI scRNA-seq counts. It provides estimates of several distribution based statistics (five distribution measurements and the coefficients of covariates (such as batches or cell size)).
 - [DeLorean](https://cran.r-project.org/web/packages/DeLorean/index.html) - [R] - Bayesian pseudotime estimation algorithm that uses Gaussian processes to model gene expression profiles and provides a full posterior for the pseudotimes.
 - [dittoSeq](https://github.com/dtm2451/dittoSeq) - [R] - Bioconductor package offering user friendly visualization tools for single-cell and Bulk RNA Sequencing. Color blindness friendly by default; novice coder friendly; highly customizable and powerful enough to build publication-ready figures; universal in that it works directly with Seurat, SingleCellExperiment, and SummarizedExperiment objects and has import capabilities for edgeR DGElists.
+- [dropkick](https://github.com/KenLauLab/dropkick) - [Python] - Automated cell filtering for single-cell RNA sequencing data.
 - [dynamo](https://github.com/aristoteleo/dynamo-release) - [Python] - Inclusive model of expression dynamics with scSLAM-seq and multiomics, vector field reconstruction and potential landscape mapping.
 - [embeddr](https://github.com/kieranrcampbell/embeddr) - [R] - Embeddr creates a reduced dimensional representation of the gene space using a high-variance gene correlation graph and laplacian eigenmaps. It then fits a smooth pseudotime trajectory using principal curves.
 - [Falco](https://github.com/VCCRI/Falco/) - [AWS cloud] - [Falco: A quick and flexible single-cell RNA-seq processing framework on the cloud](http://www.biorxiv.org/content/early/2016/07/15/064006.abstract).
 - [FastProject](https://github.com/yoseflab/fastproject) - [Python] - Signature analysis on low-dimensional projections of single-cell expression data.
 - [flotilla](https://github.com/yeolab/flotilla) - [Python] - Reproducible machine learning analysis of gene expression and alternative splicing data
 - [GPfates](https://github.com/Teichlab/GPfates) - [Python] - Model transcriptional cell fates as mixtures of Gaussian Processes
+- [GSEApy](https://github.com/zqfang/GSEApy) - [Python] - GSEApy: Gene Set Enrichment Analysis in Python. GSEApy is a Python/Rust implementation for GSEA and wrapper for Enrichr. GSEApy can be used for RNA-seq, ChIP-seq, Microarray data. It can be used for convenient GO enrichment and to produce publication quality figures in python.
 - [HocusPocus](https://github.com/joeburns06/hocuspocus) - [R] - Basic PCA-based workflow for analysis and plotting of single cell RNA-seq data.
+- [HTSeq](https://github.com/htseq/htseq) - [Python] - A Python library to facilitate programmatic analysis of data from high-throughput sequencing (HTS) experiments. A popular component of `HTSeq` is `htseq-count`, a script to quantify gene expression in bulk and single-cell RNA-Seq and similar experiments.
 - [IA-SVA](https://github.com/UcarLab/iasva) - [R] - Iteratively Adjusted Surrogate Variable Analysis (IA-SVA) is a statistical framework to uncover hidden sources of variation even when these sources are correlated with the biological variable of interest. IA-SVA provides a flexible methodology to i) identify a hidden factor for unwanted heterogeneity while adjusting for all known factors; ii) test the significance of the putative hidden factor for explaining the variation in the data; and iii), if significant, use the estimated factor as an additional known factor in the next iteration to uncover further hidden factors.
 - [ICGS](https://github.com/nsalomonis/altanalyze) - [Python] - Iterative Clustering and Guide-gene Selection (Olsson et al. Nature 2016). Identify discrete, transitional and mixed-lineage states from diverse single-cell transcriptomics platforms. Integrated FASTQ pseudoalignment /quantification (Kallisto), differential expression, cell-type prediction and optional cell cycle exclusion analyses. Specialized methods for processing BAM and 10X Genomics spares matrix files. Associated single-cell splicing PSI methods (MultIPath-PSI). Apart of the AltAnalyze toolkit along with accompanying visualization methods (e.g., heatmap, t-SNE, SashimiPlots, network graphs). Easy-to-use graphical user and commandline interfaces.
 - [ivis](https://github.com/beringresearch/ivis) - [Python or R] - Structure-preserving dimensionality reduction in single-cell datasets.
 - [kallisto](https://github.com/pachterlab/kallisto) - [C++] - kallisto is a program for quantifying abundances of transcripts or genes from bulk or single-cell RNA-Seq data, or more generally of target sequences using high-throughput sequencing reads. It is based on pseudoalignment for rapidly determining the compatibility of reads with targets, without the need for alignment.
+- [kb-python](https://github.com/pachterlab/kb_python) - [Python] - `kb-python` is a python package for processing single-cell RNA-sequencing. It wraps the [`kallisto` | `bustools`](https://www.kallistobus.tools) single-cell RNA-seq command line tools in order to unify multiple processing workflows.
 - [knn-smoothing](https://github.com/yanailab/knn-smoothing) - [python or R or matlab] - The algorithm is based on the observation that across protocols, the technical noise exhibited by UMI-filtered scRNA-Seq data closely follows Poisson statistics. Smoothing is performed by first identifying the nearest neighbors of each cell in a step-wise fashion, based on variance-stabilized and partially smoothed expression profiles, and then aggregating their transcript counts.
 - [mfa](https://github.com/kieranrcampbell/mfa) - [R] - [Probabilistic modeling of bifurcations in single-cell gene expression data using a Bayesian mixture of factor analyzers](https://wellcomeopenresearch.org/articles/2-19/v1)
 - [M3Drop](https://github.com/tallulandrews/M3Drop) - [R] - Michaelis-Menten Modelling of Dropouts for scRNASeq.
@@ -138,7 +146,6 @@ List of software packages (and the people developing these methods) for single-c
 - [VISION](https://www.biorxiv.org/content/early/2018/09/28/403055) - [] - A tool for annotating the sources of variation in single cell RNA-seq data in an automated, unbiased and scalable manner. It produces an interactive, low latency and feature rich web-based report that can be easily shared amongst researchers.
 - [zUMIs](https://github.com/sdparekh/zUMIs) - [R, perl, shell] - [zUMIs: A fast and flexible pipeline to process RNA-seq data with UMIs.](https://www.biorxiv.org/content/early/2017/10/18/153940)
 
-
 ### Quality control
 
 - [Cellity](https://github.com/teichlab/cellity) - [R] - Classification of low quality cells in scRNA-seq data using R
@@ -152,7 +159,6 @@ List of software packages (and the people developing these methods) for single-c
 - [Normalisr](https://github.com/lingfeiwang/normalisr) - [Python, Shell] - Normalisr infers Gene Regulatory Networks from Perturb-seq and other single-cell CRISPR screens. Its normalization and statistical association testing framework also unifies single-cell differential expression and co-expression. [Single-cell normalization and association testing unifying CRISPR screen and gene co-expression analyses with Normalisr](https://doi.org/10.1038/s41467-021-26682-1).
 - [SCENIC](https://github.com/aertslab/SCENIC) - [R] - SCENIC is an R package to infer Gene Regulatory Networks and cell types from single-cell RNA-seq data. [SCENIC: single-cell regulatory network inference and clustering](https://www.nature.com/articles/nmeth.4463)
 - [SINCERITIES](https://github.com/CABSEL/SINCERITIES) - [R/Matlab] - [Inferring gene regulatory networks from time-stamped single cell transcriptional expression profiles](https://academic.oup.com/bioinformatics/article/34/2/258/4158033)
-
 
 ### Immune receptor profiling
 
@@ -173,7 +179,6 @@ List of software packages (and the people developing these methods) for single-c
 - [SEPA](https://github.com/zji90/SEPA) - [R] - SEPA provides convenient functions for users to assign genes into different gene expression patterns such as constant, monotone increasing and increasing then decreasing. SEPA then performs GO enrichment analysis to analysis the functional roles of genes with same or similar patterns.
 - [switchde](http://github.com/kieranrcampbell/switchde) - [R] - Differential expression analysis across pseudotime. Identify genes that exhibit switch-like up or down regulation along single-cell trajectories along with where in the trajectory the regulation occurs.
 
-
 ### Cell clustering
 
 - [BackSPIN](https://github.com/linnarsson-lab/BackSPIN) - [Python] - Biclustering algorithm developed taking into account intrinsic features of single-cell RNA-seq experiments.
@@ -191,6 +196,7 @@ List of software packages (and the people developing these methods) for single-c
 - [ZIFA](https://github.com/epierson9/ZIFA) - [Python] - Zero-inflated dimensionality reduction algorithm for single-cell data.
 
 ### Archetypal analysis
+
 - [scAAnet](https://github.com/AprilYuge/scAAnet_latest) - [Python] - scAAnet performs non-linear archetypal analysis through autoencoder networks to identify shared gene expression programs (GEPs) among heterogenous cell populations and infer relative activity of each GEP across cells.
 
 ### Count modelling and normalization
@@ -222,7 +228,6 @@ List of software packages (and the people developing these methods) for single-c
 - [powsimR](https://bvieth.github.io/powsimR/) - [R] - Power analysis is essential to optimize the design of RNA-seq experiments and to assess and compare the power to detect differentially expressed genes. [PowsimR](https://academic.oup.com/bioinformatics/article/33/21/3486/3952669) is a flexible tool to simulate and evaluate differential expression from bulk and especially single-cell RNA-seq data making it suitable for a priori and posterior power analyses.
 - [splatter](http://bioconductor.org/packages/splatter/) - [R] - Splatter is a package for the simulation of single-cell RNA sequencing count data. It provides a simple interface for creating complex simulations that are reproducible and well-documented.
 - [symsim](https://github.com/YosefLab/SymSim) - [R] - SymSim (Synthetic model of multiple variability factors for Simulation) is an R package for simulation of single cell RNA-Seq data.
-
 
 ### Pseudotime and trajectory inference
 
@@ -274,7 +279,7 @@ List of software packages (and the people developing these methods) for single-c
 - [DoubletFinder](https://github.com/chris-mcginnis-ucsf/DoubletFinder) - [R] - Doublet detection in single-cell RNA sequencing data using artificial nearest neighbors. [BioRxiv](https://www.biorxiv.org/content/early/2018/06/20/352484)
 - [DoubletDecon](https://github.com/EDePasquale/DoubletDecon) - [R] - Cell-State Aware Removal of Single-Cell RNA-Seq Doublets. [BioRxiv](DoubletDecon: Cell-State Aware Removal of Single-Cell RNA-Seq Doublets)
 - [DoubletDetection](https://github.com/JonathanShor/DoubletDetection) - [R, Python] - A Python3 package to detect doublets (technical errors) in single-cell RNA-seq count matrices. An [R implementation](https://github.com/TomKellyGenetics/DoubletDetection) is in development.
-- [Scrublet](github.com/AllonKleinLab/scrublet) - [Python] - Computational identification of cell doublets in single-cell transcriptomic data. [BioRxiv](https://www.biorxiv.org/content/early/2018/07/09/357368)
+- [Scrublet](https://github.com/swolock/scrublet) - [Python] - Computational identification of cell doublets in single-cell transcriptomic data. [BioRxiv](https://www.biorxiv.org/content/early/2018/07/09/357368)
 - [solo](https://github.com/calico/solo) - [Python] - Doublet detection via semi-supervised deep learning.
 
 ### Cell subsampling
@@ -349,7 +354,6 @@ imputing missing gene expression measurements](https://arxiv.org/pdf/1905.02269.
 - [FiRE](https://github.com/princethewinner/FiRE) - [python, R, C++] - Finder of rare entities (FiRE) helps identify rare cell types in voluminous single-cell datasets. Design of FiRE is inspired by the observation that rareness estimation of a particular data point is the flip side of measuring the density around it. In principle, FiRE uses the Sketching technique, a variant of locality sensitive hashing, to assign rareness score to every cell.
 [Paper](https://www.nature.com/articles/s41467-018-07234-6)
 
-
 ### Other applications
 
 - [BASIC](http://ttic.uchicago.edu/~aakhan/BASIC/) - [python] - BASIC is a semi-de novo assembly method to determine the full-length sequence of the BCR in single B cells from scRNA-seq data.
@@ -357,6 +361,7 @@ imputing missing gene expression measurements](https://arxiv.org/pdf/1905.02269.
 - [dropEst](https://github.com/hms-dbmi/dropEst) - [C++, R] - High-performance pipeline for initial analysis of droplet-based single-cell RNA-seq data (Drop-seq, inDrop, 10x and some others). Allows to estimate gene count matrix as well as diagnostic stats from fastq files with raw reads. Implements corrections for different noise sources.
 - [dropSeqPipe](https://github.com/Hoohm/dropSeqPipe) - [python, R, snakemake] - An automatic data handling pipeline for drop-seq/scrb-seq data. It runs from raw fastq.gz data until the final count matrix with QC plots along the way.
 - [ffq](https://github.com/pachterlab/ffq) - [python] - Fetch run and metadata information for single-cell genomics datasets.
+- [gget](https://github.com/pachterlab/gget) - [Python] - `gget` is a free, open-source command-line tool and Python package that enables efficient querying of genomic databases. `gget`  consists of a collection of separate but interoperable modules, each designed to facilitate one type of database querying in a single line of code.
 - [immunarch](https://github.com/immunomind/immunarch) - [R] - R Package for Fast and Painless Exploration of Single-cell and Bulk T-cell/Antibody Immune Repertoires
 - [MetaNeighbor](github.com/maggiecrow/MetaNeighbor) - [R] - [MetaNeighbor: a method to rapidly assess cell type identity using both functional and random gene sets](https://doi.org/10.1101/150524)
 - [sasc](https://github.com/sciccolella/sasc) - [C] - sasc stands for Simulated Annealing Single-Cell, an algorithm for performing phylogenetic analysis of single-cell cancer samples.  Manuscript [here](https://www.biorxiv.org/content/early/2018/02/20/268243).
@@ -382,25 +387,41 @@ imputing missing gene expression measurements](https://arxiv.org/pdf/1905.02269.
 
 ## Tutorials and workflows
 
-- [Orchestrating Single-Cell Analysis with Bioconductor](https://osca.bioconductor.org) - [R] - This blogdown book describes a comprehensive and reproducible workflow for the analysis of single-cell RNA-sequencing data.
+- [Analysis of single cell RNA-seq data](https://github.com/cellgeni/scRNA.seq.course) - [R and Python] - The [course](https://www.singlecellcourse.org/index.html) is taught through the University of Cambridge Bioinformatics training unit, but the material found on these pages is meant to be used for anyone interested in learning about computational analysis of scRNA-seq data.
 - [Aaron Lun's Single Cell workflow on Bioconductor](http://bioconductor.org/help/workflows/simpleSingleCell/) - [R] - This article describes a computational workflow for basic analysis of scRNA-seq data using software packages from the open-source Bioconductor project.
+- [ATAC-Seq Pipeline](https://github.com/tobiasrausch/ATACseq) - [Shell and R] - [Chromatin accessibility landscape of pediatric T-lymphoblastic leukemia and human T-cell precursors](https://www.embopress.org/doi/full/10.15252/emmm.202012104).
 - [Bioconductor2016 Single-cell-RNA-sequencing workshop by Sandrine Dudoit lab](https://github.com/drisso/bioc2016singlecell) - [R] - SCONE, clusterExperiment, and slingshot tutorial.
 - [BiomedCentral Single Cell Omics collectin](http://www.biomedcentral.com/collections/singlecellomics) - collection of papers describing techniques for single-cell analysis and protocols.
 - [Clustering 3K PBMCs with Scanpy in Galaxy](https://training.galaxyproject.org/training-material/topics/transcriptomics/tutorials/scrna-scanpy-pbmc3k/tutorial.html) - Galaxy Training Material.
+- [**CRUK CI** Introduction to single-cell RNA-seq data analysis](https://github.com/bioinformatics-core-shared-training/UnivCambridge_ScRnaSeq_Nov2021/) | [website](https://bioinformatics-core-shared-training.github.io/UnivCambridge_ScRnaSeq_Nov2021/)
 - [CSHL Single Cell Analysis - Bioinformatics](https://github.com/YeoLab/single-cell-bioinformatics/) course materials - Uses Shalek 2013 and Macaulay 2016 datasets to teach machine learning to biologists
 - [CyTOF Workflow](https://github.com/markrobinsonuzh/cytofWorkflow) - [R] - An R-based pipeline for differential analyses of high dimensional mass cytometry data, primarily based on Bioconductor packages. [Link](https://f1000research.com/articles/6-748) to the paper describing a high-level introduction to the core concepts and code.
+- [**Dana-Farber Cancer Institute** Trajectory inference across conditions: differential expression and differential progression](https://github.com/kstreet13/bioc2020trajectories) | [website](https://kstreet13.github.io/bioc2020trajectories/)
+- [**Dan Beiting** DIY Transcriptomics](https://github.com/DIYtranscriptomics/DIYtranscriptomics.github.io) | [website](https://diytranscriptomics.com/) - A hybrid course covering best practices for bulk and single cell RNA-seq data analysis, with a primary focus on empowering students to be independent in the use of lightweight and open-source software and the R/bioconductor environment.
+- [**EBI** Single cell RNA-seq tutorial](https://gitlab.com/mperalc/scRNA-seq_workshop_2021) | [website](https://mperalc.gitlab.io/scRNA-seq_workshop_2021/)
+- [**ELIXIR EXCELERATE** Single RNA-seq data analysis with R](https://github.com/NBISweden/excelerate-scRNAseq) | [website](https://nbisweden.github.io/excelerate-scRNAseq/)
 - [Festival of Genomics California Single Cell Workshop](https://kdkorthauer.github.io/FestivalWorkshopVignettes/) - [R] - Explores basic workflow from exploratory data analysis to normalization and downstream analyses using a dataset of 1679 cells from the Allen Brain Atlas.
 - [Gilad Lab Single Cell Data Exploration](http://jdblischak.github.io/singleCellSeq/analysis/) - R-based exploration of single cell sequence data. Lots of experimentation.
+- [GPU accelerated single-cell analysis using RAPIDS](https://github.com/clara-parabricks/rapids-single-cell-examples) - NVIDIA tutorials on using RAPIDS (https://www.rapids.ai/) to accelerate single-cell analysis on GPUs.
+- [**Harvard Chan Bioinformatics Core** Single-cell RNA-seq data analysis workshop](https://github.com/hbctraining/scRNA-seq_online) | [website](https://hbctraining.github.io/scRNA-seq_online/schedule/links-to-lessons.html)
 - [Harvard STEM Cell Institute Single Cell Workshop 2015](http://hms-dbmi.github.io/scw/) - workshop on common computational analysis techniques for scRNA-seq data from differential expression to subpopulation identification and network analysis. [See course description for more information](http://scholar.harvard.edu/jeanfan/classes/single-cell-workshop-2015)
 - [Hemberg Lab scRNA-seq course materials](http://hemberg-lab.github.io/scRNA.seq.course/index.html)
+- [kallistobustools](https://github.com/pachterlab/kallistobustools) - kallisto | bustools workflow for pre-processing single-cell RNA-seq data.
+- [**NBIS** Single cell RNA-seq analysis workshop](https://github.com/nbisweden/workshop-scRNAseq) | [website](https://nbisweden.github.io/workshop-scRNAseq/)
+- [**MGC/BioSB** Course - Single Cell Analysis](https://github.com/LeidenCBC/MGC-BioSB-SingleCellAnalysis2021)
 - [nf-core/scrnaseq](https://nf-co.re/scrnaseq) - nf-core/scrnaseq is a bioinformatics best-practice analysis pipeline for processing 10x Genomics single-cell RNA-seq data. The pipeline is built using Nextflow, a workflow tool to run tasks across multiple compute infrastructures in a very portable manner. It uses Docker/Singularity containers making installation trivial and results highly reproducible.
 - [nf-core/scflow](https://nf-co.re/scflow) - nf-core/scflow is a bioinformatics pipeline for scalable, reproducible, best-practice analyses of single-cell/nuclei RNA-sequencing data. The pipeline is built using Nextflow, a workflow tool to run tasks across multiple compute infrastructures in a very portable manner.
+- [Orchestrating Single-Cell Analysis with Bioconductor](https://osca.bioconductor.org) - [R] - This blogdown book describes a comprehensive and reproducible workflow for the analysis of single-cell RNA-sequencing data.
 - [Pre-processing of 10X Single-Cell RNA Datasets in Galaxy](https://training.galaxyproject.org/training-material/topics/transcriptomics/tutorials/scrna-preprocessing-tenx/tutorial.html) - Galaxy Training Material.
 - [Theis Lab Single Cell Tutorial](https://github.com/theislab/single-cell-tutorial) - The main part of this repository is a case study where the best-practices established in the manuscript are applied to a mouse intestinal epithelium regions dataset from Haber et al., Nature 551 (2018) available from the GEO under GSE92332.
 - [Using Seurat (v1.2) for unsupervised clustering and biomarker discovery](http://www.satijalab.org/seurat/get_started_v1_2.html) - 301 single cells across diverse tissues from (Pollen et al., Nature Biotechnology, 2014). Original tutorial using Seurat 1.2
 - [Using Seurat (v1.2) for spatial inference in single-cell data](http://www.satijalab.org/seurat/get_started_v1_2.html) - 851 single cells from Zebrafish embryogenesis (Satija*, Farrell* et al., Nature Biotechnology, 2015). Original tutorial using Seurat 1.2
 - [Seurat (v3.0) - Guided Clustering Tutorial](https://satijalab.org/seurat/v3.0/immune_alignment.html) - new tutorial using Seurat 3.0
-- [GPU accelerated single-cell analysis using RAPIDS](https://github.com/clara-parabricks/rapids-single-cell-examples) - NVIDIA tutorials on using RAPIDS (https://www.rapids.ai/) to accelerate single-cell analysis on GPUs.
+- [**SIB** Single-cell Transcriptomics](https://github.com/sib-swiss/single-cell-training/) | [website](https://sib-swiss.github.io/single-cell-training/latest/)
+- [**SIB NBIS/SciLifeLab** Advanced topics in Single Cell Omics](https://github.com/NBISweden/single-cell_sib_scilifelab_2021) | [website](https://nbisweden.github.io/single-cell_sib_scilifelab_2021/)
+- [**SIB** Advanced topics in single-cell transcriptomics](https://github.com/fmicompbio/adv_scrnaseq_2020)
+- [**WEHI**  Single cell RNA-seq analysis workshop](https://github.com/yunshun/SingleCellWorkshop/) | [website](https://yunshun.github.io/SingleCellWorkshop/)
+- [**Wellcome Sanger Institute** Analysis of single cell RNA-seq data](https://github.com/hemberg-lab/scRNA.seq.course) | [website](https://www.singlecellcourse.org/)
 
 ## Web portals, apps, and databases
 
@@ -422,6 +443,7 @@ imputing missing gene expression measurements](https://arxiv.org/pdf/1905.02269.
 - [scRNA.seq.datasets](https://hemberg-lab.github.io/scRNA.seq.datasets) - Collection of public scRNA-Seq datasets used by [Hemberg Lab](http://www.sanger.ac.uk/science/groups/hemberg-group)
 - [scRNASeqDB](https://bioinfo.uth.edu/scrnaseqdb/) - A database aggregating human single-cell RNA-seq datasets. [ref](http://biorxiv.org/content/early/2017/01/31/104810)
 - [Single Cell Portal](https://portals.broadinstitute.org/single_cell) - The Single-Cell Portal was developed to facilitate open data and open science in Single-cell Genomics. The portal currently focuses on sharing scientific results interactively, and sharing associated datasets.
+- [Single-Cell Tumor Immune Atlas project](https://github.com/Single-Cell-Genomics-Group-CNAG-CRG/Tumor-Immune-Cell-Atlas) - [R] - We generated a [single-cell tumor immune atlas](https://singlecellgenomics-cnag-crg.shinyapps.io/TICA/), jointly analyzing >500,000 cells from 217 patients and 13 cancer types, providing the basis for a patient stratification based on immune cell compositions.
 - [V-SVA](https://github.com/nlawlor/V-SVA) - An R Shiny application for detecting and annotating hidden sources of variation in single cell RNA-seq data.
 - [WOT](https://broadinstitute.github.io/wot/) - Waddington Optimal Transport (wot) uses time-course data to infer how the probability distribution of cells in gene-expression space evolves over time, by using the mathematical approach of optimal transport.
 
@@ -466,6 +488,7 @@ imputing missing gene expression measurements](https://arxiv.org/pdf/1905.02269.
 - [The emerging field of single-cell analysis](https://www.sciencedirect.com/journal/molecular-aspects-of-medicine/vol/59/suppl/C) - Special issue on  single cell analysis
 
 ### Big data approach overview
+
 - [Single-cell Transcriptome Study as Big Data](http://www.sciencedirect.com/science/article/pii/S1672022916000437)
 
 ### Experimental design

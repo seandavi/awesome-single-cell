@@ -357,8 +357,12 @@ imputing missing gene expression measurements](https://arxiv.org/pdf/1905.02269.
 
 ### Cellular interactions/communication
 
-- [CellPhoneDB](https://github.com/ventolab/CellphoneDB) - [python] Publicly available repository of curated receptors, ligands and their interactions in humam (subunit architecture is included for both ligands and receptors, representing heteromeric complexes accurately). [Paper](https://www.nature.com/articles/s41596-020-0292-x)
-- [NicheNet](https://github.com/saeyslab/nichenetr) - [R] To study intercellular communication from a computational perspective. It uses human or mouse gene expression data of interacting cells as input and combines this with a prior model that integrates existing knowledge on ligand-to-target signaling paths. This allows to predict ligand-receptor interactions that might drive gene expression changes in cells of interest. [Paper](https://www.nature.com/articles/s41592-019-0667-5)
+- [CellPhoneDB](https://github.com/ventolab/CellphoneDB) - [python] - Publicly available repository of curated receptors, ligands and their interactions in humam (subunit architecture is included for both ligands and receptors, representing heteromeric complexes accurately). [Paper](https://www.nature.com/articles/s41596-020-0292-x)
+- [NicheNet](https://github.com/saeyslab/nichenetr) - [R] - To study intercellular communication from a computational perspective. It uses human or mouse gene expression data of interacting cells as input and combines this with a prior model that integrates existing knowledge on ligand-to-target signaling paths. This allows to predict ligand-receptor interactions that might drive gene expression changes in cells of interest. [Paper](https://www.nature.com/articles/s41592-019-0667-5)
+- [COMUNET](https://github.com/ScialdoneLab/COMUNET) - [python] - It streamlines the interpretation of the results from cell-cell communication analyses by using multiplex networks to represent and cluster all potential communication pathways between cell types. [Paper](https://academic.oup.com/bioinformatics/article/36/15/4296/5836497)
+- [CellChat](https://github.com/sqjin/CellChat) - [R] - It predicts major signaling inputs and outputs for cells and how those cells and signals coordinate for functions using network analysis and pattern recognition approaches. Through manifold learning and quantitative contrasts, CellChat classifies signaling pathways and delineates conserved and context-specific pathways across different datasets. [Paper](https://www.nature.com/articles/s41467-021-21246-9)
+- [LIANA](https://github.com/saezlab/liana/) - [R, python] - LIANA enables the use of any combination of ligand-receptor methods and resources, and their consensus. [Paper](https://www.nature.com/articles/s41467-022-30755-0)
+
 
 ### Other applications
 

@@ -1,8 +1,0 @@
-# Configuration adapted from https://github.com/dkhamsing/awesome_bot
-
-language: ruby
-rvm: 2.4.1
-before_script: gem install awesome_bot
-script: awesome_bot *.md --allow-redirect --allow-ssl --allow-dupe --allow 202
-notifications:
-  email: false

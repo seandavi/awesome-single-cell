@@ -34,6 +34,7 @@ List of software packages (and the people developing these methods) for single-c
     - [Epigenomics](#epigenomics)
     - [Multi-assay data integration](#multi-assay-data-integration)
     - [Rare cell detection](#rare-cell-detection)
+    - [Cellular interactions](#cellular-interactions)
     - [Other applications](#other-applications)
     - [Spatial transcriptomics](#spatial-transcriptomics)
   - [Tutorials and workflows](#tutorials-and-workflows)
@@ -353,6 +354,11 @@ imputing missing gene expression measurements](https://arxiv.org/pdf/1905.02269.
 
 - [FiRE](https://github.com/princethewinner/FiRE) - [python, R, C++] - Finder of rare entities (FiRE) helps identify rare cell types in voluminous single-cell datasets. Design of FiRE is inspired by the observation that rareness estimation of a particular data point is the flip side of measuring the density around it. In principle, FiRE uses the Sketching technique, a variant of locality sensitive hashing, to assign rareness score to every cell.
 [Paper](https://www.nature.com/articles/s41467-018-07234-6)
+
+### Cellular interactions/communication
+
+- [CellPhoneDB](https://github.com/ventolab/CellphoneDB) - [python] Publicly available repository of curated receptors, ligands and their interactions in humam (subunit architecture is included for both ligands and receptors, representing heteromeric complexes accurately). [Paper](https://www.nature.com/articles/s41596-020-0292-x)
+- [NicheNet](https://github.com/saeyslab/nichenetr) - [R] To study intercellular communication from a computational perspective. It uses human or mouse gene expression data of interacting cells as input and combines this with a prior model that integrates existing knowledge on ligand-to-target signaling paths. This allows to predict ligand-receptor interactions that might drive gene expression changes in cells of interest. [Paper](https://www.nature.com/articles/s41592-019-0667-5)
 
 ### Other applications
 

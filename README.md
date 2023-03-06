@@ -34,7 +34,7 @@ List of software packages (and the people developing these methods) for single-c
     - [Epigenomics](#epigenomics)
     - [Multi-assay data integration](#multi-assay-data-integration)
     - [Rare cell detection](#rare-cell-detection)
-    - [Cellular interactions](#cellular-interactions)
+    - [Cellular interactions](#cellular-interactionscommunication)
     - [Other applications](#other-applications)
     - [Spatial transcriptomics](#spatial-transcriptomics)
   - [Tutorials and workflows](#tutorials-and-workflows)

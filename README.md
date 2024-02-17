@@ -288,7 +288,7 @@ List of software packages (and the people developing these methods) for single-c
 
 ### Cell subsampling
 
-- [geosketch](https://github.com/parashardhapola/scar) - [Python] - Method to subsample massive scRNA-seq datasets while preserving rare cell states. Resulting “sketch” accelerates clustering, visualization, and integration analyses. [Paper](https://doi.org/10.1016/j.cels.2019.05.003)
+- [geosketch](https://github.com/brianhie/geosketch) - [Python] - Method to subsample massive scRNA-seq datasets while preserving rare cell states. Resulting “sketch” accelerates clustering, visualization, and integration analyses. [Paper](https://doi.org/10.1016/j.cels.2019.05.003)
 
 ### Feature (Gene) imputation
 

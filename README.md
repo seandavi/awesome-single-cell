@@ -157,6 +157,7 @@ List of software packages (and the people developing these methods) for single-c
 
 ### Gene regulatory network identification
 
+- [scPRINT](https://github.com/cantinilab/scPRINT) - [python] - scPRINT is pretrained on 50M cells to predict robust gene networks from single cell RNAseq data. [scPRINT: pre-training on 50 million cells allows robust gene network predictions](https://www.biorxiv.org/content/10.1101/2024.07.29.605556v1)
 - [Dictys](https://github.com/pinellolab/dictys) - [Python] - Dictys reconstructs and analyzes context specific and dynamic Gene Regulatory Networks from scRNA-seq and scATAC-seq datasets. [Dictys: dynamic gene regulatory network dissects developmental continuum with single-cell multiomics](https://www.nature.com/articles/s41592-023-01971-3)
 - [Normalisr](https://github.com/lingfeiwang/normalisr) - [Python, Shell] - Normalisr infers Gene Regulatory Networks from Perturb-seq and other single-cell CRISPR screens. Its normalization and statistical association testing framework also unifies single-cell differential expression and co-expression. [Single-cell normalization and association testing unifying CRISPR screen and gene co-expression analyses with Normalisr](https://doi.org/10.1038/s41467-021-26682-1).
 - [SCENIC](https://github.com/aertslab/SCENIC) - [R] - SCENIC is an R package to infer Gene Regulatory Networks and cell types from single-cell RNA-seq data. [SCENIC: single-cell regulatory network inference and clustering](https://www.nature.com/articles/nmeth.4463)
@@ -198,6 +199,7 @@ List of software packages (and the people developing these methods) for single-c
 - [scvis](https://bitbucket.org/jerry00/scvis-dev) - [python] - [Interpretable dimensionality reduction of single cell transcriptome data with deep generative models](https://doi.org/10.1101/178624)
 - [SWNE](https://github.com/yanwu2014/swne) - [R] - [Visualizing single-cell RNA-seq datasets with Similarity Weighted Nonnegative Embedding (SWNE)](https://www.biorxiv.org/content/early/2018/03/05/276261)
 - [ZIFA](https://github.com/epierson9/ZIFA) - [Python] - Zero-inflated dimensionality reduction algorithm for single-cell data.
+- [scPRINT](https://github.com/cantinilab/scPRINT) - [python] - scPRINT is pretrained on 50M cells and generates multiple cell embeddings from single cell RNAseq profiles. [scPRINT: pre-training on 50 million cells allows robust gene network predictions](https://www.biorxiv.org/content/10.1101/2024.07.29.605556v1)
 
 ### Archetypal analysis
 
@@ -220,6 +222,7 @@ List of software packages (and the people developing these methods) for single-c
 - [scPLS](https://github.com/ChenMengjie/Citrus) - [C++, R] - A normalization method to remove unwanted variation using both control and target genes. It takes advantage of the fact that genes in a scRNAseq study often can be naturally classified into two sets: a control set of genes that are free of effects of the predictor variables and a target set of genes that are of primary interest. By modeling the two sets of genes jointly using the partial least squares regression, scPLS is capable of making full use of the data to improve the inference of confounding effects. https://www.nature.com/articles/s41598-017-13665-w
 - [TASC](https://github.com/scrna-seq/TASC) - [C++, python] - To account for cell-to-cell technical differences, we propose a statistical framework, TASC (Toolkit for Analysis of Single Cell RNA-seq), an empirical Bayes approach to reliably model the cell-specific dropout rates and amplification bias by use of external RNA spike-ins. TASC incorporates the technical parameters, which reflect cell-to-cell batch effects, into a hierarchical mixture model to estimate the biological variance of a gene and detect differentially expressed genes. More importantly, TASC is able to adjust for covariates to further eliminate confounding that may originate from cell size and cell cycle differences.
 - [UNCURL](https://github.com/yjzhang/uncurl_python) - [Python] - Unsupervised and semi-supervised sampling effect removal for single-cell RNA-seq data.
+  
 
 ### Cell projection and unimodal integration
 
@@ -275,6 +278,7 @@ List of software packages (and the people developing these methods) for single-c
 - [DeepSort](https://github.com/ZJUFanLab/DeepSort) - [python] - A reference-free  cell-type annotation tool for single-cell RNA-seq data using deep learning with a weighted graph neural network, which is learned based on the most comprehensive  single-cell transcriptomics atlases involving 764,741 cells across 88 tissues of human and mouse. [bioRxiv](https://www.biorxiv.org/content/10.1101/2020.05.13.094953v1)
 - [ImmClassifier](https://github.com/xliu-uth/ImmClassifier) - [R,python,Docker] - A cell type annotation algorithm that employs a knowledge-based approach to annotating cells based on their underlying ontology and multitudes of previously-published data. By encoding immune cell hierarchy in a neural network, ImmClassifier is able to identify fine-grained cell types with high accuracy. By running in Docker the tool is platform-agnostic. [bioRxiv](https://www.biorxiv.org/content/10.1101/2020.03.23.002758v1)
 - [Celltypist](https://pypi.org/project/celltypist-dev/) - [Python] - Celltypist is an automated cell type annotation tool for scRNA-seq datasets on the basis of logistic regression classifiers optimized by the stochastic gradient descent algorithm. Celltypist provides several different models for predictions, with a current focus on immune sub-populations, in order to assist in the accurate classification of different cell types and subtypes.
+- [scPRINT](https://github.com/cantinilab/scPRINT) - [python] - scPRINT is pretrained on 50M cells to predict multiple cell labels de novo, from  any single cell RNAseq profile. [scPRINT: pre-training on 50 million cells allows robust gene network predictions](https://www.biorxiv.org/content/10.1101/2024.07.29.605556v1)
 
 ### Doublet Identification
 
@@ -297,6 +301,8 @@ List of software packages (and the people developing these methods) for single-c
 - [NetDECODE](https://github.com/shmohammadi86/NetDECODE) - [R] - We develop an algorithm, called DECODE, to assess the extent of joint presence/absence of genes across different cells. We show that this network captures biologically-meaningful pathways, cell-type specific modules, and connectivity patterns characteristic of complex networks. We develop a model that uses this network to discriminate biological vs. technical zeros, by exploiting each gene's local neighborhood. For non-biological zeros, we build a predictive model to impute the missing value using their most informative neighbors.
 - [scImpute](https://github.com/Vivianstats/scImpute) - [R] - [scImpute: Accurate And Robust Imputation For Single Cell RNA-Seq Data](doi:10.1038/s41467-018-03405-7)
 - [VIPER](https://github.com/ChenMengjie/VIPER) - [C++, R] - A fast and accurate tool to impute zero values in single-cell RNA sequencing studies to facilitate accurate transcriptome quantification at the single-cell level. VIPER is based on nonnegative sparse regression models and is capable of progressively inferring a sparse set of local neighborhood cells that are most predictive of the expression levels of the cell of interest for imputation. A key feature of VIPER is its ability to preserve gene expression variability across cells after imputation. https://genomebiology.biomedcentral.com/articles/10.1186/s13059-018-1575-1
+- [scPRINT](https://github.com/cantinilab/scPRINT) - [python] - scPRINT is pretrained on 50M cells to denoise and perform zero imputation of any single cell RNAseq profile. [scPRINT: pre-training on 50 million cells allows robust gene network predictions](https://www.biorxiv.org/content/10.1101/2024.07.29.605556v1)
+
 
 ### Copy number analysis
 

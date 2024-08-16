@@ -405,6 +405,7 @@ imputing missing gene expression measurements](https://arxiv.org/pdf/1905.02269.
 - [Starspace](https://starspace.readthedocs.io/en/latest/) - [Python] - Defines a schema for gene or protein expression data containing spatially localized information. Converts data from a variety of assay types, including Spatial Transcriptomics, CODEX, In-situ Sequencing, MERFISH, osmFISH, and starMAP. Demonstrates how to visualize and interact with these data using common analysis packages, and convert the formats into loom and anndata objects, for downstream analysis in R and Python.
 - [SpatialDe](https://github.com/Teichlab/SpatialDE) - [Python] - [SpatialDE](https://www.nature.com/articles/nmeth.4636) is a statistical test to identify genes with spatial patterns of expression variation from multiplexed imaging or spatial RNA-sequencing data.
 - [SpaTalk](https://github.com/ZJUFanLab/SpaTalk) - [R] - [SpaTalk](https://www.nature.com/articles/s41467-022-32111-8) is a cell-cell communication inference method for either single-cell or spot-based spatially resolved transcriptomic data, e.g., STARmap, MERFISH, seqFISH, Slide-seq, 10X Visium.
+- [SpatialPrompt] (https://github.com/swainasish/SpatialPrompt) - [Python] (https://www.nature.com/articles/s42003-024-06349-5) is a spot deconvolution and domain identification method for spatially resolved transcriptomics datasets. Main advantage of this tool is, it is highly scalable for large datasets.
 
 ## Tutorials and workflows
 

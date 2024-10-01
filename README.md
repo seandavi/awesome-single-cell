@@ -168,6 +168,7 @@ List of software packages (and the people developing these methods) for single-c
 
 - [DALI](https://github.com/vibscc/DALI) - [R] Diversity AnaLysis Interface (DALI) is a tool that enables TCR and BCR analysis in the Seurat ecosystem. The functionality of the tool is also exposed via an interactive Shiny application.
 - [Scirpy](https://github.com/icbi-lab/scirpy) - [Python] - [A Scanpy extension for analyzing single-cell T-cell receptor (TCR) sequencing data](https://www.biorxiv.org/content/10.1101/2020.04.10.035865v1).
+- [scRepertoire](https://github.com/ncborcherding/scRepertoire) - [R] - [scRepertoire: An R-based toolkit for single-cell immune receptor analysis](10.12688/f1000research.22139.2)
 - [TraCeR](http://github.com/teichlab/tracer) - [python] - Reconstruction of T-Cell receptor sequences from single-cell RNA-seq data.
 - [TRAPeS](https://github.com/yoseflab/trapes) - [python, C++] - TRAPeS (TCR Reconstruction Algorithm for Paired-End Single-cell), a software for reconstruction of T cell receptors (TCR) using short, paired-end single-cell RNA-sequencing.
 

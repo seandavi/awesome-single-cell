@@ -195,6 +195,7 @@ List of software packages (and the people developing these methods) for single-c
 
 ### Dimension reduction
 
+- [torchdr](https://github.com/TorchDR/TorchDR) - [python] - Dimensionality reduction toolbox using PyTorch, featuring various algorithms such as TSNE, UMAP, and more. Supports GPU acceleration to maximize computational efficiency.
 - [destiny](http://bioconductor.org/packages/destiny/) - [R] - Diffusion maps are spectral method for non-linear dimension reduction introduced by Coifman et al.(2005). Diffusion maps are based on a distance metric (diffusion distance) which is conceptually relevant to how differentiating cells follow noisy diffusion-like dynamics, moving from a pluripotent state towards more differentiated states.
 - [PHATE - Potential of Heat-diffusion for Affinity-based Transition Embedding](https://github.com/KrishnaswamyLab/PHATE) - [Python, R, matlab] - PHATE is a tool for visualizing high dimensional single-cell data with natural progressions or trajectories. PHATE uses a novel conceptual framework for learning and visualizing the manifold inherent to biological systems in which smooth transitions mark the progressions of cells from one state to another.
 - [picasso] (https://github.com/pachterlab/picasso) - [python] - Map the points of an input matrix to user-defined, n-dimensional shape coordinates, while minimizing reconstruction error using an autoencoder neural network structure.

@@ -35,6 +35,7 @@ List of software packages (and the people developing these methods) for single-c
     - [Multi-assay data integration](#multi-assay-data-integration)
     - [Rare cell detection](#rare-cell-detection)
     - [Cellular interactions](#cellular-interactionscommunication)
+    - [Single-cell large model](#Single-cell large model)
     - [Other applications](#other-applications)
     - [Spatial transcriptomics](#spatial-transcriptomics)
   - [Tutorials and workflows](#tutorials-and-workflows)
@@ -202,6 +203,7 @@ List of software packages (and the people developing these methods) for single-c
 - [SWNE](https://github.com/yanwu2014/swne) - [R] - [Visualizing single-cell RNA-seq datasets with Similarity Weighted Nonnegative Embedding (SWNE)](https://www.biorxiv.org/content/early/2018/03/05/276261)
 - [ZIFA](https://github.com/epierson9/ZIFA) - [Python] - Zero-inflated dimensionality reduction algorithm for single-cell data.
 - [scPRINT](https://github.com/cantinilab/scPRINT) - [python] - scPRINT is pretrained on 50M cells and generates multiple cell embeddings from single cell RNAseq profiles. [scPRINT: pre-training on 50 million cells allows robust gene network predictions](https://www.biorxiv.org/content/10.1101/2024.07.29.605556v1)
+- [scDEED](https://github.com/JSB-UCLA/scDEED) - [R] optimizing hyperparameters of UMAP/t-SNE, assigning each embedding a “reliability score” by permutation , manuscript open access: [Statistical method scDEED for detecting dubious 2D single-cell embeddings and optimizing t-SNE and UMAP hyperparameters](https://www.nature.com/articles/s41467-024-45891-y)
 
 ### Archetypal analysis
 
@@ -383,6 +385,12 @@ imputing missing gene expression measurements](https://arxiv.org/pdf/1905.02269.
 - [COMUNET](https://github.com/ScialdoneLab/COMUNET) - [python] - It streamlines the interpretation of the results from cell-cell communication analyses by using multiplex networks to represent and cluster all potential communication pathways between cell types. [Paper](https://academic.oup.com/bioinformatics/article/36/15/4296/5836497)
 - [CellChat](https://github.com/sqjin/CellChat) - [R] - It predicts major signaling inputs and outputs for cells and how those cells and signals coordinate for functions using network analysis and pattern recognition approaches. Through manifold learning and quantitative contrasts, CellChat classifies signaling pathways and delineates conserved and context-specific pathways across different datasets. [Paper](https://www.nature.com/articles/s41467-021-21246-9)
 - [LIANA](https://github.com/saezlab/liana/) - [R, python] - LIANA enables the use of any combination of ligand-receptor methods and resources, and their consensus. [Paper](https://www.nature.com/articles/s41467-022-30755-0)
+
+### Single-cell large model
+
+- [geneformer](https://github.com/jkobject/geneformer) - [Python] a single-cell large model training on 30 million human single-cell transcriptomics, supporting batch integration, gene dosage sensitivity predictions, chromatin dynamics prediction, network dynamics prediction, etc. manuscript open access: [Transfer learning enables predictions in network biology](https://www.nature.com/articles/s41586-023-06139-9)
+- [scGPT](https://github.com/bowang-lab/scGPT) - [Python] a single-cell large model training on 33 million human single-cell transcriptomics, supporting single-cell annotation, batch integration, perturbation prediction manuscript open access: [scGPT: toward building a foundation model for single-cell multi-omics using generative AI](https://www.nature.com/articles/s41592-024-02201-0)
+- [scFoundation](https://github.com/biomap-research/scFoundation) - [Python] a single-cell large model training on 50 million human single-cell transcriptomics with 100 million parameters, supporting single-cell clustering, drug response prediction, perturbation prediction, single-cell annotation, gene module inference, etc. manuscript open access: [Large-scale foundation model on single-cell transcriptomics](https://www.nature.com/articles/s41592-024-02305-7)
 
 
 ### Other applications

@@ -35,7 +35,7 @@ List of software packages (and the people developing these methods) for single-c
     - [Multi-assay data integration](#multi-assay-data-integration)
     - [Rare cell detection](#rare-cell-detection)
     - [Cellular interactions](#cellular-interactionscommunication)
-    - [Single-cell large model](#Single-cell large model)
+    - [Single-cell large model](#single-cell-large-model)
     - [Other applications](#other-applications)
     - [Spatial transcriptomics](#spatial-transcriptomics)
   - [Tutorials and workflows](#tutorials-and-workflows)
@@ -386,7 +386,7 @@ imputing missing gene expression measurements](https://arxiv.org/pdf/1905.02269.
 - [CellChat](https://github.com/sqjin/CellChat) - [R] - It predicts major signaling inputs and outputs for cells and how those cells and signals coordinate for functions using network analysis and pattern recognition approaches. Through manifold learning and quantitative contrasts, CellChat classifies signaling pathways and delineates conserved and context-specific pathways across different datasets. [Paper](https://www.nature.com/articles/s41467-021-21246-9)
 - [LIANA](https://github.com/saezlab/liana/) - [R, python] - LIANA enables the use of any combination of ligand-receptor methods and resources, and their consensus. [Paper](https://www.nature.com/articles/s41467-022-30755-0)
 
-### Single-cell large model
+### Single cell large model
 
 - [geneformer](https://github.com/jkobject/geneformer) - [Python] a single-cell large model training on 30 million human single-cell transcriptomics, supporting batch integration, gene dosage sensitivity predictions, chromatin dynamics prediction, network dynamics prediction, etc. manuscript open access: [Transfer learning enables predictions in network biology](https://www.nature.com/articles/s41586-023-06139-9)
 - [scGPT](https://github.com/bowang-lab/scGPT) - [Python] a single-cell large model training on 33 million human single-cell transcriptomics, supporting single-cell annotation, batch integration, perturbation prediction manuscript open access: [scGPT: toward building a foundation model for single-cell multi-omics using generative AI](https://www.nature.com/articles/s41592-024-02201-0)

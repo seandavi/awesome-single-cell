@@ -432,6 +432,8 @@ imputing missing gene expression measurements](https://arxiv.org/pdf/1905.02269.
 - [DSTG]
 - [DestVI]
 - [Tangram]
+- [CellTrek]
+- [BayesSpace]
 - [SpaGCN](https://github.com/jianhuupenn/SpaGCN) - [Python] SpaGCN is a graph convolutional network to integrate gene expression and histology to identify spatial domains and spatially variable genes. manuscript open access: [SpaGCN: Integrating gene expression, spatial location and histology to identify spatial domains and spatially variable genes by graph convolutional network](https://www.nature.com/articles/s41592-021-01255-8)
 - [PASTE2]
 - [STAGATE](https://github.com/QIFEIDKN/STAGATE) - [Python] STAGATE is designed for spatial clustering and denoising expressions of spatial resolved transcriptomics (ST) data by learning low-dimensional latent embeddings with both spatial information and gene expressions via a graph attention auto-encoder(GATE). manuscript open access: [Deciphering spatial domains from spatially resolved transcriptomics with an adaptive graph attention auto-encoder](https://www.nature.com/articles/s41467-022-29439-6)

@@ -58,6 +58,7 @@ List of software packages (and the people developing these methods) for single-c
 
 - [alevin-fry](https://github.com/COMBINE-lab/alevin-fry) - [Rust] - 🐟  Rapid, accurate and memory-frugal preprocessing of single-cell and single-nucleus RNA-seq data.
 - [anchor](https://github.com/yeolab/anchor) - [Python] - ⚓ Find bimodal, unimodal, and multimodal features in your data
+- [AnnSQL](https://github.com/ArpiarSaundersLab/annsql) - [Python] - ⛃ The AnnSQL package enables SQL based queries on AnnData objects using the DuckDB in-process database engine.
 - [ascend](https://github.com/IMB-Computational-Genomics-Lab/ascend) - [R] - ascend is an R package comprised of fast, streamlined analysis functions optimized to address the statistical challenges of single cell RNA-seq. The package incorporates novel and established methods to provide a flexible framework to perform filtering, quality control, normalization, dimension reduction, clustering, differential expression and a wide-range of plotting.
 - [BayesPrism](https://github.com/Danko-Lab/BayesPrism) - [R] - Bayesian cell Proportion Reconstruction Inferred using Statistical Marginalization (BayesPrism): A Fully Bayesian Inference of Tumor Microenvironment composition and gene expression.
 - [bigSCale](https://github.com/dfajar2/bigSCale) - [matlab] - An analytical framework for big-scale single cell data.

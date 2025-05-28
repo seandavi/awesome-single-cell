@@ -300,7 +300,7 @@ List of software packages (and the people developing these methods) for single-c
 
 ### Malignant cell identification
 
-- [scMalignantFinder]([https://github.com/ElliotXie/CASSIA](https://github.com/Jonyyqn/scMalignantFinder)) - [Python] - scMalignantFinder is a Python package designed for analyzing cancer single-cell RNA-seq and spatial transcriptomics datasets to distinguish malignant cells from their normal counterparts. Trained on over 400,000 high-quality single-cell transcriptomes, scMalignantFinder uses curated pan-cancer gene signatures for training set calibration and selects features by taking the union of differentially expressed genes across each dataset. [Communications Biology](https://doi.org/10.1038/s42003-025-07942-y)
+- [scMalignantFinder](https://github.com/Jonyyqn/scMalignantFinder) - [Python] - scMalignantFinder is a Python package designed for analyzing cancer single-cell RNA-seq and spatial transcriptomics datasets to distinguish malignant cells from their normal counterparts. Trained on over 400,000 high-quality single-cell transcriptomes, scMalignantFinder uses curated pan-cancer gene signatures for training set calibration and selects features by taking the union of differentially expressed genes across each dataset. [Communications Biology](https://doi.org/10.1038/s42003-025-07942-y)
   
 ### Doublet Identification
 

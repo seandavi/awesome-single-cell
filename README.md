@@ -26,6 +26,7 @@ List of software packages (and the people developing these methods) for single-c
     - [Simulation](#simulation)
     - [Pseudotime and trajectory inference](#pseudotime-and-trajectory-inference)
     - [Cell type identification and classification](#cell-type-identification-and-classification)
+    - [Malignant cell identification](#malignant-cell-identification)
     - [Doublet Identification](#doublet-identification)
     - [Cell subsampling](#cell-subsampling)
     - [Feature (Gene) imputation](#feature-gene-imputation)
@@ -297,6 +298,10 @@ List of software packages (and the people developing these methods) for single-c
 - [mLLMCelltype](https://github.com/cafferychen777/mLLMCelltype) - [R/Python] - A multi-model framework for single-cell RNA-seq cell type annotation using large language models (LLMs). It implements an interactive consensus mechanism where multiple LLMs collaborate to reach agreement on cell type annotations, with uncertainty quantification through consensus proportion and entropy metrics. Supports OpenAI, Anthropic, Google, and Alibaba models.
 - [CASSIA](https://github.com/ElliotXie/CASSIA) - [R/Python/Web] - CASSIA is a multi-agent large language model (LLM) framework for automated, reference-free, and interpretable cell type annotation of single-cell RNA-seq data. It includes dedicated agents for annotation, validation, formatting, quality scoring, and reporting, along with optional modules for subclustering, uncertainty quantification, retrieval-augmented generation (RAG), and annotation refinement via the Annotation Boost agent. CASSIA has been applied to correct errors in gold-standard annotations, detect mixed cell types, and accurately annotate rare cell populations across diverse species. [CASSIA: a multi-agent large language model for reference free, interpretable, and automated cell annotation of single-cell RNA-sequencing data](https://www.biorxiv.org/content/10.1101/2024.12.04.626476v2)
 
+### Malignant cell identification
+
+- [scMalignantFinder](https://github.com/Jonyyqn/scMalignantFinder) - [Python] - scMalignantFinder is a Python package designed for analyzing cancer single-cell RNA-seq and spatial transcriptomics datasets to distinguish malignant cells from their normal counterparts. Trained on over 400,000 high-quality single-cell transcriptomes, scMalignantFinder uses curated pan-cancer gene signatures for training set calibration and selects features by taking the union of differentially expressed genes across each dataset. [Communications Biology](https://doi.org/10.1038/s42003-025-07942-y)
+  
 ### Doublet Identification
 
 - [AMULET](https://github.com/UcarLab/AMULET) - [shell, Python, R] - A count based method for detecting multiplets from single nucleus ATAC-seq (snATAC-seq) data. [Genome Biology](https://doi.org/10.1186/s13059-021-02469-x)

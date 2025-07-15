@@ -184,6 +184,7 @@ List of software packages (and the people developing these methods) for single-c
 - [scRepertoire](https://github.com/BorchLab/scRepertoire) - [R] - [scRepertoire 2: Enhanced and efficient toolkit for single-cell immune profiling](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012760)
 - [TraCeR](http://github.com/teichlab/tracer) - [python] - Reconstruction of T-Cell receptor sequences from single-cell RNA-seq data.
 - [TRAPeS](https://github.com/yoseflab/trapes) - [python, C++] - TRAPeS (TCR Reconstruction Algorithm for Paired-End Single-cell), a software for reconstruction of T cell receptors (TCR) using short, paired-end single-cell RNA-sequencing.
+- [TRUST4](https://github.com/liulab-dfci/TRUST4) - [bash] - [TRUST4: immune repertoire reconstruction from bulk and single-cell RNA-seq data](https://www.nature.com/articles/s41592-021-01142-2)
 
 ### Marker and differential gene expression identification
 

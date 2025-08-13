@@ -39,6 +39,7 @@ List of software packages (and the people developing these methods) for single-c
     - [Single cell large model](#single-cell-large-model)
     - [Other applications](#other-applications)
     - [Spatial transcriptomics](#spatial-transcriptomics)
+    - [Image-based profiling](#image-based-profiling)
   - [Tutorials and workflows](#tutorials-and-workflows)
   - [Web portals, apps, and databases](#web-portals-apps-and-databases)
     - [Web portals and databases](#web-portals-and-databases)
@@ -475,6 +476,9 @@ imputing missing gene expression measurements](https://arxiv.org/pdf/1905.02269.
 - [STAligner](https://github.com/zhoux85/STAligner) - [Python] STAligner is designed for alignment and integration of spatially resolved transcriptomics data, it employs a graph attention auto-encoder neural network(GATE) to extract spatially aware embedding and introduces the triplet loss to update the spot embedding to reduce the distance from the anchor to positive spot. manuscript open access: [STAligner enables the integration and alignment of multiple spatial transcriptomics datasets](https://www.nature.com/articles/s43588-023-00543-x)
 - [Tangram](https://github.com/broadinstitute/Tangram) - [Python] Tangram is used to map single-cell (or single-nucleus) gene expression data onto spatial gene expression data designed with optimizing a specially designed mapping objective loss. manuscript open access: [Deep learning and alignment of spatially resolved single-cell transcriptomes with Tangram](https://www.nature.com/articles/s41592-021-01264-7)
 
+## Image-based profiling
+
+- [Pycytominer](https://github.com/cytomining/pycytominer) - [Python] Pycytominer is a suite of common functions used to process high dimensional readouts from high-throughput cell experiments. Manuscript: [Reproducible image-based profiling with Pycytominer](https://www.nature.com/articles/s41592-025-02611-8)
 
 ## Tutorials and workflows
 

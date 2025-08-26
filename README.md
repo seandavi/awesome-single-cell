@@ -25,7 +25,6 @@ Interact with the contents of this repository through chat, audio summary/podcas
 - [Contributors](#contributors)
 - [Citation](#citation)
 - [NotebookLM Notebook](#notebooklm-notebook)
-- [Contents](#contents)
 - [Software packages](#software-packages)
   - [RNA-seq](#rna-seq)
   - [Quality control](#quality-control)

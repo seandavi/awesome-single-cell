@@ -14,6 +14,12 @@ Made with [contrib.rocks](https://contrib.rocks).
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1117762.svg)](https://doi.org/10.5281/zenodo.1117762)
 
+## NotebookLM Notebook
+
+Interact with the contents of this repository through chat, audio summary/podcast, informational video, and interactive mindmap.
+
+- https://notebooklm.google.com/notebook/ab5c5e5c-6907-4883-8918-f4868f15ff88
+
 ## Contents
 
 - [awesome-single-cell](#awesome-single-cell)

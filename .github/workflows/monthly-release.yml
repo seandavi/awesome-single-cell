@@ -27,5 +27,5 @@ jobs:
           gh release create "${{ steps.date.outputs.date }}" \
             --title "${{ steps.date.outputs.date }}" \
             --notes "Monthly release for ${{ steps.date.outputs.date }}
-
+          
           This release was automatically created by GitHub Actions."

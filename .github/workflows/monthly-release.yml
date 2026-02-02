@@ -25,6 +25,11 @@ jobs:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           RELEASE_DATE: ${{ steps.date.outputs.date }}
         run: |
-          gh release create "${RELEASE_DATE}" \
-            --title "${RELEASE_DATE}" \
-            --notes "Monthly release for ${RELEASE_DATE}. This release was automatically created by GitHub Actions."
+          # Check if release already exists
+          if gh release view "${RELEASE_DATE}" >/dev/null 2>&1; then
+            echo "Release ${RELEASE_DATE} already exists, skipping creation"
+          else
+            gh release create "${RELEASE_DATE}" \
+              --title "${RELEASE_DATE}" \
+              --notes "Monthly release for ${RELEASE_DATE}. This release was automatically created by GitHub Actions."
+          fi

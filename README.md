@@ -12,7 +12,7 @@ Made with [contrib.rocks](https://contrib.rocks).
 
 ## Citation
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1117762.svg)](https://doi.org/10.5281/zenodo.1117762)
+[![DOI](https://zenodo.org/badge/62237945.svg)](https://doi.org/10.5281/zenodo.1117762)
 
 ## NotebookLM Notebook
 

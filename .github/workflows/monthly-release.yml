@@ -1,0 +1,37 @@
+name: Monthly Release
+
+on:
+  schedule:
+    # Run on the 1st day of every month at 00:00 UTC
+    - cron: '0 0 1 * *'
+  workflow_dispatch:  # Allow manual trigger for testing
+
+permissions:
+  contents: write  # Required for creating releases
+
+jobs:
+  create-release:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Get current date
+        id: date
+        run: echo "date=$(date +'%Y-%m-%d')" >> $GITHUB_OUTPUT
+
+      - name: Create Release
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          RELEASE_DATE: ${{ steps.date.outputs.date }}
+        run: |
+          # Check if release already exists
+          if gh release view "${RELEASE_DATE}" >/dev/null 2>&1; then
+            echo "Release ${RELEASE_DATE} already exists, skipping creation"
+          else
+            gh release create "${RELEASE_DATE}" \
+              --title "${RELEASE_DATE}" \
+              --notes "Monthly release for ${RELEASE_DATE}. This release was automatically created by GitHub Actions.
+
+This release triggers an update to the Zenodo record: https://zenodo.org/records/1169173"
+          fi

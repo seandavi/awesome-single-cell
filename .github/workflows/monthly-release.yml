@@ -31,7 +31,5 @@ jobs:
           else
             gh release create "${RELEASE_DATE}" \
               --title "${RELEASE_DATE}" \
-              --notes "Monthly release for ${RELEASE_DATE}. This release was automatically created by GitHub Actions.
-
-This release triggers an update to the Zenodo record: https://zenodo.org/records/1169173"
+              --notes "Monthly release for ${RELEASE_DATE}. This release was automatically created by GitHub Actions.\nThis release triggers an update to the Zenodo record: https://zenodo.org/records/1169173"
           fi

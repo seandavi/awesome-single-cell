@@ -23,9 +23,8 @@ jobs:
       - name: Create Release
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          RELEASE_DATE: ${{ steps.date.outputs.date }}
         run: |
-          gh release create "${{ steps.date.outputs.date }}" \
-            --title "${{ steps.date.outputs.date }}" \
-            --notes "Monthly release for ${{ steps.date.outputs.date }}
-          
-          This release was automatically created by GitHub Actions."
+          gh release create "${RELEASE_DATE}" \
+            --title "${RELEASE_DATE}" \
+            --notes "Monthly release for ${RELEASE_DATE}. This release was automatically created by GitHub Actions."

@@ -449,6 +449,7 @@ imputing missing gene expression measurements](https://arxiv.org/pdf/1905.02269.
 ### Other applications
 
 - [BASIC](http://ttic.uchicago.edu/~aakhan/BASIC/) - [python] - BASIC is a semi-de novo assembly method to determine the full-length sequence of the BCR in single B cells from scRNA-seq data.
+- [dna-claude-analysis](https://github.com/shmlkv/dna-claude-analysis) - [Python] - Personal genome analysis toolkit with Python scripts analyzing raw DNA data across 17 categories (ancestry, health risks, nutrition, pharmacogenomics, and more) and generating a terminal-style single-page HTML visualization.
 - [BPCells](https://github.com/bnprks/BPCells) - [R] - A package for high performance single cell analysis of RNA-seq and ATAC-seq datasets. BPCells provides disk-backed streaming calculations that reduce memory requirements for normalization and PCA of large scRNA-seq datasets by nearly 100-fold compared to in-memory workflows such as Scanpy.
 - [CytoSpill](https://github.com/KChen-lab/CytoSpill) - [R] - The goal of CytoSpill is to estimate and compensate spillover noises in CyTOF data, without requiring any training data.
 - [dropEst](https://github.com/hms-dbmi/dropEst) - [C++, R] - High-performance pipeline for initial analysis of droplet-based single-cell RNA-seq data (Drop-seq, inDrop, 10x and some others). Allows to estimate gene count matrix as well as diagnostic stats from fastq files with raw reads. Implements corrections for different noise sources.

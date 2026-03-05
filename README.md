@@ -20,6 +20,12 @@ Interact with the contents of this repository through chat, audio summary/podcas
 
 - https://notebooklm.google.com/notebook/ab5c5e5c-6907-4883-8918-f4868f15ff88
 
+## Package popularity
+
+Software packages sorted by Gitub Stars.
+
+- https://fbnrst.github.io/awesome-single-cell-stars/
+
 ## Contents
 
 - [Contributors](#contributors)

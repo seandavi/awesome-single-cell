@@ -362,6 +362,7 @@ Software packages sorted by Gitub Stars.
 - [scImpute](https://github.com/Vivianstats/scImpute) - [R] - [scImpute: Accurate And Robust Imputation For Single Cell RNA-Seq Data](doi:10.1038/s41467-018-03405-7)
 - [VIPER](https://github.com/ChenMengjie/VIPER) - [C++, R] - A fast and accurate tool to impute zero values in single-cell RNA sequencing studies to facilitate accurate transcriptome quantification at the single-cell level. VIPER is based on nonnegative sparse regression models and is capable of progressively inferring a sparse set of local neighborhood cells that are most predictive of the expression levels of the cell of interest for imputation. A key feature of VIPER is its ability to preserve gene expression variability across cells after imputation. https://genomebiology.biomedcentral.com/articles/10.1186/s13059-018-1575-1
 - [scPRINT](https://github.com/cantinilab/scPRINT) - [python] - scPRINT is pretrained on 50M cells to denoise and perform zero imputation of any single cell RNAseq profile. [scPRINT: pre-training on 50 million cells allows robust gene network predictions](https://www.biorxiv.org/content/10.1101/2024.07.29.605556v1)
+- * [SoftImpute](https://cran.r-project.org/web/packages/softImpute/index.html) - [R] - Matrix completion via iterative soft-thresholded SVD. Originally developed for general low-rank matrix completion, it has been applied to scRNA-seq imputation by treating the gene expression matrix as a low-rank matrix with missing (dropout) entries.
 
 
 ### Copy number analysis

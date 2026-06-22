@@ -458,6 +458,7 @@ Software packages sorted by Gitub Stars.
 
 ### Other applications
 
+- [autozyme](https://github.com/ElliotXie/autozyme) - [python, R, C++] - Autonomous multi-agent framework that speeds up single-cell software (e.g. Scanpy, Seurat) and other scientific code on CPUs while preserving the original results.
 - [BASIC](http://ttic.uchicago.edu/~aakhan/BASIC/) - [python] - BASIC is a semi-de novo assembly method to determine the full-length sequence of the BCR in single B cells from scRNA-seq data.
 - [BPCells](https://github.com/bnprks/BPCells) - [R] - A package for high performance single cell analysis of RNA-seq and ATAC-seq datasets. BPCells provides disk-backed streaming calculations that reduce memory requirements for normalization and PCA of large scRNA-seq datasets by nearly 100-fold compared to in-memory workflows such as Scanpy.
 - [CytoSpill](https://github.com/KChen-lab/CytoSpill) - [R] - The goal of CytoSpill is to estimate and compensate spillover noises in CyTOF data, without requiring any training data.

@@ -250,6 +250,7 @@ Software packages sorted by Gitub Stars.
 
 ### Archetypal analysis
 
+- [ACTIONet](https://github.com/shmohammadi86/ACTIONet) - [R/Python] - A multiresolution framework that combines archetypal analysis with manifold learning to characterize continuous single-cell state landscapes. [A multiresolution framework to characterize single-cell state landscapes](https://doi.org/10.1038/s41467-020-18416-6).
 - [scAAnet](https://github.com/AprilYuge/scAAnet_latest) - [Python] - scAAnet performs non-linear archetypal analysis through autoencoder networks to identify shared gene expression programs (GEPs) among heterogenous cell populations and infer relative activity of each GEP across cells.
 
 ### Count modelling and normalization

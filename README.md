@@ -530,6 +530,7 @@ Software packages sorted by Gitub Stars.
 
 ## Tutorials and workflows
 
+- [BioDockify Learn - Computational Biomedicine: Command Line to Single-Cell](https://learn.biodockify.com) - [Video course] - Free AI-narrated video course covering the full scRNA-seq path: command line, R, genomics foundations, then Seurat workflows (object creation, QC/filtering, normalization, PCA/UMAP, clustering, cell-type annotation, doublet detection, integration). Includes Bioinformatics & Computational Genomics course. Adapted from university curricula (UC Davis) with attribution.
 - [Analysis of single cell RNA-seq data](https://github.com/cellgeni/scRNA.seq.course) - [R and Python] - The [course](https://www.singlecellcourse.org/index.html) is taught through the University of Cambridge Bioinformatics training unit, but the material found on these pages is meant to be used for anyone interested in learning about computational analysis of scRNA-seq data.
 - [Aaron Lun's Single Cell workflow on Bioconductor](http://bioconductor.org/help/workflows/simpleSingleCell/) - [R] - This article describes a computational workflow for basic analysis of scRNA-seq data using software packages from the open-source Bioconductor project.
 - [ATAC-Seq Pipeline](https://github.com/tobiasrausch/ATACseq) - [Shell and R] - [Chromatin accessibility landscape of pediatric T-lymphoblastic leukemia and human T-cell precursors](https://www.embopress.org/doi/full/10.15252/emmm.202012104).

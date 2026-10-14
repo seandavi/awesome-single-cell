@@ -192,6 +192,7 @@ Software packages sorted by Gitub Stars.
 - [SCONE](https://github.com/YosefLab/scone) - [R] - SCONE (Single-Cell Overview of Normalized Expression), a package for single-cell RNA-seq data quality control (QC) and normalization. This data-driven framework uses summaries of expression data to assess the efficacy of normalization workflows.
 - [SinQC](http://www.morgridge.net/SinQC.html) - [R] - A Method and Tool to Control Single-cell RNA-seq Data Quality.
 - [scater](https://bioconductor.org/packages/release/bioc/html/scater.html) - [R] - Scater places an emphasis on tools for quality control, visualisation and pre-processing of data before further downstream analysis, filling a useful niche between raw RNA-sequencing count or transcripts-per-million data and more focused downstream modelling tools such as monocle, scLVM, SCDE, edgeR, limma and so on.
+- [tchem](https://github.com/Tussl-Co/TusslChemistry) - [Rust] - Names the kit, chemistry version, barcode list, cDNA strand and library type of a single-cell RNA library from the first reads of its FASTQ or BAM files (25 layouts from 11 vendors), and prints the matching Cell Ranger, STARsolo, simpleaf or kb command.
 
 ### Gene regulatory network identification
 

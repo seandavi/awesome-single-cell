@@ -550,7 +550,7 @@ Software packages sorted by Gitub Stars.
 - [Festival of Genomics California Single Cell Workshop](https://kdkorthauer.github.io/FestivalWorkshopVignettes/) - [R] - Explores basic workflow from exploratory data analysis to normalization and downstream analyses using a dataset of 1679 cells from the Allen Brain Atlas.
 - [Gilad Lab Single Cell Data Exploration](http://jdblischak.github.io/singleCellSeq/analysis/) - R-based exploration of single cell sequence data. Lots of experimentation.
 - [GPU accelerated single-cell analysis using RAPIDS](https://github.com/clara-parabricks/rapids-single-cell-examples) - NVIDIA tutorials on using RAPIDS (https://www.rapids.ai/) to accelerate single-cell analysis on GPUs.
-- [**Harvard Chan Bioinformatics Core** Single-cell RNA-seq data analysis workshop](https://github.com/hbctraining/scRNA-seq_online) | [website](https://hbctraining.github.io/scRNA-seq_online/schedule/links-to-lessons.html)
+- [**Harvard Chan Bioinformatics Core** Single-cell RNA-seq data analysis workshop](https://github.com/hbctraining/scRNA-seq_online) | [website](https://hbctraining.github.io/Intro-to-scRNAseq/schedule/links-to-lessons.html)
 - [Harvard STEM Cell Institute Single Cell Workshop 2015](http://hms-dbmi.github.io/scw/) - workshop on common computational analysis techniques for scRNA-seq data from differential expression to subpopulation identification and network analysis. [See course description for more information](http://scholar.harvard.edu/jeanfan/classes/single-cell-workshop-2015)
 - [Hemberg Lab scRNA-seq course materials](http://hemberg-lab.github.io/scRNA.seq.course/index.html)
 - [kallistobustools](https://github.com/pachterlab/kallistobustools) - kallisto | bustools workflow for pre-processing single-cell RNA-seq data.

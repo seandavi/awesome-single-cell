@@ -565,7 +565,7 @@ Software packages sorted by Gitub Stars.
 - [Using Seurat (v1.2) for unsupervised clustering and biomarker discovery](http://www.satijalab.org/seurat/get_started_v1_2.html) - 301 single cells across diverse tissues from (Pollen et al., Nature Biotechnology, 2014). Original tutorial using Seurat 1.2
 - [Using Seurat (v1.2) for spatial inference in single-cell data](http://www.satijalab.org/seurat/get_started_v1_2.html) - 851 single cells from zebrafish embryogenesis (Satija*, Farrell* et al., Nature Biotechnology, 2015). Original tutorial using Seurat 1.2
 - [Seurat (v3.0) - Guided Clustering Tutorial](https://satijalab.org/seurat/v3.0/immune_alignment.html) - new tutorial using Seurat 3.0
-- [**SIB** Single-cell Transcriptomics](https://github.com/sib-swiss/single-cell-training/) | [website](https://sib-swiss.github.io/single-cell-training/latest/)
+- [**SIB** Single-cell Transcriptomics](https://github.com/sib-swiss/single-cell-training/) | [website](https://sib-swiss.github.io/single-cell-training/)
 - [**SIB NBIS/SciLifeLab** Advanced topics in Single Cell Omics](https://github.com/NBISweden/single-cell_sib_scilifelab_2021) | [website](https://nbisweden.github.io/single-cell_sib_scilifelab_2021/)
 - [**SIB** Advanced topics in single-cell transcriptomics](https://github.com/fmicompbio/adv_scrnaseq_2020)
 - [scRNA-Seq Cardiac Development](https://github.com/Naila-Srivastava/scRNASeq-Cardiac-Development) - End-to-end scRNA-seq pipeline mapping 10 cardiac cell types using Scanpy, Nextflow and AWS Batch.

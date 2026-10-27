@@ -1,4 +1,4 @@
-Contribution and suggestions are welcome! Simply 
+Contribution and suggestions are welcome! Simply
 
 1. [Fork this repository](https://help.github.com/articles/fork-a-repo/)
 2. Make a change to README.md

@@ -15,5 +15,6 @@ Please ensure your pull request adheres to the following guidelines:
 - Order projects alphabetically within each category.
 - Check your spelling and grammar.
 - New categories, or improvements to the existing categorisation are welcome.
+- Pull requests are checked with [markdownlint](https://github.com/DavidAnson/markdownlint-cli2). To check locally, run `npx markdownlint-cli2 "**/*.md"`.
 
 Thank you for your suggestions!

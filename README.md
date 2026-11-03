@@ -535,6 +535,7 @@ Software packages sorted by Gitub Stars.
 ## Image-based profiling
 
 - [Pycytominer](https://github.com/cytomining/pycytominer) - [Python] Pycytominer is a suite of common functions used to process high dimensional readouts from high-throughput cell experiments. Manuscript: [Reproducible image-based profiling with Pycytominer](https://www.nature.com/articles/s41592-025-02611-8)
+- [CytoTable](https://github.com/cytomining/CytoTable) - [Python] - Harmonize high-content image analysis tool outputs for processing with Pycytominer and other Cytomining tools. Manuscript: [Scalable data harmonization for single-cell image-based profiling with CytoTable](https://doi.org/10.1016/j.patter.2026.101514)
 
 ## Tutorials and workflows
 
